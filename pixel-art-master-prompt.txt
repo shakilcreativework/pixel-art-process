@@ -1,0 +1,370 @@
+FINAL UNIVERSAL PIXEL GRID MASTER PROMPT
+
+Create a premium, professional, genuinely pixel-native artwork of:
+
+[DESIGN NAME]
+
+IMPORTANT:
+This must be REAL PIXEL ART constructed directly from a single unified master pixel grid.
+
+Do NOT create a normal illustration and apply a pixelation effect.
+Do NOT create vector artwork with pixel-style edges.
+Do NOT mix multiple pixel scales.
+Do NOT use smooth anti-aliased shapes.
+Do NOT use subpixel geometry.
+Do NOT introduce a finer secondary pixel grid.
+
+==================================================
+MASTER PIXEL GRID
+==================================================
+
+Establish ONE MASTER PIXEL CELL SIZE for the entire artwork before creating any element.
+
+Every visible part of the design must obey exactly the same pixel-cell system.
+
+This includes:
+- main subject
+- secondary subjects
+- silhouettes
+- contours
+- corners
+- diagonals
+- curves
+- outlines
+- highlights
+- shadows
+- textures
+- patterns
+- tiny details
+- environmental elements
+- background elements
+- reflections
+- particles
+- decorative elements
+
+ONE CANVAS.
+ONE MASTER GRID.
+ONE PIXEL SCALE.
+ONE PIXEL LANGUAGE.
+
+Never allow any object to introduce a finer or coarser visual pixel scale.
+
+==================================================
+PIXEL ART CONSTRUCTION
+==================================================
+
+Build the artwork as if it were created directly on a low-resolution pixel-art canvas by an expert pixel artist.
+
+Every form must be constructed using deliberate pixel clusters.
+
+Use:
+
+SILHOUETTE
+→ LARGE FORM
+→ SHADOW CLUSTER
+→ LIGHT CLUSTER
+→ CONTROLLED DETAIL
+
+All diagonals must use intentional stepped pixel staircases.
+
+All curves must be represented through deliberate pixel steps.
+
+All corners must be grid-aligned.
+
+All edges must remain hard and crisp.
+
+Every pixel cluster must have a visual purpose.
+
+Do not simulate pixels after finishing the artwork.
+
+The artwork itself must be fundamentally pixel-built.
+
+==================================================
+STYLE
+==================================================
+
+Classic high-quality handcrafted pixel art.
+
+Premium professional game-art pixel aesthetic.
+
+Clean, sophisticated, readable, cohesive and visually intentional.
+
+Strong silhouettes.
+Strong pixel clusters.
+Controlled contrast.
+Limited harmonious palette.
+Clear visual hierarchy.
+Excellent readability.
+
+The result must immediately look like authentic pixel art.
+
+It must NOT look like:
+
+- a vector illustration
+- a flat icon
+- a smooth digital painting
+- a 3D render
+- a photograph
+- a normal illustration with a pixel filter
+- an anti-aliased illustration
+- a vector design with stepped edges
+
+==================================================
+SUBJECT ACCURACY
+==================================================
+
+The requested design:
+
+[DESIGN NAME]
+
+must remain the clear primary subject.
+
+Preserve the recognizable identity, structure and visual meaning of the requested subject.
+
+Do not add unrelated objects.
+
+Do not replace the requested subject with another concept.
+
+Do not unnecessarily redesign the subject.
+
+Use pixel-art simplification intelligently while keeping the subject immediately recognizable.
+
+==================================================
+COMPOSITION
+==================================================
+
+Create a balanced, professional composition appropriate for:
+
+[DESIGN NAME]
+
+Use strong visual hierarchy and intentional spacing.
+
+The primary subject must receive the strongest visual attention.
+
+Secondary elements should support the subject rather than compete with it.
+
+Maintain clean negative space where appropriate.
+
+Avoid unnecessary clutter.
+
+Avoid excessive tiny details.
+
+Every element must contribute to the overall design.
+
+==================================================
+COLOR AND PALETTE
+==================================================
+
+Use a carefully controlled limited pixel-art palette.
+
+Choose colors appropriate to:
+
+[DESIGN NAME]
+
+Use color primarily to establish:
+
+- form
+- depth
+- lighting
+- separation
+- hierarchy
+- atmosphere
+
+Avoid excessive colors.
+
+Avoid random color noise.
+
+Avoid rainbow-like color variation unless specifically required by the subject.
+
+Colors should work together as one coherent pixel-art palette.
+
+==================================================
+LIGHTING AND SHADING
+==================================================
+
+Use intentional pixel-based lighting.
+
+Highlights and shadows must be constructed from discrete pixel clusters.
+
+Do NOT use smooth gradients.
+
+Do NOT use soft airbrush shading.
+
+Do NOT use blurred transitions.
+
+Use clear pixel-defined light and shadow masses.
+
+Lighting must remain visually consistent throughout the entire artwork.
+
+==================================================
+OUTLINES
+==================================================
+
+Use selective pixel-art outlines where appropriate.
+
+All outlines must follow the same master pixel grid.
+
+No anti-aliased strokes.
+
+No smooth vector strokes.
+
+No inconsistent outline scales.
+
+Do not mechanically outline every object.
+
+Use contrast and pixel clusters intelligently to define forms.
+
+==================================================
+DETAIL CONTROL
+==================================================
+
+DETAIL MUST NEVER COME AT THE COST OF PIXEL CONSISTENCY.
+
+Prefer clean, readable pixel clusters over excessive micro-detail.
+
+If a tiny detail cannot be represented cleanly using the master pixel cell:
+
+SIMPLIFY IT.
+
+If it still cannot be represented cleanly:
+
+REMOVE IT.
+
+Never introduce a smaller pixel simply to preserve unnecessary detail.
+
+The smallest visible detail must remain compatible with the dominant pixel scale.
+
+==================================================
+ABSOLUTE PIXEL PURITY RULES
+==================================================
+
+NO:
+
+- mixed pixel scales
+- micro-pixels
+- subpixel details
+- anti-aliasing
+- smooth vector curves
+- smooth gradients
+- blurred edges
+- painterly brushwork
+- photographic textures
+- realistic soft shadows
+- random pixel noise
+- excessive dithering
+- microscopic texture
+- fake pixelation
+- pixel filters
+- vector icons
+- smooth modern illustration
+- inconsistent pixel density
+- unnecessarily complicated details
+
+==================================================
+FINAL PIXEL QUALITY CONTROL
+==================================================
+
+Before finalizing, inspect the entire artwork as a strict pixel-art production asset.
+
+Check every area.
+
+If any object looks higher-resolution than the rest:
+
+SIMPLIFY IT.
+
+If any object looks lower-resolution in an unnatural way:
+
+REBUILD IT.
+
+If any diagonal looks smooth:
+
+REBUILD IT using consistent pixel steps.
+
+If any curve looks vector-like:
+
+REBUILD IT using deliberate pixel clusters.
+
+If any tiny detail introduces a smaller pixel scale:
+
+REMOVE OR SIMPLIFY IT.
+
+If any area looks like a normal illustration with pixelation applied:
+
+REBUILD THAT AREA directly from the master pixel grid.
+
+If any part contains unnecessary micro-detail:
+
+SIMPLIFY IT.
+
+The final artwork must look as though every element was created on ONE fixed low-resolution canvas.
+
+==================================================
+FINAL VISUAL TEST
+==================================================
+
+Squint at the finished artwork.
+
+The entire image must feel like one unified pixel-art object.
+
+No area should suddenly appear:
+
+- sharper
+- smoother
+- more detailed
+- more granular
+- higher resolution
+- differently pixelated
+
+than the rest.
+
+ONE MASTER GRID.
+ONE PIXEL SCALE.
+ONE VISUAL LANGUAGE.
+
+==================================================
+FINAL TARGET
+==================================================
+
+Create a polished, cohesive, professional, authentic pixel-art artwork for:
+
+[DESIGN NAME]
+
+The result should look like expert handcrafted pixel art suitable for a premium game-art collection.
+
+Prioritize in this exact order:
+
+MASTER PIXEL GRID
+>
+PIXEL AUTHENTICITY
+>
+CONSISTENT PIXEL SCALE
+>
+CLEAN PIXEL CLUSTERS
+>
+SUBJECT RECOGNITION
+>
+READABILITY
+>
+COMPOSITION
+>
+COLOR
+>
+DETAIL
+
+Do not chase maximum detail.
+
+Chase maximum pixel consistency.
+
+FINAL QUALITY TARGET: 10/10
+
+No text.
+No labels.
+No numbers.
+No watermark.
+No UI.
+No border.
+No presentation mockup.
+
+Only the finished pixel-art artwork of:
+
+[DESIGN NAME]

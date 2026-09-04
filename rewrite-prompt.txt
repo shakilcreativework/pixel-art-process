@@ -1,0 +1,1491 @@
+# FINAL PIXEL GRID MASTER — STRICT SINGLE-COLOR BACKGROUND EDITION
+
+## ABSOLUTE 16×16 CELL ARCHITECTURE + CELL PURITY + SINGLE-COLOR BACKGROUND INTEGRITY
+
+---
+
+# CREATE
+
+**[DESIGN NAME]**
+
+Generate a premium, professional, highly detailed retro pixel-art illustration depicting:
+
+**[DESIGN NAME]**
+
+The artwork must follow ALL rules below.
+
+These are not suggestions.
+
+They are mandatory construction, rendering, composition, and background requirements.
+
+---
+
+# 00 — ABSOLUTE GENERATION PRIORITY
+
+Follow these priorities in EXACT order:
+
+1. **SINGLE-COLOR BACKGROUND INTEGRITY**
+2. **ABSOLUTE 16×16 CELL PURITY**
+3. **CLEAR SUBJECT SILHOUETTE**
+4. **COMPOSITION AND VISUAL HIERARCHY**
+5. **DEPTH AND STRUCTURE**
+6. **COLOR HARMONY**
+7. **LIGHTING**
+8. **SECONDARY DETAILS**
+9. **TEXTURE**
+10. **FINE DETAIL**
+
+If any lower-priority requirement conflicts with a higher-priority requirement:
+
+**THE LOWER-PRIORITY REQUIREMENT MUST BE SIMPLIFIED OR REMOVED.**
+
+Never violate the single-color background rule.
+
+Never violate the 16×16 cell rule.
+
+---
+
+# 01 — BACKGROUND MODE SELECTION
+
+Use exactly ONE background mode.
+
+The requested background must be explicitly selected as either:
+
+### WHITE BACKGROUND MODE
+
+**Exact background color: `#FFFFFF`**
+
+or:
+
+### BLACK BACKGROUND MODE
+
+**Exact background color: `#000000`**
+
+Use ONLY the selected mode.
+
+Do not combine the two.
+
+Do not invent another background color.
+
+Do not automatically choose a different background.
+
+---
+
+# 02 — ABSOLUTE SINGLE-COLOR BACKGROUND RULE
+
+The entire background must be:
+
+**ONE SINGLE, UNIFORM, SOLID COLOR.**
+
+The background is a dedicated, immutable background layer.
+
+It must contain exactly ONE background color from edge to edge.
+
+### WHITE MODE
+
+The background must be pure:
+
+**RGB 255, 255, 255**
+
+**HEX #FFFFFF**
+
+### BLACK MODE
+
+The background must be pure:
+
+**RGB 0, 0, 0**
+
+**HEX #000000**
+
+No other background color is permitted.
+
+---
+
+# 03 — ZERO BACKGROUND COLOR VARIATION
+
+NEVER use:
+
+* near-black
+* near-white
+* off-white
+* ivory
+* cream
+* charcoal
+* gray
+* light gray
+* dark gray
+* tinted white
+* tinted black
+* blue-black
+* warm white
+* cool white
+* colored black
+* colored white
+* transparent background
+* semi-transparent background
+* gradient background
+* radial gradient
+* linear gradient
+* vignette
+* textured background
+* noisy background
+* patterned background
+* atmospheric background
+* photographic background
+* environmental background
+* decorative background
+* lighting variation in the background
+
+### STRICT COLOR PROHIBITION
+
+WHITE MODE must NOT contain:
+
+`#FFFFFE`
+
+`#FEFEFE`
+
+`#FDFDFD`
+
+`#FAFAFA`
+
+or any other near-white substitute.
+
+BLACK MODE must NOT contain:
+
+`#000001`
+
+`#010101`
+
+`#020202`
+
+`#030303`
+
+`#050505`
+
+or any other near-black substitute.
+
+The background must not merely LOOK white or black.
+
+It must be treated as an **exact single-color background requirement**.
+
+---
+
+# 04 — NO BACKGROUND EFFECTS
+
+The background itself must have:
+
+* zero gradient
+* zero lighting
+* zero shadow
+* zero glow
+* zero reflection
+* zero texture
+* zero noise
+* zero grain
+* zero particles
+* zero stars
+* zero dust
+* zero fog
+* zero smoke
+* zero atmosphere
+* zero vignette
+* zero pattern
+* zero decoration
+
+Unless the requested subject itself is intentionally placed in front of the background.
+
+The background must remain visually and structurally uniform.
+
+---
+
+# 05 — BACKGROUND MUST REMAIN A CLEAN EMPTY FIELD
+
+Treat the selected background color as an empty canvas.
+
+Do not fill empty areas with decorative content.
+
+Do not interpret:
+
+> “black background”
+
+as:
+
+> “dark night environment.”
+
+Do not interpret:
+
+> “white background”
+
+as:
+
+> “bright studio environment.”
+
+It means exactly:
+
+**SOLID #000000**
+
+or:
+
+**SOLID #FFFFFF**
+
+Nothing else.
+
+---
+
+# 06 — NO BACKGROUND VARIANT GENERATION
+
+Never generate multiple background variants in one image.
+
+Do not create:
+
+* black-to-gray transitions
+* white-to-gray transitions
+* black-to-transparent transitions
+* white-to-transparent transitions
+* different shades around objects
+* different background shades in different corners
+* different background shades behind different objects
+
+The background color must remain identical across the entire canvas.
+
+---
+
+# 07 — OBJECT EDGE / BACKGROUND INTEGRITY
+
+The boundary between the artwork and the background must be clean and intentional.
+
+Do NOT create:
+
+* anti-aliased edge pixels
+* semi-transparent edge pixels
+* blended edge pixels
+* gray halos
+* white halos around black-background artwork
+* black halos around white-background artwork
+* colored halos
+* glow spill
+* shadow spill
+* blurred edge contamination
+
+The selected background color must remain clean immediately outside every object.
+
+---
+
+# 08 — BACKGROUND ISOLATION RULE
+
+All visual detail belongs to the subject or its intentional supporting elements.
+
+Never accidentally transfer subject colors into the background.
+
+Never create isolated background-colored artifacts that appear to be unintended objects.
+
+Never create random pixels floating in empty background space.
+
+Every non-background cell must have a deliberate visual purpose.
+
+---
+
+# 09 — ASSET / ICON / ELEMENT MODE
+
+When the requested output is:
+
+* an icon
+* symbol
+* object
+* graphic element
+* sprite
+* decorative element
+* asset
+* asset collection
+* icon sheet
+* sprite sheet
+* collection of isolated objects
+
+DO NOT automatically create a scene.
+
+Place the requested elements directly against the selected single-color background.
+
+Do not add:
+
+* scenery
+* landscape
+* floor
+* sky
+* room
+* environment
+* decorative frame
+* border
+* unnecessary props
+
+unless explicitly requested.
+
+---
+
+# 10 — MULTIPLE-ASSET BACKGROUND RULE
+
+When generating multiple related elements on one canvas:
+
+* Every element must share the SAME pixel-art language.
+* Every element must use the SAME selected background.
+* The background must remain one continuous uniform color.
+* Elements must remain visually separated.
+* Do not allow objects to merge accidentally.
+* Do not create background decorations between objects.
+* Maintain sufficient negative space.
+* Keep the background completely clean.
+
+The result should look like a professionally designed pixel-art asset sheet.
+
+---
+
+# 11 — STEP-BY-STEP GENERATION PROCESS
+
+Follow this construction sequence internally:
+
+### STEP 1 — INTERPRET THE REQUEST
+
+Identify:
+
+* subject
+* object type
+* number of elements
+* composition
+* requested style
+* requested background mode
+* required colors
+* required orientation
+* required variations
+
+Do not invent unnecessary elements.
+
+---
+
+### STEP 2 — LOCK THE BACKGROUND
+
+Before constructing the artwork:
+
+1. Select WHITE MODE or BLACK MODE.
+2. Lock the background color.
+3. Apply the selected color uniformly across the entire canvas.
+4. Treat it as immutable.
+5. Never modify the background afterward.
+
+WHITE:
+
+**#FFFFFF ONLY**
+
+BLACK:
+
+**#000000 ONLY**
+
+---
+
+### STEP 3 — ESTABLISH THE 16×16 GRID
+
+Construct the entire artwork conceptually on ONE SINGLE uniform 16×16 base-cell lattice.
+
+The 16×16 cell is the smallest permitted geometric unit.
+
+The cell size must never change.
+
+---
+
+### STEP 4 — BUILD THE PRIMARY SILHOUETTE
+
+Construct the major subject using complete 16×16 cells or integer combinations of those cells.
+
+Prioritize:
+
+* recognizable silhouette
+* correct proportions
+* strong shape
+* readable structure
+
+Do not introduce micro-pixels to improve recognition.
+
+---
+
+### STEP 5 — BUILD SECONDARY FORMS
+
+Add secondary structures using the same 16×16 cell system.
+
+Every form must remain grid-quantized.
+
+---
+
+### STEP 6 — ADD INTERNAL FORMS
+
+Add:
+
+* major internal shapes
+* structural divisions
+* important markings
+* material regions
+* controlled shadows
+* highlights
+
+Every feature must remain cell-based.
+
+---
+
+### STEP 7 — ADD LIGHTING
+
+Use one clear primary lighting direction.
+
+Lighting must be expressed using complete cells or larger cell clusters.
+
+Never use smooth gradients.
+
+---
+
+### STEP 8 — ADD TEXTURE
+
+Only add texture that improves:
+
+* recognition
+* material
+* depth
+* visual hierarchy
+
+Do not use texture as random noise.
+
+---
+
+### STEP 9 — ADD CONTROLLED DETAIL
+
+More detail must come from:
+
+**MORE 16×16 CELLS**
+
+Never from:
+
+**SMALLER CELLS**
+
+If a detail cannot fit:
+
+**SIMPLIFY IT.**
+
+---
+
+### STEP 10 — FINAL BACKGROUND PROTECTION
+
+After the artwork is constructed, inspect the entire empty area.
+
+Verify that the background remains:
+
+**ONE COLOR ONLY**
+
+No accidental:
+
+* gray pixels
+* near-black pixels
+* near-white pixels
+* gradients
+* shadows
+* glows
+* noise
+* texture
+* transparency
+* color contamination
+
+---
+
+# 12 — ABSOLUTE 16×16 PIXEL ARCHITECTURE
+
+The entire artwork MUST be conceptually constructed on ONE SINGLE, UNIFORM, IMMUTABLE 16×16 base-cell lattice.
+
+This is NOT merely a pixel-art appearance requirement.
+
+This is a FUNDAMENTAL CONSTRUCTION RULE.
+
+Every visible form must be constructed from complete 16×16 cells or integer combinations of those cells, including:
+
+* major objects
+* silhouettes
+* contours
+* outlines
+* highlights
+* shadows
+* reflections
+* textures
+* patterns
+* environmental details
+* character features
+* mechanical details
+* decorative elements
+* atmospheric effects
+
+Valid construction units include:
+
+* 16×16
+* 32×16
+* 16×32
+* 32×32
+* 48×16
+* 16×48
+* 48×32
+* 32×48
+* 64×16
+* 16×64
+* 64×32
+* 32×64
+* 64×64
+
+and any larger integer combination of the same 16×16 base cell.
+
+NEVER introduce a geometric unit smaller than one complete 16×16 cell.
+
+---
+
+# 13 — ONE LATTICE / CELL OCCUPANCY LOGIC
+
+Treat the artwork as a large discrete grid.
+
+Every grid position is either:
+
+**EMPTY**
+
+or:
+
+**OCCUPIED**
+
+An occupied region must consist of complete cells.
+
+Use this construction logic:
+
+**CONCEPT
+→ BACKGROUND LOCK
+→ CELL OCCUPANCY
+→ CELL CLUSTERS
+→ SILHOUETTES
+→ OBJECTS
+→ LIGHTING
+→ DETAIL
+→ FINAL PIXEL ART**
+
+Do NOT create smooth vector geometry first and then apply a pixelated appearance.
+
+The artwork must behave as though it was constructed directly from the underlying 16×16 lattice.
+
+---
+
+# 14 — ABSOLUTE CELL-SIZE INVARIANCE
+
+CELL SIZE MUST NEVER CHANGE.
+
+Never use:
+
+* micro-pixels
+* mini-pixels
+* sub-pixels
+* half-cells
+* quarter-cells
+* fractional cells
+* single-pixel lines
+* thin sub-cell strokes
+* sub-cell textures
+* sub-cell highlights
+* sub-cell shadows
+* sub-cell noise
+* anti-aliased fragments
+
+MORE DETAIL MUST NEVER MEAN SMALLER CELLS.
+
+The only acceptable way to increase detail is:
+
+**MORE OCCUPIED 16×16 CELLS.**
+
+---
+
+# 15 — NO SUB-CELL GEOMETRY
+
+If a feature is too thin to fit within the 16×16 architecture:
+
+**SIMPLIFY IT.**
+
+Never shrink the cell.
+
+Examples:
+
+ROPE
+→ stepped 16×16 cell chain
+
+WIRE
+→ stepped 16×16 cell chain
+
+GRASS
+→ grouped stepped cell clusters
+
+HAIR
+→ grouped cell masses
+
+BRANCH
+→ stepped cell structure
+
+FENCE
+→ simplified cell structure
+
+TINY FACIAL FEATURE
+→ simplified cell symbol
+
+SMALL MARKING
+→ simplified cell pattern
+
+CELL PURITY ALWAYS TAKES PRIORITY OVER MICRO-ACCURACY.
+
+---
+
+# 16 — OUTLINE ARCHITECTURE
+
+All outlines must obey the same 16×16 architecture.
+
+Use:
+
+* single-cell borders
+* double-cell borders
+* stepped-cell contours
+* clustered borders
+* merged object-and-outline cells when necessary
+
+Never create arbitrary thin outlines.
+
+Never create sub-cell outlines.
+
+Prioritize:
+
+**CLEAR SILHOUETTE**
+
+over:
+
+**MICROSCOPIC OUTLINING**
+
+---
+
+# 17 — HIERARCHICAL CELL QUANTIZATION
+
+Keep the same cell size everywhere.
+
+Background:
+
+* low occupied-cell density
+* large simplified forms
+* minimal texture
+
+Middle ground:
+
+* moderate cell density
+* readable secondary objects
+
+Foreground:
+
+* higher cell density
+* stronger silhouettes
+* richer cell clusters
+
+Primary subject:
+
+* highest intentional cell density where appropriate
+* strongest readability
+* controlled focal detail
+
+CRITICAL:
+
+**HIGHER DETAIL = MORE CELLS**
+
+NEVER:
+
+**HIGHER DETAIL = SMALLER CELLS**
+
+---
+
+# 18 — SILHOUETTE-FIRST CONSTRUCTION
+
+Build the scene in this order:
+
+1. Large composition
+2. Primary subject silhouette
+3. Secondary silhouettes
+4. Major internal forms
+5. Lighting and shadows
+6. Controlled cell-level detail
+7. Texture and accents
+
+Major forms must remain recognizable at reduced viewing size.
+
+Never sacrifice silhouette clarity for unnecessary detail.
+
+---
+
+# 19 — ORGANIC FORM CONSTRUCTION
+
+Organic objects must remain recognizable while respecting the lattice.
+
+TREES
+→ stepped cell masses
+
+LEAVES
+→ grouped cell clusters
+
+GRASS
+→ stepped cell clusters, never thin blades
+
+FLOWERS
+→ compact cell groups
+
+CLOUDS
+→ large stepped cell masses
+
+SMOKE
+→ layered stepped cell clusters
+
+WATER
+→ horizontal and stepped cell bands
+
+MOUNTAINS
+→ large angular cell masses
+
+ANIMALS
+→ strong block silhouettes
+
+HUMANS
+→ simplified readable cell-based figures
+
+Organic realism must NEVER override cell purity.
+
+---
+
+# 20 — ARCHITECTURE AND MECHANICAL OBJECTS
+
+Buildings, castles, ships, vehicles, machines, and structures must use strong geometric cell construction.
+
+Prefer:
+
+* large rectangular cell masses
+* stepped roofs
+* block-based windows
+* cell-based doors
+* clustered mechanical components
+* stepped structural edges
+* integer cell proportions
+* simplified architectural forms
+
+Avoid microscopic trim.
+
+If complexity conflicts with the grid:
+
+**SIMPLIFY THE STRUCTURE.**
+
+Never shrink the cell.
+
+---
+
+# 21 — DIAGONALS AND CURVES
+
+ALL diagonal and curved forms must be created using complete-cell stair stepping.
+
+Never use:
+
+* smooth vector-like diagonals
+* anti-aliased diagonals
+* thin diagonal strokes
+* smooth mathematical curves
+* sub-cell edge smoothing
+
+Every diagonal must behave like:
+
+```text
+██
+  ██
+    ██
+      ██
+```
+
+where every block represents one or more complete 16×16 cells.
+
+Curves must be approximated with deliberate stepped cell clusters.
+
+---
+
+# 22 — DISCRETE SHADING SYSTEM
+
+Use classic discrete pixel-art shading.
+
+PROHIBITED:
+
+* smooth gradients
+* airbrushing
+* photographic shading
+* blur
+* soft transitions
+* sub-cell highlights
+* sub-cell shadows
+
+Use:
+
+* base-tone cells
+* shadow cells
+* deep-shadow clusters
+* highlight cells
+* accent cells
+
+Every lighting region must occupy complete cells or larger cell groups.
+
+---
+
+# 23 — PREMIUM COLOR SYSTEM
+
+Use a cohesive professional retro palette appropriate to:
+
+**[DESIGN NAME]**
+
+Prioritize:
+
+* strong base colors
+* controlled shadow colors
+* clear value separation
+* limited highlights
+* harmonious color grouping
+* purposeful accents
+* strong focal contrast
+
+Avoid:
+
+* random excessive colors
+* photographic color noise
+* muddy transitions
+* unnecessary variation
+* smooth gradients
+
+IMPORTANT:
+
+The artwork may contain multiple intentional colors.
+
+However, the **BACKGROUND itself must contain exactly ONE color.**
+
+Do not confuse:
+
+**MULTI-COLOR ARTWORK**
+
+with:
+
+**MULTI-COLOR BACKGROUND.**
+
+The subject may be richly colored.
+
+The background must remain exactly one selected color.
+
+---
+
+# 24 — LIGHTING SYSTEM
+
+Use ONE clear primary lighting direction.
+
+Lighting must be expressed through discrete cell clusters.
+
+Highlights:
+
+→ complete cells or cell groups
+
+Shadows:
+
+→ complete cells or cell groups
+
+Reflected light:
+
+→ complete cells or cell groups
+
+Glow:
+
+→ only when explicitly required, using discrete cell clusters inside the artwork
+
+Never allow glow, shadow, or reflected light to contaminate the solid background.
+
+---
+
+# 25 — COMPOSITION AND DEPTH
+
+Create a sophisticated professional composition containing, when appropriate:
+
+* foreground
+* middle ground
+* background subject layers
+* clear focal subject
+* supporting elements
+* balanced negative space
+* strong hierarchy
+* controlled depth
+* intentional overlap
+* clear storytelling
+
+Do NOT fill empty background space merely because it is available.
+
+The scene must feel:
+
+**DESIGNED**
+
+not:
+
+**RANDOMLY FILLED.**
+
+For isolated asset collections, prioritize clean spacing and separation instead of environmental depth.
+
+---
+
+# 26 — MICRO-DETAIL REPLACEMENT SYSTEM
+
+When the concept contains a feature smaller than one 16×16 cell:
+
+### STEP 1
+
+Identify the feature.
+
+### STEP 2
+
+Determine whether it can be represented with complete 16×16 cells.
+
+### STEP 3
+
+If YES, represent it using complete cells.
+
+### STEP 4
+
+If NO, simplify or remove the feature.
+
+NEVER:
+
+* shrink the cell
+* add a smaller pixel
+* draw a thin line
+* use fractional geometry
+* use anti-aliasing
+* introduce sub-cell detail
+
+Correct response:
+
+**SIMPLIFICATION**
+
+NOT:
+
+**CELL REDUCTION**
+
+---
+
+# 27 — DETAIL ECONOMY
+
+Do not maximize detail everywhere.
+
+Use intentional detail.
+
+BACKGROUND AREA:
+
+**ZERO decorative detail.**
+
+MIDDLE GROUND:
+
+**MEDIUM detail where required.**
+
+FOREGROUND:
+
+**HIGH detail where useful.**
+
+PRIMARY SUBJECT:
+
+**HIGH but controlled detail.**
+
+TINY OBJECTS:
+
+**SIMPLIFIED detail.**
+
+Every occupied cell should contribute to:
+
+* shape
+* depth
+* lighting
+* texture
+* recognition
+* composition
+* storytelling
+
+Avoid meaningless visual noise.
+
+---
+
+# 28 — PIXEL CLUSTER QUALITY
+
+Prefer meaningful connected cell clusters.
+
+Avoid:
+
+* isolated random cells
+* unnecessary single-cell noise
+* chaotic checkerboard patterns
+* random texture
+* accidental broken contours
+* meaningless scattered pixels
+
+Clusters must feel:
+
+**DESIGNED**
+
+**CONNECTED**
+
+**PURPOSEFUL**
+
+**READABLE**
+
+---
+
+# 29 — EDGE PURITY
+
+Every visible edge must be intentionally quantized to the 16×16 grid.
+
+PROHIBITED:
+
+* anti-aliased edges
+* smooth vector curves
+* sub-cell diagonal smoothing
+* blurred boundaries
+* fractional edge pixels
+* soft outlines
+* vector-like contours
+
+Every edge must be formed from complete-cell steps or larger integer cell structures.
+
+---
+
+# 30 — MATERIAL AND SURFACE TEXTURE
+
+All textures must obey the same lattice.
+
+STONE
+→ cell clusters
+
+WOOD
+→ cell bands
+
+WATER
+→ horizontal cell bands
+
+METAL
+→ block-based highlights
+
+FABRIC
+→ simplified cell patterns
+
+GROUND
+→ controlled cell clusters
+
+CLOUDS
+→ stepped cell masses
+
+BRICK
+→ larger block patterns
+
+SAND
+→ controlled cell clusters
+
+Never use texture as an excuse to introduce smaller pixels.
+
+Texture complexity must come from:
+
+**MORE CELLS**
+
+not:
+
+**SMALLER CELLS**
+
+---
+
+# 31 — REFLECTION ARCHITECTURE
+
+All reflections must remain grid-quantized.
+
+Use:
+
+* complete horizontal cells
+* stepped vertical cell groups
+* controlled broken cell clusters
+* simplified mirrored structures
+
+Never use smooth reflection gradients.
+
+Never allow reflections to become background color variation.
+
+---
+
+# 32 — ATMOSPHERIC EFFECTS
+
+Atmospheric effects are permitted ONLY when they are part of the requested artwork.
+
+Examples:
+
+* pixel clouds
+* pixel mist
+* pixel smoke
+* pixel glow
+* pixel stars
+* pixel rain
+* pixel particles
+* pixel dust
+
+Every atmospheric component must remain constructed from complete cells or larger cell clusters.
+
+IMPORTANT:
+
+Atmospheric effects must never become a background decoration when a clean isolated background is requested.
+
+---
+
+# 33 — ABSOLUTE ANTI-ALIASING PROHIBITION
+
+Absolutely NO:
+
+* anti-aliasing
+* sub-pixel smoothing
+* soft edges
+* blur
+* vector smoothing
+* gradient interpolation
+* photographic rendering
+* continuous fine lines
+* fractional geometry
+* sub-cell edge treatment
+
+The artwork must have deliberate, hard-edged, cell-quantized boundaries.
+
+---
+
+# 34 — RESOLUTION INDEPENDENCE
+
+The final artwork may be rendered at a large output resolution.
+
+However, the underlying visual construction must remain governed by the SAME 16×16 base-cell architecture.
+
+Increasing output resolution must NOT create smaller visual cells.
+
+Larger output resolution means:
+
+**MORE 16×16 CELLS**
+
+It does NOT mean:
+
+**SMALLER CELLS.**
+
+---
+
+# 35 — PREMIUM COMMERCIAL QUALITY
+
+The final artwork should look professionally designed and commercially usable.
+
+Prioritize:
+
+* strong composition
+* immediate subject recognition
+* professional color harmony
+* excellent silhouettes
+* visual storytelling
+* convincing depth
+* controlled detail
+* clean cell clusters
+* consistent pixel language
+* strong focal hierarchy
+* broad usability
+* polished presentation
+
+Avoid amateur randomness.
+
+Avoid meaningless detail.
+
+Avoid over-rendering.
+
+---
+
+# 36 — FINAL BACKGROUND INTEGRITY CHECK
+
+Before finalizing the image, inspect the background as a separate system.
+
+### BACKGROUND CHECK
+
+Confirm:
+
+* Is the background exactly one selected color?
+* Is WHITE MODE exactly `#FFFFFF`?
+* Is BLACK MODE exactly `#000000`?
+* Is the entire background uniform?
+* Are there any near-white pixels?
+* Are there any near-black pixels?
+* Are there any gray pixels?
+* Are there any tinted pixels?
+* Are there any gradients?
+* Are there any shadows?
+* Are there any glows?
+* Are there any reflections?
+* Are there any textures?
+* Are there any particles?
+* Is there any transparency?
+* Is there any background noise?
+* Is there any vignette?
+* Is there any color contamination around object edges?
+* Are there any anti-aliased background-edge pixels?
+* Are there any accidental decorative elements?
+
+If ANY answer indicates a violation:
+
+**REMOVE, REPLACE, OR SIMPLIFY THE VIOLATION.**
+
+The background must return to ONE SINGLE SOLID COLOR.
+
+---
+
+# 37 — FINAL STRUCTURAL QUALITY CHECK
+
+Inspect the entire artwork as a single 16×16 lattice.
+
+Verify:
+
+* underlying unit is exactly 16×16
+* no visible feature contains a smaller geometric unit
+* no line is thinner than one complete cell
+* all diagonals use complete-cell stepping
+* all curves use complete-cell stepping
+* highlights are complete-cell structures
+* shadows are complete-cell structures
+* textures are complete-cell structures
+* reflections are complete-cell structures
+* atmospheric effects are complete-cell structures
+* tiny objects are simplified
+* no sub-cell details exist
+* no anti-aliased edges exist
+* no smooth vector-like contours exist
+* no detail accidentally created smaller cells
+* all detail comes from ADDING CELLS
+
+If any violation exists:
+
+**SIMPLIFY THE DETAIL.**
+
+Do not reduce the cell size.
+
+---
+
+# 38 — FINAL COMPOSITION CHECK
+
+Verify:
+
+* subject is immediately recognizable
+* composition is balanced
+* objects do not merge unintentionally
+* asset spacing is clean
+* focal subject is clear
+* negative space is intentional
+* no unnecessary objects were invented
+* no unnecessary environment was invented
+* no text was added
+* no watermark was added
+* no logo was added
+* no border was added
+* no frame was added
+* no decorative background was added unless explicitly requested
+
+---
+
+# 39 — FINAL PIXEL-ART IDENTITY CHECK
+
+The result MUST read as:
+
+**TRUE CELL-CONSTRUCTED PIXEL ART**
+
+NOT:
+
+* vector art with a pixel filter
+* smooth artwork with pixelation
+* fake pixel art
+* anti-aliased pixel art
+* miniature-pixel artwork
+* rasterized vector artwork
+
+The visual language must feel as though the entire artwork was intentionally designed from a single, uniform, immutable 16×16 cell system from the beginning.
+
+---
+
+# 40 — ABSOLUTE FINAL COMMAND
+
+THE 16×16 CELL IS SACRED.
+
+DO NOT BREAK IT FOR:
+
+* detail
+* realism
+* thin lines
+* curves
+* small objects
+* texture
+* lighting
+* outlines
+* architectural complexity
+* mechanical complexity
+* atmospheric effects
+* visual realism
+
+AND:
+
+# THE BACKGROUND COLOR IS SACRED.
+
+DO NOT CHANGE IT FOR:
+
+* realism
+* lighting
+* atmosphere
+* shadows
+* glow
+* depth
+* decoration
+* visual effects
+* environmental interpretation
+
+When detail conflicts with cell purity:
+
+**REMOVE OR SIMPLIFY THE DETAIL.**
+
+When a shape is too thin:
+
+**MAKE IT THICKER OR SIMPLIFY IT.**
+
+When a curve is too fine:
+
+**USE A LARGER STEPPED CELL CLUSTER.**
+
+When a diagonal is too fine:
+
+**USE A LARGER STEPPED CELL CLUSTER.**
+
+When a small feature cannot fit:
+
+**REPRESENT ITS IDEA WITH FEWER COMPLETE CELLS.**
+
+When a background effect conflicts with the single-color background:
+
+**REMOVE THE BACKGROUND EFFECT.**
+
+When a background color is not exactly the selected color:
+
+**REPLACE IT WITH THE SELECTED EXACT COLOR.**
+
+NEVER:
+
+**CREATE A SMALLER CELL.**
+
+NEVER:
+
+**CREATE A SECOND BACKGROUND COLOR.**
+
+---
+
+# 41 — FINAL TARGET
+
+Create:
+
+**[DESIGN NAME]**
+
+as a:
+
+**PREMIUM
+PROFESSIONAL
+COMPOSITIONALLY STRONG
+HIGHLY RECOGNIZABLE
+VISUALLY POLISHED
+COMMERCIAL-QUALITY
+RETRO PIXEL-ART DESIGN**
+
+with:
+
+* rich visual storytelling when appropriate
+* strong silhouettes
+* clear depth when appropriate
+* cohesive color harmony
+* controlled detail
+* professional composition
+* consistent pixel language
+
+WHILE MAINTAINING:
+
+**100% UNIFORM CELL SIZE**
+
+**100% 16×16 BASE-CELL ARCHITECTURE**
+
+**100% COMPLETE-CELL CONSTRUCTION**
+
+**ZERO SUB-CELL GEOMETRY**
+
+**ZERO MICRO-PIXELS**
+
+**ZERO FRACTIONAL CELLS**
+
+**ZERO ANTI-ALIASING**
+
+**ZERO CELL-SIZE ESCALATION**
+
+**ZERO DETAIL-DRIVEN CELL SHRINKING**
+
+**ZERO SMOOTH VECTOR-LIKE EDGES**
+
+AND:
+
+**100% SINGLE-COLOR BACKGROUND**
+
+**100% UNIFORM BACKGROUND**
+
+**ZERO BACKGROUND COLOR VARIATION**
+
+**ZERO NEAR-BLACK BACKGROUND**
+
+**ZERO NEAR-WHITE BACKGROUND**
+
+**ZERO BACKGROUND GRADIENT**
+
+**ZERO BACKGROUND TEXTURE**
+
+**ZERO BACKGROUND NOISE**
+
+**ZERO BACKGROUND SHADOW**
+
+**ZERO BACKGROUND GLOW**
+
+**ZERO BACKGROUND TRANSPARENCY**
+
+**ZERO BACKGROUND COLOR CONTAMINATION**
+
+---
+
+# FINAL RULE
+
+DETAIL MUST COME FROM:
+
+**MORE CELLS.**
+
+NEVER:
+
+**SMALLER CELLS.**
+
+BACKGROUND MUST COME FROM:
+
+**ONE EXACT SOLID COLOR.**
+
+NEVER:
+
+**A COLOR VARIATION.**
+
+---
+
+# FINAL IDENTITY
+
+**ONE GRID.
+ONE CELL SIZE.
+ONE BACKGROUND COLOR.
+COMPLETE CELL OCCUPANCY.
+ZERO SUB-CELL GEOMETRY.
+ZERO BACKGROUND VARIATION.**
+
+**DETAIL = MORE CELLS.**
+
+**BACKGROUND = ONE EXACT COLOR.**

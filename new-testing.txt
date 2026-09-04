@@ -1,0 +1,1011 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                  FINAL PIXEL GRID MASTER — 10/10                   ║
+║       ABSOLUTE 16×16 CELL ARCHITECTURE + CELL PURITY              ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+
+CREATE:
+[DESIGN NAME]
+
+Generate a premium, professional, highly detailed retro pixel-art
+illustration depicting:
+
+[DESIGN NAME]
+
+
+======================================================================
+01 — ABSOLUTE 16×16 PIXEL ARCHITECTURE
+======================================================================
+
+The entire artwork MUST be conceptually constructed on ONE SINGLE,
+UNIFORM, IMMUTABLE 16×16 base-cell lattice.
+
+The 16×16 cell is the SMALLEST permitted geometric unit anywhere
+in the artwork.
+
+This is NOT merely a pixel-art appearance requirement.
+
+This is a FUNDAMENTAL CONSTRUCTION RULE.
+
+Every visible form must be constructed from complete 16×16 cells or
+integer combinations of those cells, including:
+
+• major objects
+• silhouettes
+• contours
+• outlines
+• highlights
+• shadows
+• reflections
+• textures
+• patterns
+• environmental details
+• character features
+• mechanical details
+• decorative elements
+• atmospheric effects
+
+VALID CONSTRUCTION UNITS INCLUDE:
+
+16×16
+32×16
+16×32
+32×32
+48×16
+16×48
+48×32
+32×48
+64×16
+16×64
+64×32
+32×64
+64×64
+
+and any larger INTEGER combination of the same 16×16 base cell.
+
+NEVER introduce a geometric unit smaller than one complete 16×16 cell.
+
+
+======================================================================
+02 — ONE LATTICE / CELL OCCUPANCY LOGIC
+======================================================================
+
+Treat the entire artwork as a large discrete grid.
+
+Every grid position is either:
+
+EMPTY
+
+or
+
+OCCUPIED.
+
+An occupied region must consist of complete cells.
+
+Construct the artwork using this sequence:
+
+CONCEPT
+→ CELL OCCUPANCY
+→ CELL CLUSTERS
+→ SILHOUETTES
+→ OBJECTS
+→ SCENE
+→ FINAL PIXEL ART
+
+Do NOT create smooth vector geometry first and then apply a pixelated
+appearance.
+
+The artwork must visually behave as though it was constructed directly
+from the underlying 16×16 lattice.
+
+Every contour must result from adding or removing complete cells.
+
+Every diagonal must be a stepped cell structure.
+
+Every curve must be a stepped cell structure.
+
+Every narrow feature must be simplified into readable cell clusters.
+
+If a visual feature cannot be represented cleanly using complete
+16×16 cells:
+
+SIMPLIFY IT.
+
+DO NOT SHRINK THE CELL.
+
+
+======================================================================
+03 — ABSOLUTE CELL-SIZE INVARIANCE
+======================================================================
+
+CELL SIZE MUST NEVER CHANGE.
+
+The artwork MUST NOT contain:
+
+• micro-pixels
+• mini-pixels
+• sub-pixels
+• half-cells
+• quarter-cells
+• fractional cells
+• single-pixel lines
+• thin sub-cell strokes
+• sub-cell textures
+• sub-cell highlights
+• sub-cell shadows
+• sub-cell noise
+• anti-aliased fragments
+
+MORE DETAIL MUST NEVER MEAN SMALLER CELLS.
+
+The only acceptable way to increase detail is:
+
+MORE OCCUPIED 16×16 CELLS.
+
+NOT:
+
+SMALLER CELLS.
+
+DETAIL DENSITY MAY CHANGE.
+
+CELL SIZE MAY NOT CHANGE.
+
+
+======================================================================
+04 — NO SUB-CELL GEOMETRY
+======================================================================
+
+This rule has ABSOLUTE PRIORITY.
+
+Never draw a feature thinner than one base cell simply because the
+real-world object is thin.
+
+Instead, convert the feature into the closest readable
+16×16-based structure.
+
+Examples:
+
+ROPE
+→ stepped 16×16 cell chain
+
+WIRE
+→ stepped 16×16 cell chain
+
+GRASS
+→ grouped stepped cell clusters
+
+HAIR
+→ grouped cell masses
+
+SWORD EDGE
+→ stepped complete-cell contour
+
+PROPeller
+→ thickened stepped cell blades
+
+BRANCH
+→ stepped cell structure
+
+FENCE
+→ simplified cell-based structure
+
+ARCHITECTURAL TRIM
+→ larger simplified cell blocks
+
+TINY FACIAL FEATURE
+→ simplified cell symbol
+
+SMALL MARKING
+→ simplified cell pattern
+
+REFLECTION
+→ complete-cell horizontal or stepped clusters
+
+If the original feature would require geometry smaller than 16×16:
+
+DO NOT DRAW IT AT A SMALLER SCALE.
+
+SIMPLIFY IT.
+
+CELL PURITY ALWAYS TAKES PRIORITY OVER MICRO-ACCURACY.
+
+
+======================================================================
+05 — OUTLINE ARCHITECTURE
+======================================================================
+
+All outlines MUST obey the same 16×16 cell architecture.
+
+Use:
+
+• single-cell borders
+• double-cell borders
+• stepped-cell contours
+• clustered borders
+• merged object-and-outline cells when necessary
+
+Never create an arbitrary thin outline.
+
+Never create a sub-cell outline around an object.
+
+At small scales, merge the outline with the object's cell structure
+when necessary.
+
+Prioritize:
+
+CLEAR SILHOUETTE
+
+over
+
+MICROSCOPIC OUTLINING.
+
+
+======================================================================
+06 — HIERARCHICAL CELL QUANTIZATION
+======================================================================
+
+Use DIFFERENT CELL DENSITIES for visual depth while keeping the
+CELL SIZE IDENTICAL everywhere.
+
+BACKGROUND:
+• low occupied-cell density
+• large simplified forms
+• minimal texture
+• reduced visual complexity
+
+MIDDLE GROUND:
+• moderate cell density
+• readable secondary objects
+• controlled environmental detail
+
+FOREGROUND:
+• higher cell density
+• stronger silhouettes
+• richer cell clusters
+• increased visual information
+
+PRIMARY SUBJECT:
+• highest intentional cell density where appropriate
+• strongest readability
+• controlled focal detail
+
+CRITICAL RULE:
+
+HIGHER DETAIL = MORE CELLS.
+
+NEVER:
+
+HIGHER DETAIL = SMALLER CELLS.
+
+
+======================================================================
+07 — SILHOUETTE-FIRST CONSTRUCTION
+======================================================================
+
+Every major object MUST have a strong, readable silhouette.
+
+Build the scene in this order:
+
+1. Large composition
+2. Primary subject silhouette
+3. Secondary silhouettes
+4. Major internal forms
+5. Lighting and shadows
+6. Controlled cell-level detail
+7. Texture and accents
+
+Major forms must remain recognizable at reduced viewing size.
+
+Never sacrifice silhouette clarity for unnecessary detail.
+
+The scene should communicate its subject immediately.
+
+
+======================================================================
+08 — ORGANIC FORM CONSTRUCTION
+======================================================================
+
+Organic objects must remain recognizable while respecting the lattice.
+
+TREES:
+stepped cell masses
+
+LEAVES:
+grouped cell clusters
+
+GRASS:
+stepped cell clusters, NEVER thin blades
+
+FLOWERS:
+compact cell groups
+
+CLOUDS:
+large stepped cell masses
+
+SMOKE:
+layered stepped cell clusters
+
+WATER:
+horizontal and stepped cell bands
+
+MOUNTAINS:
+large angular cell masses
+
+ANIMALS:
+strong block silhouettes with grouped cell structures
+
+HUMANS:
+simplified, readable cell-based figures
+
+Organic realism must NEVER override cell purity.
+
+
+======================================================================
+09 — ARCHITECTURE AND MECHANICAL OBJECTS
+======================================================================
+
+Buildings, castles, ships, vehicles, machines and structures must use
+strong geometric cell construction.
+
+Prefer:
+
+• large rectangular cell masses
+• stepped roofs
+• block-based windows
+• cell-based doors
+• clustered mechanical components
+• stepped structural edges
+• integer cell proportions
+• simplified architectural forms
+
+Avoid microscopic trim.
+
+If architectural complexity conflicts with the grid:
+
+SIMPLIFY THE ARCHITECTURE.
+
+NEVER SHRINK THE CELL.
+
+
+======================================================================
+10 — DIAGONALS AND CURVES
+======================================================================
+
+ALL diagonal and curved forms MUST be created using complete-cell
+stair stepping.
+
+NEVER use:
+
+• smooth vector-like diagonals
+• anti-aliased diagonals
+• thin diagonal strokes
+• smooth mathematical curves
+• sub-cell edge smoothing
+
+A diagonal should visually behave like:
+
+██
+  ██
+    ██
+      ██
+
+where every block represents one or more COMPLETE 16×16 cells.
+
+Curves must be approximated using deliberate stepped cell clusters.
+
+The stepped structure should feel intentional and visually clean.
+
+
+======================================================================
+11 — DISCRETE SHADING SYSTEM
+======================================================================
+
+Use classic discrete pixel-art shading.
+
+PROHIBITED:
+
+• smooth gradients
+• airbrushing
+• photographic shading
+• blur
+• soft transitions
+• sub-cell highlights
+• sub-cell shadows
+
+Use discrete regions such as:
+
+• base-tone cells
+• shadow cells
+• deep-shadow clusters
+• highlight cells
+• accent cells
+
+Every lighting region must occupy complete cells or larger cell groups.
+
+Shading must communicate:
+
+• volume
+• depth
+• material
+• lighting
+• separation
+
+without breaking cell purity.
+
+
+======================================================================
+12 — PREMIUM COLOR SYSTEM
+======================================================================
+
+Use a cohesive, professional retro palette appropriate to:
+
+[DESIGN NAME]
+
+Prioritize:
+
+• strong base colors
+• controlled shadow colors
+• clear value separation
+• limited highlight colors
+• harmonious color grouping
+• purposeful accent colors
+• strong focal contrast
+
+Avoid:
+
+• random excessive colors
+• photographic color noise
+• muddy color transitions
+• unnecessary color variation
+• smooth gradients
+
+Color changes should support the cell architecture and visual hierarchy.
+
+
+======================================================================
+13 — LIGHTING SYSTEM
+======================================================================
+
+Use ONE clear primary lighting direction.
+
+Lighting must be expressed through discrete cell clusters.
+
+HIGHLIGHTS:
+complete cells or cell groups
+
+SHADOWS:
+complete cells or cell groups
+
+REFLECTED LIGHT:
+complete cells or cell groups
+
+GLOW:
+larger layered cell clusters, NEVER smooth gradients
+
+Maintain strong lighting readability while preserving the
+16×16 construction system.
+
+
+======================================================================
+14 — COMPOSITION AND DEPTH
+======================================================================
+
+Create a sophisticated, professionally designed composition containing:
+
+• foreground
+• middle ground
+• background
+• clear focal subject
+• supporting secondary elements
+• balanced negative space
+• strong visual hierarchy
+• controlled depth
+• intentional overlap
+• clear storytelling
+
+Use large overlapping cell masses to establish depth.
+
+Do NOT fill every available area with detail.
+
+The scene must feel:
+
+DESIGNED
+
+not
+
+RANDOMLY FILLED.
+
+
+======================================================================
+15 — MICRO-DETAIL REPLACEMENT SYSTEM
+======================================================================
+
+When the concept contains a feature smaller than one 16×16 cell:
+
+STEP 1:
+Identify the feature.
+
+STEP 2:
+Determine whether it can be represented using one or more complete
+16×16 cells.
+
+STEP 3:
+If YES, represent it using complete cells.
+
+STEP 4:
+If NO, simplify or remove the feature.
+
+NEVER:
+
+• shrink the cell
+• add a smaller pixel
+• draw a thin line
+• use fractional geometry
+• use anti-aliasing
+• introduce sub-cell detail
+
+The correct response to impossible micro-detail is:
+
+SIMPLIFICATION.
+
+NOT:
+
+CELL REDUCTION.
+
+
+======================================================================
+16 — DETAIL ECONOMY
+======================================================================
+
+Do not maximize detail everywhere.
+
+Use INTENTIONAL DETAIL.
+
+BACKGROUND:
+LOW detail
+
+MIDDLE GROUND:
+MEDIUM detail
+
+FOREGROUND:
+HIGH detail
+
+PRIMARY SUBJECT:
+HIGH but controlled detail
+
+TINY OBJECTS:
+SIMPLIFIED detail
+
+Every occupied cell should contribute to at least one of:
+
+• shape
+• depth
+• lighting
+• texture
+• recognition
+• composition
+• storytelling
+
+Avoid meaningless visual noise.
+
+
+======================================================================
+17 — PIXEL CLUSTER QUALITY
+======================================================================
+
+Prefer meaningful connected cell clusters.
+
+Avoid:
+
+• isolated random cells
+• unnecessary single-cell noise
+• chaotic checkerboard patterns
+• random texture
+• accidental broken contours
+• meaningless scattered pixels
+
+Use deliberate clusters that communicate form.
+
+Clusters must feel:
+
+DESIGNED
+
+CONNECTED
+
+PURPOSEFUL
+
+READABLE.
+
+
+======================================================================
+18 — EDGE PURITY
+======================================================================
+
+Every visible edge MUST be intentionally quantized to the 16×16 grid.
+
+PROHIBITED:
+
+• anti-aliased edges
+• smooth vector curves
+• sub-cell diagonal smoothing
+• blurred boundaries
+• fractional edge pixels
+• soft outlines
+• vector-like contours
+
+Every edge must be formed from complete-cell steps or larger
+integer cell structures.
+
+
+======================================================================
+19 — MATERIAL AND SURFACE TEXTURE
+======================================================================
+
+All textures must obey the same lattice.
+
+STONE:
+cell clusters
+
+WOOD:
+cell bands
+
+WATER:
+horizontal cell bands and stepped reflections
+
+METAL:
+block-based highlights
+
+FABRIC:
+simplified cell patterns
+
+GROUND:
+controlled cell clusters
+
+CLOUDS:
+stepped cell masses
+
+BRICK:
+larger block patterns
+
+SAND:
+controlled cell clusters
+
+Never use texture as an excuse to introduce smaller pixels.
+
+Texture complexity must come from:
+
+MORE CELLS,
+
+not
+
+SMALLER CELLS.
+
+
+======================================================================
+20 — REFLECTION ARCHITECTURE
+======================================================================
+
+All reflections must remain grid-quantized.
+
+Use:
+
+• complete horizontal cells
+• stepped vertical cell groups
+• controlled broken cell clusters
+• simplified mirrored structures
+
+Never use smooth reflection gradients.
+
+Reflections should echo the main object's:
+
+• color
+• shape
+• lighting
+• position
+
+while remaining intentionally simplified.
+
+
+======================================================================
+21 — ATMOSPHERIC EFFECTS
+======================================================================
+
+Atmospheric effects must also respect the same 16×16 minimum unit.
+
+Allowed:
+
+• pixel clouds
+• pixel mist
+• pixel smoke
+• pixel glow
+• pixel stars
+• pixel rain
+• pixel particles
+• pixel dust
+
+Every visible atmospheric component must remain constructed from
+complete cells or larger cell clusters.
+
+Atmosphere must NEVER introduce smaller pixels.
+
+
+======================================================================
+22 — ABSOLUTE ANTI-ALIASING PROHIBITION
+======================================================================
+
+ABSOLUTELY NO:
+
+• anti-aliasing
+• sub-pixel smoothing
+• soft edges
+• blur
+• vector smoothing
+• gradient interpolation
+• photographic rendering
+• continuous fine lines
+• fractional geometry
+• sub-cell edge treatment
+
+The artwork MUST have deliberate, hard-edged,
+cell-quantized boundaries.
+
+
+======================================================================
+23 — RESOLUTION INDEPENDENCE
+======================================================================
+
+The final artwork may be rendered at a large output resolution.
+
+However, the underlying visual construction MUST remain governed by
+the SAME 16×16 base-cell architecture.
+
+Increasing output resolution MUST NOT create smaller visual cells.
+
+Larger output resolution means:
+
+MORE 16×16 CELLS.
+
+It does NOT mean:
+
+SMALLER CELLS.
+
+
+======================================================================
+24 — PREMIUM COMMERCIAL QUALITY
+======================================================================
+
+The final artwork should look like professionally designed,
+commercial-quality retro pixel art.
+
+Prioritize:
+
+• strong composition
+• immediate subject recognition
+• professional color harmony
+• excellent silhouettes
+• visual storytelling
+• convincing depth
+• controlled detail
+• clean cell clusters
+• consistent pixel language
+• strong focal hierarchy
+• broad commercial usability
+• polished presentation
+
+Avoid amateur randomness.
+
+Avoid meaningless detail.
+
+Avoid over-rendering.
+
+
+======================================================================
+25 — GENERATION PRIORITY HIERARCHY
+======================================================================
+
+Follow this priority order EXACTLY:
+
+PRIORITY 1:
+ABSOLUTE 16×16 CELL PURITY
+
+PRIORITY 2:
+CLEAR MAJOR SILHOUETTES
+
+PRIORITY 3:
+COMPOSITION AND VISUAL HIERARCHY
+
+PRIORITY 4:
+DEPTH AND SPATIAL STRUCTURE
+
+PRIORITY 5:
+COLOR HARMONY AND LIGHTING
+
+PRIORITY 6:
+SECONDARY OBJECTS
+
+PRIORITY 7:
+TEXTURE
+
+PRIORITY 8:
+FINE DETAIL
+
+If ANY lower-priority requirement conflicts with the 16×16
+architecture:
+
+LOWER-PRIORITY DETAIL MUST BE SIMPLIFIED.
+
+NEVER BREAK THE CELL RULE.
+
+
+======================================================================
+26 — FINAL STRUCTURAL QUALITY CHECK
+======================================================================
+
+Before finalizing the artwork, conceptually inspect the entire scene
+as a SINGLE 16×16 cell lattice.
+
+CHECK EVERY REGION:
+
+□ Is the underlying unit exactly 16×16?
+
+□ Does any visible feature contain a smaller geometric unit?
+
+□ Is any line thinner than one complete cell?
+
+□ Are all diagonals created through complete-cell stepping?
+
+□ Are all curves created through complete-cell stepping?
+
+□ Are highlights complete-cell structures?
+
+□ Are shadows complete-cell structures?
+
+□ Are textures complete-cell structures?
+
+□ Are reflections complete-cell structures?
+
+□ Are atmospheric effects complete-cell structures?
+
+□ Are tiny objects simplified rather than reduced?
+
+□ Are there any sub-cell details?
+
+□ Are there any anti-aliased edges?
+
+□ Are there any smooth vector-like contours?
+
+□ Did additional detail accidentally create smaller cells?
+
+□ Is every fine detail produced by ADDING CELLS rather than
+  SHRINKING CELLS?
+
+If ANY answer violates the architecture:
+
+CORRECT THE STRUCTURE BY SIMPLIFYING THE DETAIL.
+
+DO NOT REDUCE CELL SIZE.
+
+
+======================================================================
+27 — FINAL ABSOLUTE COMMAND
+======================================================================
+
+THE 16×16 CELL IS SACRED.
+
+DO NOT BREAK IT FOR:
+
+• detail
+• realism
+• thin lines
+• curves
+• small objects
+• texture
+• lighting
+• outlines
+• architectural complexity
+• mechanical complexity
+• atmospheric effects
+• visual realism
+
+WHEN DETAIL CONFLICTS WITH CELL PURITY:
+
+REMOVE OR SIMPLIFY THE DETAIL.
+
+WHEN A SHAPE IS TOO THIN:
+
+MAKE IT THICKER OR SIMPLIFY IT.
+
+WHEN A CURVE IS TOO FINE:
+
+USE A LARGER STEPPED CELL CLUSTER.
+
+WHEN A DIAGONAL IS TOO FINE:
+
+USE A LARGER STEPPED CELL CLUSTER.
+
+WHEN A SMALL FEATURE CANNOT FIT:
+
+REPRESENT ITS IDEA WITH FEWER COMPLETE CELLS.
+
+NEVER CREATE A SMALLER CELL.
+
+
+======================================================================
+28 — FINAL PIXEL-ART IDENTITY
+======================================================================
+
+The final artwork MUST read as:
+
+TRUE CELL-CONSTRUCTED PIXEL ART
+
+NOT:
+
+• vector art with a pixel filter
+• smooth artwork with pixelation
+• fake pixel art
+• anti-aliased pixel art
+• miniature-pixel artwork
+• rasterized vector artwork
+
+The visual language must feel as though the entire scene was
+intentionally designed from a single, uniform, immutable 16×16
+cell system from the beginning.
+
+
+======================================================================
+FINAL TARGET
+======================================================================
+
+Create:
+
+[DESIGN NAME]
+
+as a:
+
+PREMIUM
+PROFESSIONAL
+COMPOSITIONALLY STRONG
+HIGHLY RECOGNIZABLE
+VISUALLY POLISHED
+COMMERCIAL-QUALITY
+RETRO PIXEL-ART SCENE
+
+with:
+
+RICH VISUAL STORYTELLING
+STRONG SILHOUETTES
+CLEAR DEPTH
+COHESIVE COLOR HARMONY
+CONTROLLED DETAIL
+PROFESSIONAL COMPOSITION
+CONSISTENT PIXEL LANGUAGE
+
+WHILE MAINTAINING:
+
+100% UNIFORM CELL SIZE
+100% 16×16 BASE-CELL ARCHITECTURE
+100% COMPLETE-CELL CONSTRUCTION
+ZERO SUB-CELL GEOMETRY
+ZERO MICRO-PIXELS
+ZERO FRACTIONAL CELLS
+ZERO ANTI-ALIASING
+ZERO CELL-SIZE ESCALATION
+ZERO DETAIL-DRIVEN CELL SHRINKING
+ZERO SMOOTH VECTOR-LIKE EDGES
+
+DETAIL MUST COME FROM:
+
+MORE CELLS.
+
+NEVER:
+
+SMALLER CELLS.
+
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                  FINAL PIXEL GRID MASTER — 10/10                   ║
+║                                                                      ║
+║       ONE GRID • ONE CELL SIZE • COMPLETE CELL OCCUPANCY           ║
+║                                                                      ║
+║          DETAIL = MORE CELLS, NEVER SMALLER CELLS                  ║
+╚══════════════════════════════════════════════════════════════════════╝

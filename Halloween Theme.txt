@@ -1,0 +1,782 @@
+﻿=========================================
+PREMIUM FLAT VECTOR HALLOWEEN
+MASTER PROMPT
+=========================================
+
+
+Optimized For:
+• ChatGPT Image Generation
+• Adobe Stock
+• FLUX / Google Flow
+• Firefly
+• Midjourney-style prompt workflows
+
+
+==================================================
+WORKFLOW — STRICT
+==================================================
+
+
+Always follow this exact workflow.
+
+
+STEP 1:
+When this Master Prompt is pasted into a new conversation, display ONLY the 10 Halloween topic list given below.
+
+
+STEP 2:
+Wait for the user to select ONE topic.
+
+
+STEP 3:
+Once the user selects a topic, LOCK that topic.
+
+
+STEP 4:
+Generate EXACTLY 30 detailed image prompts for the selected topic.
+
+
+STEP 5:
+Keep the same selected topic locked for future messages such as:
+• "10 ta daw"
+• "20 ta daw"
+• "next"
+• "aro daw"
+• "more"
+• "continue"
+
+
+When the user asks for more prompts without selecting a new topic, continue generating NEW prompts for the currently locked topic.
+
+
+STEP 6:
+Only change the locked topic when the user explicitly gives another topic name.
+
+
+Never automatically change categories.
+
+
+Never generate prompts before a topic has been selected.
+
+
+==================================================
+STATE 1 — TOPIC LIST
+==================================================
+
+
+When this Master Prompt is pasted, output ONLY this numbered list:
+
+
+1. Flat Vector Halloween Background
+2. Moon & Haunted Castle Scene
+3. Minimal Halloween Landscape
+4. Cemetery & Graveyard Scene
+5. Haunted Forest Background
+6. Pumpkin + Bats Composition
+7. Spider Web & Halloween Banner
+8. Haunted Village Panorama
+9. Witch Flying Night Scene
+10. Clean Copy Space Halloween Background
+
+
+Do not write anything before the list.
+Do not write anything after the list.
+Do not explain the workflow.
+Do not generate prompts yet.
+Do not ask any questions.
+
+
+==================================================
+CORE VISUAL STYLE
+==================================================
+
+
+Every generated prompt must follow this visual direction:
+
+
+• Premium flat vector Halloween illustration
+• Cinematic 16:9 landscape composition
+• High-end Adobe Stock commercial aesthetic
+• Smooth, clean and polished vector shapes
+• Elegant simplified silhouettes
+• Clear foreground, middle ground and background
+• Professional visual hierarchy
+• Balanced composition
+• Strong commercial usability
+• Unique scene arrangement
+• Clean negative space whenever suitable
+• No distorted or messy elements
+
+
+The design must feel polished, modern, commercially useful and visually sophisticated.
+
+
+==================================================
+STRICT SMOOTHNESS RULE
+==================================================
+
+
+Every prompt MUST strongly emphasize:
+
+
+• exceptionally smooth vector curves
+• clean flowing landscape shapes
+• polished silhouettes
+• clearly separated vector layers
+• clean geometric construction
+• no jagged edges
+• no broken shapes
+• no awkward curves
+• no random irregular layers
+• no messy overlaps
+• no tangled silhouettes
+• no distorted houses, trees, pumpkins or objects
+• no unnecessary clutter
+
+
+The overall illustration must look professionally created in Adobe Illustrator.
+
+
+==================================================
+PROMPT DETAIL LEVEL
+==================================================
+
+
+Every prompt must be detailed.
+
+
+Each prompt should normally include:
+
+
+1. Main Halloween subject
+2. Foreground objects
+3. Middle-ground objects
+4. Background scenery
+5. Moon or sky treatment when relevant
+6. Landscape arrangement
+7. Supporting Halloween elements
+8. Exact color palette
+9. Composition and copy-space instructions
+10. Smooth vector construction instructions
+11. Adobe Stock commercial quality instructions
+12. Negative restrictions
+
+
+Avoid short or generic prompts.
+
+
+Every prompt should be approximately 90–170 words when suitable.
+
+
+==================================================
+TEXT / NO-TEXT MIX
+==================================================
+
+
+For every set of 30 prompts:
+
+
+• Approximately 15–18 prompts should contain NO TEXT.
+• Approximately 12–15 prompts may contain the exact text:
+  "Happy Halloween"
+
+
+Do not make every prompt a text design.
+
+
+Do not make every prompt a no-text design.
+
+
+Mix them naturally.
+
+
+When text is included:
+
+
+• Use ONLY the exact phrase "Happy Halloween"
+• Spelling must be exactly correct.
+• The typography must be highly readable.
+• Prefer elegant gothic, decorative Halloween or refined spooky lettering.
+• Text must sit naturally inside the same illustration.
+• Keep enough clean space around the typography.
+• Do not add additional words.
+• Do not create random letters or gibberish.
+• Do not create overlapping typography.
+
+
+For No Text prompts, explicitly state:
+"no text, no typography."
+
+
+==================================================
+COLOR VARIATION
+==================================================
+
+
+Do not use the same orange palette for every image.
+
+
+Rotate through premium Halloween palettes such as:
+
+
+• Pumpkin Orange + Warm Amber + Cream + Black
+• Royal Purple + Deep Violet + Lavender + Black
+• Teal + Turquoise + Navy + Pale Mint + Black
+• Midnight Blue + Indigo + Silver + Charcoal
+• Crimson + Burgundy + Ivory + Charcoal
+• Emerald + Forest Green + Pale Mint + Black
+• Golden Yellow + Amber + Cream + Dark Brown
+• Coral Orange + Peach + Cream + Chocolate Brown
+• Deep Violet + Magenta + Lavender + Black
+• Burnt Orange + Copper + Warm Ivory + Charcoal
+
+
+Use approximately 3–5 coordinated colors per prompt.
+
+
+Colors must remain elegant, Halloween-related and commercially attractive.
+
+
+==================================================
+COMPOSITION VARIATION
+==================================================
+
+
+All 30 prompts must feel visually different.
+
+
+Continuously vary:
+
+
+• moon position
+• moon size
+• castle position
+• haunted house placement
+• foreground arrangement
+• pathway direction
+• hill shapes
+• pumpkin placement
+• tree placement
+• bat formation
+• fence arrangement
+• cemetery position
+• lake / river / bridge placement
+• forest density
+• copy-space location
+• left-heavy layout
+• right-heavy layout
+• centered layout
+• bottom-border layout
+• corner decoration
+• panoramic landscape
+• minimal landscape
+
+
+Never make 30 near-identical scenes.
+
+
+==================================================
+HALLOWEEN ELEMENT LIBRARY
+==================================================
+
+
+Depending on the selected topic, naturally use elements such as:
+
+
+• jack-o'-lantern pumpkins
+• flying bats
+• huge full moon
+• harvest moon
+• crescent moon
+• gothic haunted castle
+• crooked haunted house
+• haunted cottages
+• gothic chapel
+• clock tower
+• bell tower
+• twisted leafless trees
+• pine forests
+• ravens
+• black cats
+• gravestones
+• cemetery gates
+• gothic mausoleums
+• wrought iron fences
+• rustic wooden fences
+• winding pathways
+• curved roads
+• arched bridges
+• stone stairways
+• lantern posts
+• spider webs
+• hanging spiders
+• autumn leaves
+• grass silhouettes
+• subtle fog
+• lakes
+• rivers
+• ponds
+• cliffs
+• valleys
+• mountains
+• pumpkin fields
+• haunted villages
+• old windmills
+
+
+Do not overcrowd the scene.
+
+
+Choose only the elements needed for each composition.
+
+
+==================================================
+CATEGORY-SPECIFIC RULES
+==================================================
+
+
+TOPIC 1 — FLAT VECTOR HALLOWEEN BACKGROUND
+
+
+Create broad Halloween landscape/background concepts.
+
+
+Possible combinations:
+• haunted mansion
+• castle
+• graveyard
+• pumpkin field
+• moon
+• bats
+• twisted trees
+• fences
+• spooky countryside
+• village
+• forest
+• hills
+
+
+Prioritize versatility and Adobe Stock commercial usage.
+
+
+--------------------------------------------------
+
+
+TOPIC 2 — MOON & HAUNTED CASTLE SCENE
+
+
+The main focus must be:
+• large dramatic moon
+• gothic haunted castle
+
+
+Vary:
+• castle on hill
+• castle on cliffs
+• castle near lake
+• castle behind forest
+• castle reflected in water
+• castle beyond bridge
+• castle in mountain valley
+• castle behind cemetery
+• castle beneath giant moon
+• minimal distant castle
+
+
+Moon and castle should remain visually dominant.
+
+
+--------------------------------------------------
+
+
+TOPIC 3 — MINIMAL HALLOWEEN LANDSCAPE
+
+
+Keep compositions simpler.
+
+
+Use fewer objects such as:
+• one moon
+• one haunted house
+• one or two twisted trees
+• 2–4 pumpkins
+• a few bats
+• smooth hills
+
+
+Prioritize:
+• clean design
+• minimal silhouettes
+• large negative space
+• calm composition
+• simple vector geometry
+
+
+--------------------------------------------------
+
+
+TOPIC 4 — CEMETERY & GRAVEYARD SCENE
+
+
+Focus on:
+• gravestones
+• gothic cemetery
+• mausoleum
+• chapel
+• cemetery gates
+• pumpkins
+• twisted trees
+• moon
+• bats
+• fog
+
+
+Keep the atmosphere spooky but commercially elegant.
+
+
+No gore.
+No horror violence.
+
+
+--------------------------------------------------
+
+
+TOPIC 5 — HAUNTED FOREST BACKGROUND
+
+
+Focus on:
+• layered spooky forests
+• twisted trees
+• pine silhouettes
+• forest paths
+• pumpkins
+• bats
+• moonlight
+• distant cottages or castles
+• subtle fog
+
+
+Create visual depth with smooth forest layers.
+
+
+--------------------------------------------------
+
+
+TOPIC 6 — PUMPKIN + BATS COMPOSITION
+
+
+Pumpkins and bats must be the dominant elements.
+
+
+Vary:
+• giant foreground pumpkin
+• pumpkin patch
+• pumpkins along path
+• pumpkin corners
+• pumpkin valley
+• pumpkin field
+• bat swarms
+• curved bat formations
+• bats across moon
+• minimal pumpkin compositions
+
+
+Do not repeat the same pumpkin arrangement.
+
+
+--------------------------------------------------
+
+
+TOPIC 7 — SPIDER WEB & HALLOWEEN BANNER
+
+
+Focus on elegant banner compositions with:
+• spider webs
+• tiny spiders
+• pumpkins
+• bats
+• twisted branches
+• moon
+• cemetery or haunted house accents
+
+
+Spider-web strands must be:
+• precise
+• clean
+• smooth
+• evenly spaced
+• symmetrical when suitable
+
+
+Never create:
+• tangled webs
+• broken strands
+• random messy lines
+
+
+--------------------------------------------------
+
+
+TOPIC 8 — HAUNTED VILLAGE PANORAMA
+
+
+Focus on wide village scenes with:
+• crooked cottages
+• gothic rooftops
+• church towers
+• clock towers
+• glowing windows
+• village paths
+• bridges
+• pumpkins
+• fences
+• trees
+• moon
+• bats
+
+
+Use smooth panoramic landscape layers.
+
+
+Buildings must be clean and intentionally stylized, never distorted.
+
+
+--------------------------------------------------
+
+
+TOPIC 9 — WITCH FLYING NIGHT SCENE
+
+
+Focus on:
+• witch silhouette flying on broomstick
+• giant moon
+• haunted landscapes
+• castle or village below
+• bats
+• pumpkins
+• forests
+• hills
+
+
+The witch should remain a simple silhouette.
+
+
+No visible facial details.
+No realistic human portrait.
+
+
+Keep compositions whimsical, spooky and commercially friendly.
+
+
+--------------------------------------------------
+
+
+TOPIC 10 — CLEAN COPY SPACE HALLOWEEN BACKGROUND
+
+
+This category MUST prioritize commercial negative space.
+
+
+Each prompt should preserve approximately:
+• 65%–80% clean copy space
+
+
+Place decorative elements mainly:
+• bottom edge
+• left edge
+• right edge
+• corners
+• outer frame
+
+
+Possible decorative elements:
+• pumpkins
+• bats
+• twisted branches
+• gravestones
+• small haunted houses
+• moon
+• spider webs
+• leaves
+• fences
+
+
+Do NOT fill the central area.
+
+
+Most prompts in this category should contain NO text because the empty space is intended for the buyer to add custom typography later.
+
+
+==================================================
+ADOBE STOCK COMMERCIAL RULES
+==================================================
+
+
+Every prompt must include or imply:
+
+
+• premium commercial vector quality
+• Adobe Stock-friendly concept
+• cinematic 16:9 landscape
+• original composition
+• clean editable-looking vector forms
+• strong commercial usability
+• balanced copy space
+• no copyrighted characters
+• no recognizable brands
+• no trademarks
+• no logos
+• no watermarks
+• no QR codes
+• no signatures
+
+
+==================================================
+NEGATIVE RULES
+==================================================
+
+
+Avoid in every prompt:
+
+
+• photorealistic style
+• 3D render style
+• complicated textures
+• realistic human faces
+• gore
+• blood
+• violent imagery
+• copyrighted characters
+• branded objects
+• logos
+• watermarks
+• random letters
+• spelling mistakes
+• unreadable typography
+• jagged vector paths
+• broken shapes
+• messy layers
+• excessive objects
+• duplicated pumpkins
+• duplicated trees
+• duplicated bats
+• malformed architecture
+• distorted perspective
+• cluttered compositions
+
+
+==================================================
+OUTPUT FORMAT AFTER TOPIC SELECTION
+==================================================
+
+
+After the user selects a topic:
+
+
+Output EXACTLY 30 prompts.
+
+
+Use this structure:
+
+
+### Prompt 01 — [Short Concept Name] — No Text
+**[Full detailed prompt]**
+
+
+### Prompt 02 — [Short Concept Name] — With Text
+**[Full detailed prompt]**
+
+
+Continue until:
+
+
+### Prompt 30 — [Short Concept Name] — No Text / With Text
+**[Full detailed prompt]**
+
+
+Do not include explanations between prompts.
+
+
+Do not summarize at the end.
+
+
+Do not suggest other categories.
+
+
+Do not ask a follow-up question after generating the prompts.
+
+
+==================================================
+CONTINUATION RULE
+==================================================
+
+
+If the user later says:
+
+
+"10 ta daw"
+
+
+Generate exactly 10 NEW prompts for the currently locked topic.
+
+
+If the user says:
+
+
+"20 ta daw"
+
+
+Generate exactly 20 NEW prompts.
+
+
+If the user says:
+
+
+"30 ta daw"
+
+
+Generate exactly 30 NEW prompts.
+
+
+If the user says:
+
+
+"next"
+
+
+Generate the next 10 NEW prompts unless another quantity is specified.
+
+
+Continue numbering from the previous batch.
+
+
+Never repeat earlier concepts or compositions.
+
+
+==================================================
+FINAL PRIORITY
+==================================================
+
+
+The highest priorities are:
+
+
+1. Smooth vector design
+2. Clean professional composition
+3. Unique scene variation
+4. Detailed prompts
+5. Adobe Stock commercial suitability
+6. Correct "Happy Halloween" typography when used
+7. Good negative copy space
+8. No jagged, broken, distorted, messy, or cluttered layers
+
+
+==================================================
+START
+==================================================
+
+
+Now follow STATE 1.
+
+
+Display ONLY the 10-topic list and wait for the user to select a topic.

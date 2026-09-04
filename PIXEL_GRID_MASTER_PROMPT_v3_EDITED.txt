@@ -1,0 +1,243 @@
+Create a premium, professional pixel-art illustration of:
+
+[DESIGN NAME]
+
+FINAL PIXEL GRID MASTER — v3 (CELL PURITY + CONDITIONAL BACKGROUND EDITION)
+
+The artwork must be genuine, handcrafted-looking pixel art built on one completely uniform, invisible 16 × 16 base-cell lattice. The 16 × 16 base cell is the ABSOLUTE SMALLEST PERMITTED GEOMETRIC UNIT in the entire artwork.
+
+
+00 — FILL THIS IN BEFORE GENERATING
+
+
+[DESIGN NAME]: what you want drawn
+[MODE]: A (full-scene) or B (isolated asset / sprite / asset sheet)
+[MODE B ONLY] Background: white (#FFFFFF) or black (#000000)
+
+
+01 — MODE SELECTION (decide this first)
+
+
+Ask: Does the image have genuinely empty space around the subject that is intended to remain blank, or does the artwork fill the entire frame?
+
+MODE A — FULL-SCENE
+The artwork fills the entire canvas from edge to edge (a landscape, a full illustrated scene, a wallpaper, anything with sky/ground/environment reaching all four sides).
+→ Skip Section 02 entirely. The scene's sky, water, and environment may use color variation and atmosphere, while still using discrete cell shading (see Section 09). There is no single-color background requirement because the "background" IS the artwork.
+
+MODE B — ISOLATED-ASSET
+A single icon, character, prop, or a sheet containing multiple separate objects with real negative space around them, meant to be cropped or have its background removed later.
+→ Section 02 applies in full, with zero tolerance for violations.
+
+Rule of thumb: If you would ever want to remove the background and keep only the subject → MODE B. If the "background" is itself part of the subject (sky, sunset, environment) → MODE A.
+
+
+02 — BACKGROUND RULE (MODE B ONLY)
+
+
+The background must be ONE single, uniform, solid color, edge to edge:
+
+WHITE MODE: exactly #FFFFFF — RGB (255,255,255)
+BLACK MODE: exactly #000000 — RGB (0,0,0)
+
+Use exactly one. Never combine them. Never invent a third background color. Do not use near-white, off-white, cream, warm/cool white, #FFFFFE/#FEFEFE/#FAFAFA; or near-black, charcoal, gray, blue-black, #010101/#020202/#050505. Do not use a gradient, vignette, texture, noise, transparency, or pattern in the background layer.
+
+CRITICAL — NO BLENDING, GLOW, OR SOFT EDGES TOUCHING THE BACKGROUND:
+Every pixel in the image must be classifiable as EITHER exactly the background color OR a fully opaque design color with clear separation from it. Never paint a soft glow, halo, drop-shadow, or partial-opacity blend that fades from the subject into the background — even a few "in-between" cells (e.g. a dark olive tile that is part black, part yellow) are not acceptable. This is not a cosmetic rule: any pixel whose color falls between the subject and the background cannot be reliably classified by automated background-removal tools, and may be deleted along with the real background, destroying genuine design detail. If a glow or soft shadow is part of the concept, represent it as a fully opaque, complete-cell color band instead — never as a translucent blend into the background.
+
+Edge integrity: No anti-aliased, semi-transparent, or blended pixels where the subject meets the background. No colored halos. The background color must sit clean immediately outside every object — a hard cell boundary, never a soft transition.
+
+GLOW / LIGHT / SPARKLE EFFECTS (stars, magic effects, light bursts): build glow as 2–3 discrete, fully opaque concentric color rings — a bright core cell cluster, a mid-tone ring, a dim outer ring — each ring a single flat color occupying complete cells, with a hard edge between each ring and a hard edge to the background. NEVER use a smooth radial gradient or falloff that fades toward the background color. A "glow" that fades is indistinguishable from background contamination and will be deleted or corrupted by any downstream background-removal tool.
+
+Asset-sheet specific (multiple objects, MODE B):
+Every object shares the same background, same pixel-art language, same cell size. Keep clean negative space between objects. Do not let objects merge or decorate the gaps. The result should read as a professional, easily croppable asset sheet.
+
+
+03 — ABSOLUTE 16 × 16 CELL LOCK (always applies, both modes)
+
+
+Every visible element MUST be constructed exclusively from complete 16 × 16 base cells. One cell = one fundamental pixel unit. No geometric element may be smaller than one complete base cell.
+
+Every outline, edge, diagonal, curve approximation, highlight, shadow, texture mark, reflection, window, architectural detail, plant detail, rock, cloud, character detail, or environmental detail must occupy complete cells or connected groups of complete cells.
+
+NEVER subdivide a base cell. NEVER create a smaller pixel inside a cell. NEVER change the pixel scale anywhere in the artwork. The 16 × 16 cell size must remain identical from the extreme foreground to the distant background.
+
+
+04 — HIERARCHICAL CELL QUANTIZATION
+
+
+Use the SAME 16 × 16 cell size everywhere. Depth is created ONLY through: number of occupied cells, cell clustering, shape arrangement, silhouette complexity, color grouping, tonal contrast, overlap, perspective, atmospheric color separation — NOT through smaller pixels.
+
+Background: fewer, simpler cell clusters. Middle ground: moderate cell clusters. Foreground: denser cell clusters. Fine detail: a small number of carefully selected 16 × 16 cells.
+
+DETAIL DENSITY MAY CHANGE. CELL SIZE MAY NEVER CHANGE.
+
+
+05 — NO DETAIL ESCALATION
+
+
+Do not make distant objects smaller by using smaller pixels. Do not make fine details with micro-pixels. Do not introduce high-resolution pixel fragments. Do not add tiny decorative marks simply to increase detail.
+
+When a detail is too small to represent using one complete 16 × 16 cell: simplify, remove, enlarge, or merge that detail into surrounding cells. SIMPLIFICATION IS REQUIRED. PIXEL PURITY HAS PRIORITY OVER DETAIL.
+
+
+06 — PERFECT HARD PIXEL EDGES
+
+
+All edges must be hard, crisp, discrete, and aligned to the grid. Use staircase pixel geometry for diagonals and curves — approximated using intentional stepped cell patterns.
+
+Never use: mathematically smooth curves, vector-smooth edges, sub-pixel positioning, fractional pixel geometry, anti-aliased edges, blurred edges, feathering, soft transitions. Every boundary must resolve cleanly to the 16 × 16 cell lattice — this applies to subject-internal edges in both modes, and doubly to the subject/background boundary in MODE B (see Section 02).
+
+
+07 — OUTLINE PURITY
+
+
+Outlines must be constructed from complete 16 × 16 cells. Outline thickness must remain compatible with the same cell architecture. Do not create hairline outlines, half-cell outlines, or inconsistent microscopic contour thickness. Where an outline becomes too narrow, simplify the contour rather than reducing the cell size. Strong silhouettes are preferred over excessive contour complexity.
+
+
+08 — DIAGONAL AND CURVE CONTROL
+
+
+All diagonal lines must be staircase patterns composed of complete cells. All curved forms must be quantized into deliberate stepped shapes. Avoid accidental jaggedness or random stair stepping — every staircase should feel intentional. Use 1-cell, 2-cell, 3-cell, and larger complete-cell steps to create readable pixel geometry. Never use partial cells to make a diagonal appear smoother.
+
+
+09 — COLOR CELL DISCIPLINE
+
+
+Every color region must respect the same 16 × 16 cell architecture. Use clean flat color blocks and controlled clustered shading. Avoid gradients, airbrushing, photographic shading, smooth color transitions, or texture that breaks the grid. Shading, highlights, and shadows must be represented through complete-cell clusters or groups. Color variation should support form and depth without compromising pixel purity — and, in MODE B, must never soften into the background color (Section 02).
+
+
+10 — PIXEL CLUSTER QUALITY
+
+
+Use intentional pixel clusters rather than random, isolated noise. Each cluster should communicate form, depth, material, lighting, silhouette, or environmental structure. Avoid meaningless checkerboard noise, excessive single-cell scattering, or artificial procedural randomness. Use carefully designed clusters with a strong visual rhythm.
+
+
+11 — DEPTH WITHOUT PIXEL SCALE CHANGES
+
+
+Create depth using overlapping silhouettes, foreground framing, atmospheric perspective, color temperature, value separation, object scale, cell density, perspective, and negative space. NEVER create depth by changing the fundamental pixel size. Near and far objects must use exactly the same 16 × 16 base cell.
+
+
+12 — COMPOSITION
+
+
+Create a polished, commercially strong composition. Use a clear focal subject, strong silhouette, balanced visual weight, readable foreground/middle ground, simplified background (MODE A) or clean isolation (MODE B), natural depth where relevant, controlled negative space, strong color hierarchy, clean visual storytelling. The composition must feel intentionally designed rather than randomly generated. The main subject must remain immediately recognizable. Avoid unnecessary clutter.
+
+
+13 — MATERIAL AND ENVIRONMENT DETAIL
+
+
+Represent materials through cell grouping and color structure:
+Wood → directional rectangular cell clusters.
+Stone → irregular but grid-aligned cell clusters.
+Water → horizontal or perspective-based cell bands.
+Leaves → clustered organic silhouettes made from complete cells.
+Clouds → large stepped cell masses.
+Mountains → layered stepped silhouettes.
+Buildings → architectural blocks aligned to the same cell system.
+Ground → controlled irregular cell clusters.
+Reflections → simplified mirrored cell structures.
+Every material must remain within the same 16 × 16 architecture.
+
+
+14 — REFLECTION RULE
+
+
+If reflective water or another reflective surface appears, construct reflections using the same 16 × 16 cells, simplified. Do not create tiny reflection fragments, smooth transparency, blur, or sub-cell reflection details. Reflection quality must come from arrangement of complete cells.
+
+
+15 — MICRO-DETAIL BAN
+
+
+ABSOLUTELY FORBIDDEN anywhere in the artwork: micro-pixels, sub-pixels, half-cells, quarter-cells, fractional cells, anti-aliasing, subpixel rendering, smooth vector edges, hairline details, tiny texture fragments, fine noise, photographic texture, blurred pixels, soft edges, mixed pixel sizes, mixed grid scales, pixel interpolation, gradient pixels, procedural micro-noise.
+
+If a detail cannot fit into one or more complete 16 × 16 cells: SIMPLIFY IT. Do not shrink the cell.
+
+
+16 — NO MIXED PIXEL SCALES
+
+
+This rule is absolute. The artwork must NOT contain large pixels in one area, medium pixels in another, and small pixels in another. There is ONLY ONE FUNDAMENTAL PIXEL UNIT: 16 × 16. The same lattice governs the entire artwork.
+
+
+17 — VISUAL QUALITY PRESERVATION
+
+
+Preserve premium pixel-art qualities:: strong composition, attractive palette, excellent readability, professional silhouettes, convincing depth, clean lighting, clear subject hierarchy, sophisticated storytelling (MODE A) or clean isolation (MODE B), polished game-art aesthetic, commercial stock appeal.
+
+Do NOT sacrifice visual quality merely to enforce the grid. Redesign problematic details using larger complete cells instead. The correct solution to a difficult detail is: SIMPLIFY → MERGE → REPOSITION → ENLARGE. Never: SHRINK THE PIXEL.
+
+
+18 — PIXEL ART IDENTITY
+
+
+The final result must unmistakably look like authentic high-quality pixel art. It must NOT look like a normal digital painting with pixelation, a smooth illustration converted into pixels, a photograph with a pixel filter, vector artwork with blocky edges, or AI-generated smooth artwork with pixel texture. The artwork must appear intentionally designed from the beginning on a fixed pixel lattice.
+
+
+19 — CELL ECONOMY
+
+
+Every occupied cell should have a clear visual purpose. Prefer fewer strong cells over many weak cells. Do not fill empty space with unnecessary detail. Do not increase cell density merely to create unnecessary complexity. Every cell should contribute to form, depth, lighting, silhouette, texture, material, or storytelling.
+
+
+20 — STRUCTURAL VALIDATION (run once before finalizing)
+
+
+CELL INTEGRITY (both modes):
+[ ] Every fundamental unit is 16 × 16, no smaller geometric unit exists
+[ ] No mixed pixel scale, no sub-cell detail, no anti-aliasing, no smooth vector edges
+[ ] All diagonals/curves use intentional complete-cell staircases
+[ ] All highlights and shadows use complete cells
+[ ] Foreground, middle ground, and background use the same cell size
+[ ] Depth comes from cell density, composition, overlap, and color — never smaller pixels
+
+BACKGROUND — MODE B ONLY:
+[ ] Background is exactly one hex value (#FFFFFF or #000000) edge to edge
+[ ] No near-white/near-black variant, no gradient, no texture in the background
+[ ] No glow, halo, or partial-opacity blend touches the background — every pixel is either the exact background color or fully-opaque design color
+[ ] Clean hard edge between every object and the background
+
+BACKGROUND — MODE A ONLY:
+[ ] The full-frame scene reads as one designed composition, atmosphere/color variation is deliberate, not noise
+
+COMPOSITION (both modes):
+[ ] The focal subject remains highly recognizable
+[ ] The artwork retains premium visual quality and looks intentionally pixel-designed, not filtered
+[ ] No unrequested text, watermark, border, or invented elements
+
+
+21 — FINAL PRIORITY ORDER
+
+
+1. Background integrity (MODE B only) — including zero blending or glow touching the background
+2. Absolute 16 × 16 cell integrity, zero sub-cell geometry, zero mixed pixel scales
+3. Clean pixel silhouettes
+4. Strong composition
+5. Clear subject recognition
+6. Professional color hierarchy
+7. Depth and environmental storytelling
+8. Controlled detail density
+9. Premium commercial visual quality
+
+If any visual detail conflicts with the 16 × 16 architecture: THE GRID WINS.
+If additional detail conflicts with pixel purity: PIXEL PURITY WINS.
+If a background effect conflicts with the single-color background (MODE B): REMOVE THE EFFECT.
+If realism conflicts with pixel architecture: PIXEL ARCHITECTURE WINS.
+
+
+22 — FINAL OUTPUT
+
+
+Generate ONE polished, cohesive, professional pixel-art illustration of:
+
+[DESIGN NAME]
+
+using MODE [A/B] as specified in Section 00, on a consistent 16 × 16 invisible base-cell lattice across the entire artwork.
+
+The finished artwork must look CRISP, CLEAN, INTENTIONAL, GRID-PURE, PROFESSIONAL, RECOGNIZABLE, PREMIUM, COMMERCIAL, and AUTHENTICALLY PIXEL ART.
+
+ABSOLUTE RULE:
+ONE ARTWORK. ONE GRID. ONE PIXEL UNIT. 16 × 16 ONLY.
+ZERO SUB-CELL DETAILS. ZERO MIXED SCALES.
+MODE B ONLY: ONE EXACT BACKGROUND COLOR. ZERO BLEND. ZERO GLOW TOUCHING BACKGROUND.
+10/10 PIXEL ARCHITECTURE.

@@ -3,7 +3,7 @@ PRECISION 1-BIT MODULAR RETRO PIXEL ART SYSTEM
 
 ROLE & OBJECTIVE:
 Act as an expert retro pixel artist and UI systems designer. Create a clean, sharp, authentic pixel-art design of:
-[A clean, high-contrast digital illustration featuring a collection of retro 1990s computer desktop icons arranged in a structured grid on a stark white background. The icon set is rendered in a minimalist, black-and-white 1-bit pixel art style, characterized by crisp, jagged edges and blocky resolution reminiscent of early operating systems like Windows 95. The set includes classic computing symbols: a joystick, a diagonal mouse cursor, a file folder, a "START" button, a floppy disk, a game controller, an "OK" button, a blank window frame, a pointing finger cursor, a "FILE" label, a "CANCEL" button, a trash bin, an hourglass loading icon, and a large question mark. The lighting is flat and uniform with no brights or gradients, maintaining a purely vector-like, graphical aesthetic that evokes a sense of nostalgic computing, simplicity, and early digital design.]
+[DESIGN NAME]
 
 ==================================================
 01 — RESOLUTION & MODULAR GRID HIERARCHY

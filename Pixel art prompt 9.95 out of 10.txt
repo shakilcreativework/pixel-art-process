@@ -1,0 +1,265 @@
+==================================================
+V10 — ABSOLUTE LATTICE GOVERNANCE
+==================================================
+
+The entire artwork exists inside ONE universal square-cell
+coordinate system.
+
+The 16 × 16 base cell is not merely a visual style.
+
+It is the underlying geometric construction system of the
+ENTIRE IMAGE.
+
+==================================================
+GLOBAL LATTICE LOCK
+==================================================
+
+Every visible geometric boundary must originate from the
+same 16 × 16 cell lattice.
+
+All positions, widths, heights, offsets, edges and transitions
+must respect whole-cell coordinates.
+
+Never create an independent coordinate system for any object.
+
+The sky, clouds, sun, mountains, trees, cabin, terrain,
+water, flowers, animals, reflections and atmospheric details
+must all obey the SAME lattice.
+
+==================================================
+NO OBJECT-SPECIFIC PIXEL SCALE
+==================================================
+
+NEVER allow an object to introduce:
+
+smaller cells
+larger sub-pixel units
+fractional cells
+half-cell offsets
+irregular micro-grids
+independent pixel scales
+
+A small object is represented using fewer cells.
+
+A large object is represented using more cells.
+
+Complexity comes from arrangement, NOT resolution.
+
+==================================================
+BOUNDARY QUANTIZATION
+==================================================
+
+Every important silhouette boundary must advance through
+complete lattice cells.
+
+Diagonal edges must be constructed as deliberate
+stair-step sequences of whole cells.
+
+Curves must be approximated through intentional cell
+progressions.
+
+Avoid smooth geometric curves disguised as pixel art.
+
+Avoid fractional edge transitions.
+
+Avoid anti-aliased boundaries.
+
+Avoid sub-cell interpolation.
+
+==================================================
+INTERNAL COLOR BOUNDARY RULE
+==================================================
+
+Color transitions inside objects must also obey the lattice.
+
+Do not allow shading, highlights, reflections or shadows
+to create smaller geometric units than the 16 × 16 cell.
+
+Each color region must occupy complete cells or intentional
+multi-cell clusters.
+
+==================================================
+CELL ORIGIN CONSISTENCY
+==================================================
+
+All major objects should appear to share the same invisible
+global grid origin.
+
+Imagine placing a transparent 16 × 16 checkerboard over
+the entire artwork.
+
+The checkerboard must remain valid everywhere.
+
+Do NOT restart or shift the grid when constructing:
+
+trees
+clouds
+mountains
+sun
+cabin
+water
+boats
+flowers
+animals
+rocks
+reflections
+shadows
+highlights
+
+==================================================
+EDGE STEP DISCIPLINE
+==================================================
+
+For diagonal and curved silhouettes:
+
+Use deliberate staircase progression.
+
+Prefer:
+
+1 cell horizontal + 1 cell vertical
+2 cells horizontal + 1 cell vertical
+3 cells horizontal + 1 cell vertical
+intentional repeated cell patterns
+
+Do not create noisy irregular edge stepping merely to imitate
+natural curves.
+
+Every staircase must look intentional.
+
+==================================================
+CLUSTER INTEGRITY
+==================================================
+
+Cells should normally belong to meaningful visual clusters.
+
+Avoid isolated accidental cells.
+
+Use:
+
+single cells for intentional tiny accents
+two-cell clusters for small marks
+three-to-four-cell clusters for compact details
+larger clusters for structural forms
+
+Every isolated cell must have a visual purpose.
+
+==================================================
+DETAIL HIERARCHY
+==================================================
+
+Background:
+large, simplified cell clusters.
+
+Middle ground:
+moderate cell complexity.
+
+Foreground:
+highest cell density.
+
+Primary subject:
+highest structural clarity.
+
+Tiny accents:
+minimal number of individual cells.
+
+Never increase detail by reducing cell size.
+
+==================================================
+PIXEL EDGE CLEANLINESS
+==================================================
+
+All silhouettes must have hard, discrete boundaries.
+
+NO:
+
+anti-aliasing
+blur
+soft edges
+sub-pixel rendering
+fractional transparency
+smooth vector curves
+micro-pixels
+texture noise
+random one-pixel artifacts
+
+Every visible mark must belong to the lattice.
+
+==================================================
+VISUAL PRIORITY
+==================================================
+
+When forced to choose between:
+
+MORE DETAIL
+and
+BETTER LATTICE COMPLIANCE
+
+ALWAYS choose better lattice compliance.
+
+When forced to choose between:
+
+REALISTIC SHAPE
+and
+CLEAN CELL STRUCTURE
+
+ALWAYS choose clean cell structure.
+
+When forced to choose between:
+
+SMALL DETAIL
+and
+STRONG SILHOUETTE
+
+ALWAYS choose strong silhouette.
+
+==================================================
+FINAL LATTICE VALIDATION
+==================================================
+
+Before final rendering, mentally reconstruct the entire image
+using only 16 × 16 squares.
+
+Ask:
+
+Can every visible mark be mapped to the same universal grid?
+
+Can every silhouette be reconstructed from complete cells?
+
+Can every color region be reconstructed from complete cells?
+
+Do all objects share the same cell scale?
+
+Are there any fractional or sub-cell elements?
+
+Are any details being created by smaller geometry?
+
+Are diagonal edges intentional staircase patterns?
+
+Are isolated cells intentional rather than accidental?
+
+If ANY answer is NO:
+
+remove, merge, reposition or redesign the affected cells.
+
+NEVER solve the problem by making the cells smaller.
+
+==================================================
+10/10 PRIORITY
+==================================================
+
+The goal is NOT maximum detail.
+
+The goal is:
+
+ONE IMAGE
+ONE GRID
+ONE CELL SIZE
+ONE GEOMETRIC LANGUAGE
+ONE CONSISTENT PIXEL SYSTEM
+
+Absolute structural consistency is more important than
+decorative complexity.
+
+The final artwork should look as though it was deliberately
+constructed cell-by-cell from one perfectly consistent
+16 × 16 lattice.

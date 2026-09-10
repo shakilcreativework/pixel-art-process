@@ -1,0 +1,333 @@
+==================================================
+V10 — GLOBAL LATTICE LOCK
+==================================================
+
+THE ENTIRE ARTWORK MUST EXIST ON ONE SHARED
+DISCRETE 16 × 16 CELL LATTICE.
+
+This is a structural rendering rule, not a visual style suggestion.
+
+Every visible geometric boundary, object edge,
+highlight, shadow, texture mark, silhouette,
+reflection and small detail must align to the SAME
+16 × 16 base-cell coordinate system.
+
+==================================================
+GLOBAL COORDINATE LOCK
+==================================================
+
+Imagine the entire canvas covered by one permanent
+16 × 16 square lattice.
+
+Every object must be constructed directly on this lattice.
+
+DO NOT create a separate grid for:
+
+trees
+mountains
+clouds
+sun
+water
+houses
+animals
+flowers
+birds
+reflections
+foreground texture
+
+There is ONLY ONE global lattice.
+
+All objects share it.
+
+==================================================
+CELL EDGE ALIGNMENT
+==================================================
+
+Every horizontal and vertical boundary must begin,
+end, or change direction only at complete cell boundaries.
+
+No object may shift to a private sub-grid.
+
+No fractional cell positioning.
+
+No half-cell offsets.
+
+No irregular local pixel scale.
+
+No independently scaled pixel objects.
+
+Everything snaps to the SAME lattice.
+
+==================================================
+OBJECT SNAP RULE
+==================================================
+
+Before rendering any object:
+
+1. determine its silhouette
+2. map the silhouette onto the global 16 × 16 lattice
+3. occupy complete cells
+4. remove cells to create negative space
+5. add adjacent cells for structure
+6. use color changes between cells for shading
+
+The object must NEVER be drawn first and
+"pixelated afterward."
+
+It must be DESIGNED FROM CELLS.
+
+==================================================
+SILHOUETTE-FIRST CONSTRUCTION
+==================================================
+
+Every major object must follow this sequence:
+
+BASE SILHOUETTE
+→ CELL CLUSTERS
+→ SECONDARY SHAPES
+→ SHADOW CELLS
+→ HIGHLIGHT CELLS
+→ NEGATIVE SPACE
+
+Never use smooth geometry and then approximate it
+with pixels.
+
+The final silhouette must originate from discrete cells.
+
+==================================================
+INTERNAL SHADING LATTICE
+==================================================
+
+Internal color changes must also respect the same
+16 × 16 lattice.
+
+A highlight is not a soft region.
+
+A shadow is not a gradient.
+
+A reflection is not a blur.
+
+Represent them as intentional groups of complete cells.
+
+Use:
+
+single cells
+2-cell clusters
+3-cell clusters
+4-cell clusters
+larger connected regions
+
+depending on the visual importance of the feature.
+
+==================================================
+NO LOCAL PIXEL SCALE
+==================================================
+
+ABSOLUTELY FORBIDDEN:
+
+smaller pixels for eyes
+smaller pixels for birds
+smaller pixels for flowers
+smaller pixels for texture
+smaller pixels for reflections
+smaller pixels for facial details
+smaller pixels for distant objects
+
+Distance may reduce the NUMBER of cells.
+
+Distance may NOT reduce CELL SIZE.
+
+A distant object becomes simpler.
+
+It does not become smaller-pixeled.
+
+==================================================
+PERCEPTUAL SCALE WITHOUT GEOMETRIC SCALE
+==================================================
+
+Create depth by changing:
+
+object size
+cell count
+cell density
+color contrast
+silhouette complexity
+overlap
+layering
+negative space
+
+NEVER create depth by changing pixel size.
+
+Foreground:
+larger cell clusters + higher density
+
+Middle ground:
+moderate cell clusters + moderate density
+
+Background:
+simpler silhouettes + fewer occupied cells
+
+CELL SIZE REMAINS IDENTICAL EVERYWHERE.
+
+==================================================
+LATTICE CONTINUITY TEST
+==================================================
+
+Mentally extend the 16 × 16 grid across the entire canvas.
+
+Now inspect:
+
+sky
+clouds
+sun
+mountains
+trees
+water
+shoreline
+foreground
+small details
+
+Every element must remain perfectly compatible
+with the SAME imaginary grid.
+
+If one object appears to use a different pixel scale,
+redesign that object.
+
+==================================================
+MICRO-MARK ELIMINATION TEST
+==================================================
+
+Inspect every tiny visible mark.
+
+Ask:
+
+"Can this mark be represented by one complete
+16 × 16 cell?"
+
+YES → keep it.
+
+NO → redesign it as a valid cell cluster
+or remove it.
+
+Never preserve a detail merely because it improves
+recognition if that detail violates the lattice.
+
+==================================================
+EDGE RHYTHM RULE
+==================================================
+
+Avoid accidental irregular stepping.
+
+Important silhouettes should have deliberate
+cell rhythms:
+
+1-cell step
+2-cell step
+3-cell step
+larger intentional stair-step
+
+Avoid random one-off edge changes unless they
+meaningfully improve the silhouette.
+
+Pixel stair-stepping must look DESIGNED,
+not accidentally quantized.
+
+==================================================
+COLOR-CELL COHERENCE
+==================================================
+
+Each color region must occupy complete cells.
+
+Do not use color variation to simulate:
+
+anti-aliasing
+soft edges
+blur
+sub-pixel detail
+noise
+photographic texture
+
+Color changes should communicate:
+
+form
+lighting
+depth
+shadow
+material
+atmosphere
+
+not resolution.
+
+==================================================
+DETAIL PRIORITY
+==================================================
+
+When cell budget is limited, prioritize:
+
+1. primary silhouette
+2. major composition
+3. object recognition
+4. lighting direction
+5. major shadow masses
+6. major highlight masses
+7. secondary details
+8. tiny accents
+
+Never sacrifice lattice integrity for minor detail.
+
+==================================================
+FINAL 16 × 16 INTEGRITY TEST
+==================================================
+
+Before finalizing the image:
+
+Mentally overlay a perfect 16 × 16 grid across
+the ENTIRE canvas.
+
+Verify:
+
+EVERY smallest mark = complete cell
+EVERY boundary = cell-aligned
+EVERY object = same cell language
+EVERY shadow = cell-based
+EVERY highlight = cell-based
+EVERY reflection = cell-based
+EVERY texture = cell-based
+EVERY silhouette = cell-based
+
+If any element violates the lattice:
+
+REMOVE IT
+REDESIGN IT
+OR REPLACE IT WITH A VALID CELL CLUSTER.
+
+Never introduce a smaller geometric unit.
+
+==================================================
+FINAL QUALITY TARGET
+==================================================
+
+The result should look like a carefully authored
+pixel artwork created directly on a fixed 16 × 16
+master lattice.
+
+It must NOT look like:
+
+a normal illustration pixelated afterward
+AI artwork with pixel effects
+smooth vector art converted into pixels
+retro artwork with mixed pixel scales
+random blocky digital art
+
+It must look like:
+
+A PROFESSIONAL ARTWORK DESIGNED CELL-BY-CELL
+ON ONE GLOBAL 16 × 16 DISCRETE LATTICE.
+
+Maximum visual sophistication.
+Minimum geometric vocabulary.
+
+ONE GRID.
+ONE CELL SIZE.
+ONE PIXEL LANGUAGE.
+ZERO SUB-CELL GEOMETRY.

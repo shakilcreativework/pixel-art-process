@@ -1,0 +1,883 @@
+============================================================
+V10 — CELL-FIRST RENDERING PROTOCOL
+============================================================
+
+PRIMARY OBJECTIVE
+============================================================
+
+Create a true handcrafted pixel-art image using ONE
+continuous global 16 × 16 pixel-cell lattice.
+
+The artwork must be constructed CELL-FIRST.
+
+Do NOT imagine a smooth illustration and then convert it
+into pixels.
+
+Do NOT create objects first and pixelate them afterward.
+
+The entire image must be designed directly as an organized
+collection of complete 16 × 16 cells.
+
+The CELL is the fundamental building block.
+
+The CELL is more important than the object.
+
+The LATTICE is more important than realism.
+
+STRUCTURAL CONSISTENCY is more important than tiny detail.
+
+============================================================
+ABSOLUTE MASTER CELL
+============================================================
+
+MASTER CELL = exactly 16 × 16 pixels.
+
+This is the ONLY permitted geometric resolution.
+
+There is exactly ONE master cell.
+
+There is exactly ONE global lattice.
+
+There is exactly ONE coordinate system.
+
+There is exactly ONE pixel language.
+
+No secondary resolution exists.
+
+No local resolution exists.
+
+No object-specific resolution exists.
+
+No exception exists.
+
+============================================================
+CELL-FIRST CONSTRUCTION ORDER
+============================================================
+
+The artwork must conceptually be constructed in this order:
+
+STEP 1
+Establish the entire canvas as one continuous 16 × 16
+master lattice.
+
+STEP 2
+Determine which complete cells are EMPTY and which
+complete cells are OCCUPIED.
+
+STEP 3
+Assign one intentional color to each occupied cell.
+
+STEP 4
+Group neighboring cells into larger visual clusters.
+
+STEP 5
+Construct major silhouettes from those cell clusters.
+
+STEP 6
+Construct objects from the same cell clusters.
+
+STEP 7
+Create depth using cell density, color relationships,
+layering and negative space.
+
+STEP 8
+Create lighting using neighboring cell colors.
+
+STEP 9
+Create texture only through intentional cell occupancy.
+
+STEP 10
+Remove every detail that cannot be represented by
+complete cells on the same global lattice.
+
+The image must remain cell-first from beginning to end.
+
+============================================================
+GLOBAL LATTICE LOCK
+============================================================
+
+Imagine ONE invisible 16 × 16 grid covering the COMPLETE
+canvas.
+
+The grid does not restart inside objects.
+
+The grid does not shift between objects.
+
+The grid does not resize.
+
+The grid does not rotate.
+
+The grid does not locally re-center.
+
+The grid passes continuously through:
+
+sky
+clouds
+sun
+moon
+stars
+mountains
+trees
+buildings
+animals
+people
+boats
+water
+roads
+rocks
+grass
+flowers
+shadows
+highlights
+reflections
+textures
+decorative elements
+
+Every object must occupy cells from this SAME lattice.
+
+============================================================
+CELL COORDINATE INTEGRITY
+============================================================
+
+Every meaningful boundary must coincide with a master-cell
+boundary.
+
+Allowed geometry:
+
+0 cells
+1 cell
+2 cells
+3 cells
+4 cells
+5 cells
+6 cells
+and larger complete-cell arrangements.
+
+Forbidden:
+
+half-cell positions
+quarter-cell positions
+fractional-cell positions
+sub-cell offsets
+arbitrary pixel offsets
+micro-pixel offsets
+independent object alignment
+
+Every edge must snap to the master lattice.
+
+============================================================
+CELL OCCUPANCY MODEL
+============================================================
+
+Think of the image as a giant discrete occupancy map.
+
+Each master cell has only two fundamental states:
+
+EMPTY
+
+or
+
+OCCUPIED
+
+An occupied cell contains one intentional color region.
+
+A visual object is NOT a continuous shape.
+
+A visual object is a collection of occupied cells.
+
+A curve is a collection of occupied cells.
+
+A diagonal is a collection of occupied cells.
+
+A highlight is a collection of occupied cells.
+
+A shadow is a collection of occupied cells.
+
+A reflection is a collection of occupied cells.
+
+A texture is a collection of occupied cells.
+
+Everything is a cell arrangement.
+
+============================================================
+NO PARTIAL CELLS
+============================================================
+
+Every visible mark must occupy complete cells.
+
+Never show a partial cell.
+
+Never show a fragment of a cell.
+
+Never show a tiny mark between cells.
+
+Never show a line thinner than one complete cell.
+
+Never show a geometric feature smaller than one complete
+16 × 16 cell.
+
+If a feature cannot fit inside one complete cell:
+
+REMOVE IT.
+
+If the feature is important:
+
+REDESIGN IT USING A MULTI-CELL CLUSTER.
+
+============================================================
+NO INDEPENDENT OBJECT PIXEL GRIDS
+============================================================
+
+CRITICAL RULE:
+
+Every object must use the SAME master lattice.
+
+Do NOT create:
+
+a small grid for flowers
+a small grid for animal details
+a small grid for clouds
+a small grid for boats
+a small grid for trees
+a small grid for facial details
+a small grid for textures
+
+There is no object-specific pixel size.
+
+There is no object-specific pixel density.
+
+Objects receive more or fewer CELLS.
+
+Objects NEVER receive smaller CELLS.
+
+============================================================
+SMALL OBJECT RULE
+============================================================
+
+A visually small object must NOT be rendered using tiny
+pixels.
+
+Instead:
+
+SMALL OBJECT
+→ FEWER COMPLETE CELLS.
+
+Examples:
+
+small flower
+→ 1–4 intentional cells
+
+small bird
+→ small cluster of complete cells
+
+small star
+→ single or multi-cell cluster
+
+small rock
+→ compact cell cluster
+
+small distant tree
+→ fewer cells
+
+small boat
+→ fewer cells
+
+Never:
+
+small object
+→ smaller pixels.
+
+============================================================
+LARGE OBJECT RULE
+============================================================
+
+Large objects receive MORE cells.
+
+Examples:
+
+large mountain
+→ large cell mass
+
+large tree
+→ larger cell silhouette
+
+large animal
+→ more cell clusters
+
+large house
+→ more cell groups
+
+large cloud
+→ more occupied cells
+
+Complexity comes from CELL COUNT and ARRANGEMENT.
+
+Never from changing CELL SIZE.
+
+============================================================
+OBJECT SILHOUETTE FIRST
+============================================================
+
+For every important object:
+
+FIRST create the silhouette using complete cells.
+
+THEN create internal color clusters using complete cells.
+
+THEN create shadows using complete cells.
+
+THEN create highlights using complete cells.
+
+NEVER begin with tiny internal details.
+
+NEVER sacrifice the silhouette to create detail.
+
+If internal detail conflicts with the silhouette:
+
+KEEP THE SILHOUETTE.
+
+============================================================
+DETAIL HIERARCHY
+============================================================
+
+DETAIL must be represented by CELL COUNT.
+
+Level 1:
+single-cell detail.
+
+Level 2:
+two-cell cluster.
+
+Level 3:
+three-cell cluster.
+
+Level 4:
+four-cell cluster.
+
+Level 5:
+larger connected cluster.
+
+Never create a new smaller resolution for higher detail.
+
+HIGHER DETAIL
+=
+MORE INTELLIGENT CELL ARRANGEMENT.
+
+NOT
+
+SMALLER PIXELS.
+
+============================================================
+DIAGONAL RULE
+============================================================
+
+All diagonals must be staircase arrangements of complete
+16 × 16 cells.
+
+Example:
+
+■
+■■
+■■■
+■■■■
+
+or:
+
+■■■■
+■■■
+■■
+■
+
+Complex diagonal silhouettes must remain combinations of
+complete cells.
+
+Never smooth a diagonal.
+
+Never anti-alias a diagonal.
+
+Never introduce fractional edge pixels.
+
+============================================================
+CURVE RULE
+============================================================
+
+Curves must be approximated using deliberate cell steps.
+
+Circles
+sun
+moon
+clouds
+animal bodies
+heads
+wheels
+flowers
+organic forms
+
+must all be constructed from complete cells.
+
+Do NOT create a mathematically smooth curve and then
+pixelate it.
+
+Instead:
+
+DESIGN THE CURVE AS A CELL ARRANGEMENT.
+
+============================================================
+COLOR CELL RULE
+============================================================
+
+Each occupied cell should behave as a deliberate color unit.
+
+No smooth gradient inside individual cells.
+
+No soft color blending.
+
+No interpolated edge colors.
+
+No photographic transitions.
+
+Use neighboring cells to create tonal transitions.
+
+Example:
+
+DARK CELL
+→ MID CELL
+→ LIGHT CELL
+
+NOT:
+
+DARK
+→ smooth gradient
+→ LIGHT
+
+============================================================
+LIGHTING
+============================================================
+
+Lighting must be constructed from cell clusters.
+
+Highlight:
+light-colored cells.
+
+Shadow:
+dark-colored cells.
+
+Glow:
+multiple organized bands of complete cells.
+
+Sunlight:
+large color-cell regions.
+
+Reflection:
+organized mirrored or simplified cell patterns.
+
+Never use:
+
+blur
+feathering
+soft glow
+sub-cell lighting
+smooth gradients
+transparent micro effects
+
+============================================================
+TEXTURE
+============================================================
+
+Texture is permitted ONLY when it remains cell-native.
+
+Allowed:
+
+grass cell clusters
+water bands
+rock clusters
+flower clusters
+leaf clusters
+cloud clusters
+shadow clusters
+highlight clusters
+
+Forbidden:
+
+random micro-noise
+single-pixel noise
+grain
+photographic texture
+tiny scattered fragments
+sub-cell texture
+
+Texture must remain intentional.
+
+============================================================
+DETAIL DENSITY
+============================================================
+
+DETAIL DENSITY may change.
+
+CELL SIZE may NEVER change.
+
+BACKGROUND:
+
+lower cell occupancy
+simpler clusters
+larger visual masses
+
+MIDDLE GROUND:
+
+moderate cell occupancy
+moderate color variation
+
+FOREGROUND:
+
+higher cell occupancy
+stronger clusters
+more intentional color variation
+
+IMPORTANT OBJECT:
+
+more carefully arranged cells
+
+SMALL OBJECT:
+
+fewer carefully arranged cells
+
+============================================================
+DEPTH WITHOUT RESOLUTION CHANGE
+============================================================
+
+Create depth using:
+
+cell density
+silhouette scale
+color contrast
+atmospheric color
+layering
+negative space
+overlap
+shadow clusters
+highlight clusters
+
+Never create depth by changing pixel size.
+
+Distant object:
+fewer cells.
+
+Nearby object:
+more cells.
+
+Both use EXACTLY the same 16 × 16 cell.
+
+============================================================
+NEGATIVE SPACE
+============================================================
+
+EMPTY CELLS are intentional design elements.
+
+Use empty cells to create:
+
+sky
+distance
+gaps
+light
+separation
+silhouette definition
+atmosphere
+visual hierarchy
+
+Never fill every cell unnecessarily.
+
+Empty space must remain aligned to the same lattice.
+
+============================================================
+NO MICRO-DETAIL ESCALATION
+============================================================
+
+When the artwork needs more sophistication:
+
+DO NOT:
+
+make pixels smaller
+add micro pixels
+add sub-cell marks
+add tiny lines
+add fractional geometry
+add anti-aliased edges
+add smooth texture
+add tiny noise
+
+INSTEAD:
+
+rearrange cells
+combine cells
+remove cells
+change cell colors
+create stronger clusters
+strengthen silhouettes
+increase contrast
+use negative space
+layer larger cell masses
+
+============================================================
+REALISM CONTROL
+============================================================
+
+If realistic geometry conflicts with the master lattice:
+
+SIMPLIFY THE GEOMETRY.
+
+If a realistic detail requires smaller pixels:
+
+REMOVE THE DETAIL.
+
+If a realistic curve cannot be expressed with complete cells:
+
+APPROXIMATE IT USING STEPPED CELL CLUSTERS.
+
+If realistic texture requires micro-detail:
+
+REPLACE IT WITH CELL-BASED PATTERNS.
+
+Pixel architecture ALWAYS wins over realism.
+
+============================================================
+PIXEL-NATIVE CONSTRUCTION
+============================================================
+
+The result must look like it was manually designed directly
+on a fixed pixel grid.
+
+It must NOT look like:
+
+smooth artwork with pixelation
+a digital painting with a pixel filter
+a photograph converted into pixels
+vector artwork rasterized afterward
+a smooth AI illustration with pixel effects
+a low-resolution image enlarged artificially
+
+The artwork itself must be pixel-native.
+
+============================================================
+MASTER GRID EXTRACTION TEST
+============================================================
+
+Imagine extracting any object:
+
+TREE
+CLOUD
+MOUNTAIN
+HOUSE
+ANIMAL
+BOAT
+FLOWER
+SUN
+ROCK
+WATER REFLECTION
+
+Then place the original global 16 × 16 grid over it.
+
+The extracted object must still align perfectly.
+
+If it needs a different grid:
+
+FAIL.
+
+If it needs smaller pixels:
+
+FAIL.
+
+If it contains sub-cell geometry:
+
+FAIL.
+
+If its internal details use another resolution:
+
+FAIL.
+
+Redesign the object using the SAME master lattice.
+
+============================================================
+WHOLE-CANVAS VERIFICATION
+============================================================
+
+Before finalizing the image, mentally perform:
+
+TOP-LEFT TEST
+CENTER TEST
+BOTTOM-RIGHT TEST
+
+The SAME 16 × 16 cell must work identically in all
+three regions.
+
+Then perform:
+
+SKY TEST
+LAND TEST
+WATER TEST
+OBJECT TEST
+DETAIL TEST
+
+The SAME cell must remain valid everywhere.
+
+============================================================
+FINAL CELL INTEGRITY TEST
+============================================================
+
+Ask:
+
+Can EVERY visible mark be replaced by one or more complete
+16 × 16 squares?
+
+YES → KEEP.
+
+NO → REMOVE OR REDESIGN.
+
+Ask:
+
+Can EVERY object be reconstructed using the SAME global
+16 × 16 lattice?
+
+YES → KEEP.
+
+NO → REDESIGN.
+
+Ask:
+
+Does ANY region contain a smaller pixel language?
+
+YES → REMOVE IT.
+
+Ask:
+
+Does ANY object have its own independent grid?
+
+YES → ALIGN IT.
+
+============================================================
+FINAL PRIORITY ORDER
+============================================================
+
+1. ONE GLOBAL 16 × 16 MASTER LATTICE
+2. CELL-FIRST CONSTRUCTION
+3. COMPLETE CELL OCCUPANCY
+4. ZERO SUB-CELL GEOMETRY
+5. ZERO SECONDARY RESOLUTION
+6. SILHOUETTE QUALITY
+7. CELL CLUSTER LOGIC
+8. COLOR RELATIONSHIPS
+9. DEPTH AND LIGHTING
+10. COMPOSITIONAL BEAUTY
+
+If any lower-priority goal conflicts with a higher-priority
+goal:
+
+THE HIGHER-PRIORITY RULE WINS.
+
+============================================================
+ULTIMATE CONSTRUCTION RULE
+============================================================
+
+DO NOT THINK:
+
+"Draw a beautiful scene and make it pixel art."
+
+THINK:
+
+"Build a beautiful scene by arranging complete cells."
+
+DO NOT THINK:
+
+"Add detail."
+
+THINK:
+
+"Arrange more cells."
+
+DO NOT THINK:
+
+"Make this object smaller in pixel size."
+
+THINK:
+
+"Use fewer cells."
+
+DO NOT THINK:
+
+"Make this curve smoother."
+
+THINK:
+
+"Design a better staircase of cells."
+
+DO NOT THINK:
+
+"Add tiny highlights."
+
+THINK:
+
+"Place intentional highlight cells."
+
+============================================================
+FINAL ABSOLUTE RULE
+============================================================
+
+THE ENTIRE IMAGE IS ONE CONTINUOUS CELL FIELD.
+
+ONE MASTER GRID.
+
+ONE CELL SIZE.
+
+ONE RESOLUTION.
+
+ONE PIXEL LANGUAGE.
+
+EVERY OBJECT IS MADE OF CELLS.
+
+EVERY DETAIL IS MADE OF CELLS.
+
+EVERY EDGE IS A CELL EDGE.
+
+EVERY COLOR REGION IS CELL-BASED.
+
+EVERY SHADOW IS CELL-BASED.
+
+EVERY HIGHLIGHT IS CELL-BASED.
+
+EVERY CURVE IS CELL-STEPPED.
+
+EVERY DIAGONAL IS CELL-STEPPED.
+
+NO OBJECT MAY ESCAPE THE MASTER LATTICE.
+
+NO DETAIL MAY ESCAPE THE MASTER LATTICE.
+
+NO EXCEPTION.
+
+============================================================
+10/10 TARGET
+============================================================
+
+The final image must achieve the visual quality of a
+professionally handcrafted pixel-art scene while maintaining
+strict global geometric consistency.
+
+TARGET:
+
+TRUE CELL-FIRST PIXEL ART.
+
+NOT PIXEL-LIKE.
+
+NOT PIXEL-FILTERED.
+
+NOT APPROXIMATELY PIXELATED.
+
+TRUE GLOBAL CELL ARCHITECTURE.
+
+TRUE SINGLE-RESOLUTION CONSTRUCTION.
+
+TRUE MASTER-LATTICE CONSISTENCY.
+
+MAXIMUM ARTISTIC QUALITY THROUGH CELL ARRANGEMENT.
+
+10/10.
+============================================================

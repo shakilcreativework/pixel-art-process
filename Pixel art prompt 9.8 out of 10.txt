@@ -1,0 +1,251 @@
+==================================================
+V8.2 — INVISIBLE LATTICE / VISIBLE CELL SEPARATION
+==================================================
+
+CRITICAL DISTINCTION:
+
+The global 16 × 16 construction lattice is
+INVISIBLE.
+
+It is a hidden mathematical construction system,
+NOT a visible design element.
+
+The final artwork must NOT display the construction
+grid.
+
+==================================================
+NO VISIBLE GRID
+==================================================
+
+DO NOT DRAW:
+
+grid lines
+cell outlines
+grid overlays
+square borders
+construction guides
+reference lines
+graph paper
+visible lattice lines
+debug grid
+cell boundary strokes
+
+The 16 × 16 lattice controls geometry internally,
+but its lines must NOT appear in the final artwork.
+
+==================================================
+VISIBLE ARTWORK = COLORED CELLS ONLY
+==================================================
+
+The viewer should see:
+
+colored pixel cells
+cell clusters
+stepped silhouettes
+discrete color regions
+
+The viewer should NOT see:
+
+the underlying grid.
+
+Adjacent cells of the same color should visually merge
+into larger continuous shapes.
+
+Do NOT add outlines around every cell.
+
+Do NOT stroke every cell.
+
+Do NOT separate cells with visible borders.
+
+==================================================
+CELL BOUNDARIES
+==================================================
+
+Cell boundaries exist geometrically but are invisible.
+
+A boundary becomes visually apparent ONLY when:
+
+two neighboring cells have different colors.
+
+If neighboring cells share the same color,
+they must visually merge into one continuous region.
+
+==================================================
+NO GRID EFFECT
+==================================================
+
+The final artwork must NOT resemble:
+
+graph paper
+graph paper illustration
+spreadsheet cells
+tiled UI
+checkerboard construction
+architectural floor tiles
+visible pixel grid
+
+It must resemble authentic high-quality
+hand-crafted pixel art.
+
+==================================================
+PIXEL ART APPEARANCE
+==================================================
+
+Preserve:
+
+hard square pixels
+nearest-neighbor appearance
+stepped edges
+discrete color clusters
+clean silhouettes
+intentional pixel placement
+
+Avoid:
+
+visible cell outlines
+hairline separators
+thin strokes
+smooth vector geometry
+anti-aliasing
+subpixel rendering
+
+==================================================
+CELL SIZE VS VISUAL SCALE
+==================================================
+
+The 16 × 16 base cell remains the smallest
+geometric unit.
+
+However, large objects may occupy many adjacent cells.
+
+A mountain may occupy hundreds of cells.
+
+A tree may occupy dozens of cells.
+
+A flower may occupy a small cluster.
+
+A tiny environmental detail may occupy one cell.
+
+The difference between objects comes from
+CELL COUNT and CELL ARRANGEMENT.
+
+Never introduce a smaller geometric unit.
+
+==================================================
+COLOR CLUSTERING
+==================================================
+
+Avoid unnecessary one-cell color noise.
+
+Single cells should be used intentionally.
+
+Prefer:
+
+1-cell accents
+2-cell accents
+3-cell clusters
+4-cell clusters
+larger connected clusters
+
+Use isolated single cells only when they have
+clear visual purpose.
+
+==================================================
+SILHOUETTE PRIORITY
+==================================================
+
+When an object becomes too small to represent clearly:
+
+SIMPLIFY THE OBJECT.
+
+Do not shrink the cell.
+
+Do not introduce finer detail.
+
+Preserve:
+
+recognizable silhouette
+major color masses
+essential features
+strong contrast
+
+Remove secondary detail when necessary.
+
+==================================================
+DETAIL HIERARCHY
+==================================================
+
+BACKGROUND:
+
+large simple cell masses
+
+MIDDLE GROUND:
+
+moderate cell clusters
+
+FOREGROUND:
+
+more cell clusters
+
+FOCAL OBJECTS:
+
+carefully arranged cells with stronger contrast
+
+IMPORTANT:
+
+MORE CELLS
+
+NOT
+
+SMALLER CELLS.
+
+==================================================
+FINAL RENDERING RULE
+==================================================
+
+Before rendering:
+
+construct everything on the invisible
+16 × 16 global lattice.
+
+During rendering:
+
+REMOVE ALL CONSTRUCTION GUIDES.
+
+Final output must show ONLY the pixel artwork.
+
+No grid overlay.
+
+No cell strokes.
+
+No construction lines.
+
+No visible lattice.
+
+==================================================
+FINAL QUALITY TEST
+==================================================
+
+Ask:
+
+"If the grid lines disappeared completely,
+would this still look like intentional,
+professional pixel art?"
+
+YES = correct.
+
+NO = redesign the cell clusters.
+
+The viewer should notice the artwork first,
+NOT the grid.
+
+==================================================
+ABSOLUTE FINAL RULE
+==================================================
+
+THE GRID IS A CONSTRUCTION SYSTEM.
+
+THE PIXELS ARE THE ARTWORK.
+
+THE GRID MUST NEVER BECOME THE ARTWORK.
+==================================================

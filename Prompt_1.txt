@@ -3,7 +3,7 @@ CELL PURITY + ZERO BACKGROUND COLLISION + MEANINGFUL DESIGN EDITION
 
 Create a premium, professional pixel-art illustration of:
 
-[Premium flat vector Halloween background in cinematic 16:9 landscape format. Create a dramatic winding pathway beginning at the lower-left foreground and leading toward a distant haunted mansion positioned on the upper-right hill. Line the pathway with carefully spaced jack-o'-lanterns and low grass silhouettes. Add a giant warm amber moon behind the mansion, two twisted framing trees, layered hills, and a graceful flock of bats. Use coral orange, peach, cream, chocolate brown, and charcoal for an elegant alternative Halloween palette. Emphasize exceptionally smooth vector curves, polished silhouettes, clean geometric construction, separated layers, and balanced visual hierarchy. Keep the scene spacious enough for commercial applications. no text, no typography. Premium Adobe Stock commercial vector aesthetic, original editable-looking artwork. No photorealism, 3D rendering, gore, blood, logos, trademarks, watermarks, jagged edges, malformed architecture, messy overlaps, duplicated pumpkins, distorted perspective, or unnecessary clutter.]
+[DESIGN NAME]
 
 The artwork must be genuine, handcrafted-looking pixel art built on one completely uniform, invisible 16 × 16 base-cell lattice.
 
@@ -13,7 +13,7 @@ The design must prioritize meaningful visual structure, strong recognition, clea
 
 00 — FILL THIS IN BEFORE GENERATING
 
-[Premium flat vector Halloween background in cinematic 16:9 landscape format. Create a dramatic winding pathway beginning at the lower-left foreground and leading toward a distant haunted mansion positioned on the upper-right hill. Line the pathway with carefully spaced jack-o'-lanterns and low grass silhouettes. Add a giant warm amber moon behind the mansion, two twisted framing trees, layered hills, and a graceful flock of bats. Use coral orange, peach, cream, chocolate brown, and charcoal for an elegant alternative Halloween palette. Emphasize exceptionally smooth vector curves, polished silhouettes, clean geometric construction, separated layers, and balanced visual hierarchy. Keep the scene spacious enough for commercial applications. no text, no typography. Premium Adobe Stock commercial vector aesthetic, original editable-looking artwork. No photorealism, 3D rendering, gore, blood, logos, trademarks, watermarks, jagged edges, malformed architecture, messy overlaps, duplicated pumpkins, distorted perspective, or unnecessary clutter.]: what you want drawn
+[DESIGN NAME]: what you want drawn
 
 [MODE]: A (full-scene) or B (isolated asset / sprite / asset sheet)
 
@@ -741,7 +741,7 @@ Do not add:
 
 Only add supporting elements when they meaningfully improve the requested design concept.
 
-The design must remain faithful to [Premium flat vector Halloween background in cinematic 16:9 landscape format. Create a dramatic winding pathway beginning at the lower-left foreground and leading toward a distant haunted mansion positioned on the upper-right hill. Line the pathway with carefully spaced jack-o'-lanterns and low grass silhouettes. Add a giant warm amber moon behind the mansion, two twisted framing trees, layered hills, and a graceful flock of bats. Use coral orange, peach, cream, chocolate brown, and charcoal for an elegant alternative Halloween palette. Emphasize exceptionally smooth vector curves, polished silhouettes, clean geometric construction, separated layers, and balanced visual hierarchy. Keep the scene spacious enough for commercial applications. no text, no typography. Premium Adobe Stock commercial vector aesthetic, original editable-looking artwork. No photorealism, 3D rendering, gore, blood, logos, trademarks, watermarks, jagged edges, malformed architecture, messy overlaps, duplicated pumpkins, distorted perspective, or unnecessary clutter.].
+The design must remain faithful to [DESIGN NAME].
 
 23 — STRUCTURAL VALIDATION — RUN BEFORE FINALIZING
 
@@ -848,7 +848,7 @@ SIMPLIFY THE DESIGN.
 
 Generate ONE polished, cohesive, professional pixel-art illustration of:
 
-[Premium flat vector Halloween background in cinematic 16:9 landscape format. Create a dramatic winding pathway beginning at the lower-left foreground and leading toward a distant haunted mansion positioned on the upper-right hill. Line the pathway with carefully spaced jack-o'-lanterns and low grass silhouettes. Add a giant warm amber moon behind the mansion, two twisted framing trees, layered hills, and a graceful flock of bats. Use coral orange, peach, cream, chocolate brown, and charcoal for an elegant alternative Halloween palette. Emphasize exceptionally smooth vector curves, polished silhouettes, clean geometric construction, separated layers, and balanced visual hierarchy. Keep the scene spacious enough for commercial applications. no text, no typography. Premium Adobe Stock commercial vector aesthetic, original editable-looking artwork. No photorealism, 3D rendering, gore, blood, logos, trademarks, watermarks, jagged edges, malformed architecture, messy overlaps, duplicated pumpkins, distorted perspective, or unnecessary clutter.]
+[DESIGN NAME]
 
 using MODE [A/B] as specified in Section 00.
 

@@ -5,7 +5,39 @@ Cars পার্ট নিয়ে ভেক্টর বানাতে চা�
 আমি বিভিন্ন মুড সম্পর্কে জানতে চাচ্ছি। যেমন হ্যাপি , স্যাড , রাগ এমন ধরনের। বাংলা ও ইংলিশ দিবে। 
 
 
-আমি তোমাকে কিছু silhouette স্টাইল দিলাম। আমি চাচ্ছি নিচে দেওয়া এনিমেলের লিষ্ট গুলো সেম স্টাইলে silhouette বানাতে। কিছু অংশ কম বেশি থাকে এমন ডিজাইন চাই না। যেমন হাত কেমন ধরনের হাতে কতগুলো আঙুল আছে সব হাতেই সমান আঙুল থাকবে, পা কেমন ধরনের পায়ে কতগুলো আঙুল আছে সব পায়েই সমান আঙুল থাকবে, লেজ কেমন সব কিছু সহজে পরিস্কার বোঝা যায় ইতাদি। যেখানে এনিমেল গুলা বিভিন্ন মুডে থাকবে। Happy, sad, angry তবে silhouette টা হবে আমার দেওয়া স্টাইলে। মানে সলিড কালো কালার হবে না। ভিতরে এমন সাদা থাকবে। তুমি আমাকে ২০ টা এনিমের জন্য ২০০ মাষ্টার প্রম লিখে দিবে। google sheet file আকারে দিবে। ratio 1:1 হবে। কোন টেক্সট হবে না। Don't create image.
+আমি তোমাকে কিছু silhouette স্টাইল দিলাম। আমি চাচ্ছি নিচে দেওয়া এনিমেলের লিষ্ট গুলো সেম স্টাইলে silhouette বানাতে। কিছু অংশ কম বেশি থাকে এমন ডিজাইন চাই না। যেমন হাত কেমন ধরনের হাতে কতগুলো আঙুল আছে সব হাতেই সমান আঙুল থাকবে, পা কেমন ধরনের পায়ে কতগুলো আঙুল আছে সব পায়েই সমান আঙুল থাকবে, লেজ কেমন সব কিছু সহজে পরিস্কার বোঝা যায় ইতাদি। যেখানে এনিমেল গুলা বিভিন্ন মুডে থাকবে। 
+Satisfied
+Relieved
+Calm
+Eager
+Curious
+Fascinated
+Amazed
+Playful
+Friendly
+Sad
+তবে silhouette টা হবে আমার দেওয়া স্টাইলে। মানে সলিড কালো কালার হবে না। ভিতরে এমন সাদা থাকবে। তুমি আমাকে ২০ টা এনিমের জন্য ২০০ মাষ্টার প্রম লিখে দিবে। google sheet file আকারে দিবে। ratio 1:1 হবে। কোন টেক্সট হবে না। Don't create image.
+
+Flying Dragon Lizard
+Shoebill Stork
+Secretary Bird
+Hoatzin
+Hornbill
+Lyrebird
+Andean Cock-of-the-Rock
+King Vulture
+Jacana (long toes, walks on lily pads)
+Leafy Sea Dragon
+Nautilus
+Oarfish
+Paddlefish
+Ocean Sunfish (Mola Mola)
+Vampire Squid
+Fossa (Madagascar predator)
+Dhole (Asian wild dog)
+Binturong (bearcat)
+Markhor (spiral-horn goat)
+Okapi (zebra-giraffe hybrid)
 
 
 আমি তোমাকে কিছু silhouette style reference দিলাম। নিচের ২০টি animal একই style-এ তৈরি করার জন্য মোট ২০০টি master prompt তৈরি করো। Animal-এর কোনো body part কম-বেশি, missing বা unclear হবে না—হাত/paw, fingers/toes, পা, কান, চোখ, লেজ ইত্যাদি সবকিছু পরিষ্কার ও natural anatomy অনুযায়ী বোঝা যাবে। Animal গুলো বিভিন্ন mood-এ থাকবে যেমন Happy, Sad, Angry, Scared, Surprised ইত্যাদি, কিন্তু সবসময় আমার দেওয়া silhouette style অনুসরণ করবে। Silhouette solid black হবে না; reference-এর মতো ভিতরে clean white/negative-space details থাকবে। প্রতিটি design 1:1 ratio হবে, কোনো text থাকবে না। ২০টি animal × ১০টি prompt = ২০০টি master prompt Google Sheet file হিসেবে দাও। Don't create image.

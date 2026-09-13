@@ -1,38 +1,33 @@
-
-
-আমি তোমাকে কিছু silhouette স্টাইল দিলাম। আমি চাচ্ছি নিচে দেওয়া এনিমেলের লিষ্ট গুলো সেম স্টাইলে silhouette বানাতে। কিছু অংশ কম বেশি থাকে এমন ডিজাইন চাই না। [ANIMAL]-এর সঠিক তথ্য: [REAL FINGER/TOE FACT — e.g., "এই cat-এর সামনের প্রতিটা পায়ে ৫টা আঙুল এবং পিছনের প্রতিটা পায়ে ৪টা আঙুল থাকে।"] Whichever view it is, all fingers/toes must be clearly visible and understandable. যেমন হাত কেমন ধরনের, এই এনিমেলের হাতে কতগুলো আঙুল থাকে, সব হাতেই সমান আঙুল থাকবে; পা কেমন ধরনের, এই এনিমেলের পায়ে কতগুলো আঙুল থাকে, সব পায়েই সমান আঙুল থাকবে; লেজ কেমন, সব কিছু সহজে পরিস্কার বোঝা যায় ইত্যাদি। এই এনিমেলটি 
-[
-Cheerful
-Delighted
-Excited
-Thrilled
+আমি তোমাকে কিছু silhouette স্টাইল দিলাম। আমি চাচ্ছি নিচে দেওয়া এনিমেলের লিষ্ট গুলো সেম স্টাইলে silhouette বানাতে। কিছু অংশ কম বেশি থাকে এমন ডিজাইন চাই না। First, know the correct information about the animal — how many fingers/toes it has in its hands and feet. Whichever view or angle is used, the fingers/toes must be anatomically correct and perfectly match the chosen view. They do not all need to be visible, but the visible fingers/toes must be clear, natural, and correctly positioned—nothing should appear missing, extra, or incorrectly oriented. যেমন হাত কেমন ধরনের, এই এনিমেলের হাতে কতগুলো আঙুল থাকে, সব হাতেই সমান আঙুল থাকবে; পা কেমন ধরনের, এই এনিমেলের পায়ে কতগুলো আঙুল থাকে, সব পায়েই সমান আঙুল থাকবে; লেজ কেমন, সব কিছু সহজে পরিস্কার বোঝা যায় ইত্যাদি। যেখানে এনিমেল গুলা বিভিন্ন মুডে থাকবে। 
+Happy
+Joyful
 Confident
 Inspired
-Satisfied
-Calm
-Eager
-Curious
-] 
-মুডে থাকবে। তবে silhouette টা হবে আমার দেওয়া স্টাইলে। মানে সলিড কালো কালার হবে না। ভিতরে এমন সাদা থাকবে। Ratio 1:1 হবে। কোন টেক্সট হবে না।
+Loving
+Excited
+Cheerful
+Hopeful
+Enthusiastic
+Playful
+তবে silhouette টা হবে আমার দেওয়া স্টাইলে। মানে সলিড কালো কালার হবে না। ভিতরে এমন সাদা থাকবে। তুমি আমাকে ২০ টা এনিমের জন্য ২০০ মাষ্টার প্রম লিখে দিবে। google sheet file আকারে দিবে। ratio 1:1 হবে। কোন টেক্সট হবে না। Don't create image.
 
-
-cat
-horse
-panda
-bear
-gorila
-cocodile
-turtle
-Meerkat
-butterfly
-Honey badger
-eagle
-Whale shark
-turkey
-Orca
-Squirrel 
-deer
-Prairie dog
-Hammerhead shark
-cuttlefish 
-seal
+Butterfly
+Bee
+Dragonfly
+Ladybug
+Beetle
+Moth
+Praying Mantis
+Grasshopper
+Cricket
+Ant
+Mosquito
+Wasp
+Hornet
+Fly
+Firefly
+Caterpillar
+Cicada
+Scarab Beetle
+Stick Insect
+Earwig

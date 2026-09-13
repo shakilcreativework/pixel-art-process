@@ -1,0 +1,181 @@
+MICROSTOCK MOOD PRIORITY — 2026
+
+Purpose: Priority order for the supplied mood/emotion list, arranged from higher to lower commercial usefulness/demand potential for Adobe Stock and broader microstock use.
+
+Important: Adobe does not publish a public, exact per-keyword sales leaderboard. This is a market-priority ranking inferred from Adobe's current 2026 Creative Trends, Adobe Stock contributor guidance, Adobe's emotion taxonomy, and Adobe's published Firefly emotion-prompt trend data. It should be treated as a practical production-priority list, not guaranteed sales data.
+
+SET 01 — HIGHEST PRIORITY
+Happy
+Joyful
+Confident
+Inspired
+Loving
+Excited
+Cheerful
+Hopeful
+Enthusiastic
+Playful
+
+SET 02
+Friendly
+Affectionate
+Caring
+Optimistic
+Empowered
+Proud
+Grateful
+Calm
+Relaxed
+Peaceful
+
+SET 03
+Focused
+Determined
+Motivated
+Brave
+Energized
+Thrilled
+Delighted
+Amazed
+Surprised
+Curious
+
+SET 04
+Sociable
+Outgoing
+Welcoming
+Compassionate
+Empathetic
+Tender
+Romantic
+Admiring
+Content
+Satisfied
+
+SET 05
+Carefree
+Comfortable
+Meditative
+Lively
+Fun
+Jovial
+Joking
+Mischievous
+Eager
+Fascinated
+
+SET 06
+Expectant
+Certain
+Resolute
+Self-confident
+Thoughtful
+Playful
+Neutral
+Uncertain
+Hesitant
+Confused
+
+SET 07
+Anxious
+Worried
+Nervous
+Afraid
+Scared
+Frightened
+Uneasy
+Apprehensive
+Terrified
+Shy
+
+SET 08
+Sad
+Unhappy
+Lonely
+Disappointed
+Emotional
+Melancholy
+Discouraged
+Upset
+Gloomy
+Sorrowful
+
+SET 09
+Angry
+Annoyed
+Irritated
+Frustrated
+Agitated
+Impatient
+Furious
+Enraged
+Hostile
+Dissatisfied
+
+SET 10
+Tired
+Exhausted
+Sleepy
+Drained
+Weak
+Lazy
+Bored
+Uninterested
+Dull
+Disengaged
+
+SET 11
+Conflicted
+Doubtful
+Unsure
+Puzzled
+Perplexed
+Disbelieving
+Indifferent
+Down
+Regretful
+Helpless
+
+SET 12
+Heartbroken
+Jealous
+Envious
+Resentful
+Embarrassed
+Ashamed
+Guilty
+Remorseful
+Awkward
+Disgusted
+
+SET 13
+Repulsed
+Revolted
+Dislike
+Nauseated
+Ambivalent
+Bittersweet
+Mixed Feelings
+Emotionally Conflicted
+Relieved
+Stunned
+
+SET 14
+Astonished
+Shocked
+Ecstatic
+
+NOTES FOR STOCK PRODUCTION
+Prioritize the first sets when building your initial silhouette collection.
+For each mood, create genuinely distinct poses/gestures rather than near-duplicate submissions.
+Strong commercial concepts usually combine the emotion with a clear human action, relationship, situation, or useful silhouette.
+Adobe emphasizes authentic emotion, connection, relatable everyday moments, diverse representation, and commercially useful imagery.
+Metadata matters: Adobe says the first 10 keywords have the greatest influence on search ranking, so use the most important and accurate concepts first.
+
+SOURCE BASIS
+- Adobe Stock 2026 Creative Trends: All the Feels, Connectioneering, Surreal Silliness, and Local Flavor.
+- Adobe Stock contributor guidance: authentic people, emotional expressions, connection, compassion, leadership, everyday moments, and commercially useful content.
+- Adobe's 2025 Firefly emotion-prompt analysis: happiness, serenity, confident, relaxation, and joy were the top five positive/calming emotions; confident, nostalgia, and relaxation were among the top trending terms.
+- Adobe Stock's Emotions & Feelings discovery taxonomy includes happiness, sadness, loneliness, anger, inspiration, calm, peace, hope, fear, gratitude, joy, anxiety, surprise, empathy, excitement, confidence, pride, disappointment, regret, shame, euphoria, guilt, contentment, melancholy, anticipation, and longing.
+
+Prepared for mood/silhouette microstock planning — September 2026.

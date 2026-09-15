@@ -1,0 +1,960 @@
+FINAL PIXEL GRID MASTER — v4
+CELL PURITY + ZERO BACKGROUND COLLISION + MEANINGFUL DESIGN EDITION
+
+Create a premium, professional pixel-art illustration of:
+
+[DESIGN NAME]
+
+The artwork must be genuine, handcrafted-looking pixel art built on one completely uniform, invisible 16 × 16 base-cell lattice.
+
+The 16 × 16 base cell is the ABSOLUTE SMALLEST PERMITTED GEOMETRIC UNIT anywhere in the artwork.
+
+The design must prioritize meaningful visual structure, strong recognition, clean silhouettes, intentional composition, purposeful details, and professional pixel-art quality.
+
+00 — FILL THIS IN BEFORE GENERATING
+
+[DESIGN NAME]: what you want drawn
+
+[MODE]: A (full-scene) or B (isolated asset / sprite / asset sheet)
+
+[MODE B ONLY] Background: exactly #FFFFFF or #000000
+
+Before generating, determine the correct mode and background requirements.
+
+01 — MODE SELECTION — DECIDE THIS FIRST
+
+Ask:
+
+Does the image have genuinely empty space around the subject that is intended to remain blank, or does the artwork fill the entire frame?
+
+MODE A — FULL-SCENE
+
+The artwork fills the entire canvas from edge to edge.
+
+Examples:
+
+- Landscapes
+- Full illustrated scenes
+- Wallpapers
+- Environments
+- Scenes with sky, ground, water, buildings, or atmosphere reaching the canvas edges
+
+The scene itself is the artwork.
+
+→ Skip the Mode B background-color restrictions.
+
+→ The sky, water, atmosphere, and environment may use deliberate color variation and discrete cell shading.
+
+MODE B — ISOLATED-ASSET
+
+Use Mode B when the subject is intended to be isolated, cropped, exported, or have its background removed later.
+
+Examples:
+
+- Icons
+- Characters
+- Objects
+- Props
+- Sprites
+- Decorative assets
+- Asset sheets containing multiple separate objects
+
+Mode B requires strict background isolation with zero tolerance for violations.
+
+MODE B ABSOLUTE BACKGROUND RULE
+
+The background must:
+
+- Use exactly ONE single, flat, uniform color
+- Extend edge-to-edge
+- Be selected specifically for the current design
+- Be unique to the current generation whenever practical
+- Be commercially attractive and suitable for Adobe Stock, Shutterstock, and other microstock marketplaces
+- Have strong, clean visual separation from the actual design
+- Have zero color collision with the actual design
+- Never appear as a design color anywhere inside the subject
+
+CRITICAL BACKGROUND SELECTION ORDER
+
+First establish the complete design palette.
+
+Then analyze the actual design colors, dominant colors, luminance, contrast, saturation, visual hierarchy, subject category, and overall mood.
+
+Only after that, select the background color.
+
+The background color must be chosen to complement the finished design rather than forcing the design to adapt to a predetermined background.
+
+UNIQUE BACKGROUND COLOR RULE
+
+Do not automatically default to white, black, gray, or another repeatedly reused background color.
+
+For every new artwork, intentionally vary the background selection when the design allows it.
+
+Prefer a refined, professional, commercially useful color that:
+
+- Is clearly distinct from every design color
+- Does not visually compete with the focal subject
+- Provides strong subject readability
+- Supports the overall composition
+- Looks polished in stock-marketplace previews
+- Works well for isolated assets and later background removal
+- Avoids muddy or visually weak combinations
+- Avoids unnecessarily fluorescent, harsh, or distracting colors
+
+The background may be selected from a broad professional color range, including tasteful light, mid-tone, or dark hues, provided that the chosen color satisfies all separation and collision rules.
+
+The exact background color must be intentionally determined from the current design palette, not copied blindly from a fixed default.
+
+ZERO BACKGROUND-COLOR COLLISION
+
+The selected background color is reserved exclusively for the background.
+
+Background color usage inside the actual design = 0%.
+
+Never use the exact background color as:
+
+- A design fill
+- Outline
+- Shadow
+- Highlight
+- Reflection
+- Texture
+- Interior negative-space decoration
+- Lighting
+- Material
+- Effect
+- Any other design component
+
+If a design element conflicts with the selected background color, change the design color or redesign that element.
+
+NEVER CHANGE THE BACKGROUND TO SOLVE A DESIGN COLLISION AFTER FINAL SELECTION UNLESS THE NEW BACKGROUND IS RE-EVALUATED AGAINST THE ENTIRE DESIGN PALETTE.
+
+The final background must remain one exact, flat color with no gradient, texture, noise, transparency, vignette, or shading.
+
+It must never be intentionally used for:
+
+- Outlines
+- Shadows
+- Highlights
+- Internal details
+- Texture
+- Reflections
+- Decorative elements
+- Effects
+- Clothing
+- Objects
+- Materials
+- Any other design component
+
+Background color usage inside the actual design = 0%.
+
+Rule of Thumb
+
+If you would ever want to remove the background and keep only the subject → MODE B.
+
+If the background is itself part of the subject or environment → MODE A.
+
+02 — UNIQUE MARKETPLACE-OPTIMIZED BACKGROUND COLOR SYSTEM — MODE B ONLY
+
+The background must be ONE single, uniform, solid color, edge-to-edge.
+
+The background color is not restricted to white or black.
+
+It must be intentionally selected for the current artwork after the complete design palette has been established.
+
+BACKGROUND SELECTION REQUIREMENTS
+
+The selected background must:
+
+- Be exactly one flat color
+- Be represented by one exact RGB/HEX color value
+- Remain completely uniform edge-to-edge
+- Be visually compatible with the subject
+- Provide clear subject/background separation
+- Have zero exact-color collision with the design
+- Avoid near-identical colors that visually merge with important subject areas
+- Support strong marketplace thumbnail readability
+- Look professional and commercially attractive
+- Be appropriate for Adobe Stock, Shutterstock, and other microstock marketplaces
+- Avoid unnecessary visual distraction
+- Be different from recently used background colors whenever practical
+
+BACKGROUND UNIQUENESS
+
+Always attempt to create meaningful background variation between generated artworks.
+
+Do not repeatedly use the same white, black, gray, beige, blue, or other default background when a stronger alternative is available.
+
+The goal is not random color selection.
+
+The goal is INTELLIGENT COLOR VARIATION.
+
+Choose a background that complements the current design while remaining visually distinct from every important design color.
+
+Do not choose a background simply because it is aesthetically attractive by itself.
+
+Choose the background based on the COMPLETE DESIGN.
+
+COLOR COLLISION TEST
+
+Before finalizing the artwork:
+
+1. Identify every significant design color.
+2. Identify the dominant design colors.
+3. Check luminance and visual contrast.
+4. Check saturation and hue similarity.
+5. Select a candidate background.
+6. Verify that the candidate background does not collide with any design color.
+7. Reject the candidate if important subject areas become difficult to distinguish.
+8. Select another background candidate.
+9. Repeat until the background provides strong, clean separation.
+10. Lock the final background color exclusively to the background.
+
+The exact selected background color must have 0% usage inside the actual design.
+
+Do not use gradients, vignettes, texture, noise, patterns, transparency, or background shading.
+
+ZERO BACKGROUND-COLOR COLLISION
+
+The selected background color must exist only in the background.
+
+It must have:
+
+0% usage inside the actual design.
+
+The design must use colors that clearly differ from the selected background.
+
+Never use the exact background color as:
+
+- A design fill
+- Outline
+- Shadow
+- Highlight
+- Reflection
+- Texture
+- Interior negative-space decoration
+- Lighting
+- Material
+- Effect
+
+This rule exists to make the asset clean, unambiguous, easily croppable, and reliable for automated background-removal workflows.
+
+CRITICAL — NO BLENDING, GLOW, OR SOFT EDGES TOUCHING THE BACKGROUND
+
+Every visible area must be either:
+
+A. Exact background color
+
+or
+
+B. A fully opaque design color
+
+with a clear hard separation.
+
+Never create:
+
+- Soft glow
+- Halo
+- Drop-shadow fade
+- Partial-opacity blend
+- Feathering
+- Anti-aliasing
+- Transitional pixels
+- Semi-transparent cells
+- Color contamination
+
+A blended transition between the subject and background is forbidden.
+
+EDGE INTEGRITY
+
+The background must sit cleanly outside every object.
+
+The boundary must always be:
+
+BACKGROUND → HARD DESIGN EDGE
+
+Never:
+
+BACKGROUND → SOFT/BLENDED TRANSITION → DESIGN
+
+GLOW / LIGHT / SPARKLE EFFECTS
+
+If a glow or magical light effect is conceptually required, construct it using fully opaque complete cells.
+
+Use:
+
+1. Bright core
+2. Mid-tone ring
+3. Optional dim outer ring
+
+Each ring must have:
+
+- A flat color
+- Complete 16×16 cells
+- A hard boundary
+- No transparency
+- No gradient
+- No fading into the background
+
+Never create a smooth radial glow.
+
+If an effect cannot remain cleanly separated from the background, remove or redesign the effect.
+
+MODE B ASSET SHEETS
+
+For multiple objects:
+
+- Every object uses the same 16×16 grid.
+- Every object uses the same pixel-art language.
+- Every object shares the same exact background.
+- Keep clear negative space between objects.
+- Do not allow objects to merge.
+- Do not decorate the gaps unnecessarily.
+- Maintain consistent visual scale and spacing.
+- Make every object independently recognizable and easily croppable.
+
+03 — ABSOLUTE 16 × 16 CELL LOCK — ALWAYS APPLIES
+
+Every visible design element MUST be constructed exclusively from complete 16 × 16 base cells.
+
+One cell = one fundamental pixel unit.
+
+No geometric element may be smaller than one complete base cell.
+
+Every:
+
+- Outline
+- Edge
+- Diagonal
+- Curve
+- Highlight
+- Shadow
+- Texture mark
+- Reflection
+- Window
+- Architectural detail
+- Plant detail
+- Rock
+- Cloud
+- Character feature
+- Environmental detail
+
+must occupy complete cells or connected groups of complete cells.
+
+NEVER subdivide a base cell.
+
+NEVER create a smaller pixel inside a cell.
+
+NEVER change pixel scale anywhere.
+
+The exact same 16×16 cell size must remain consistent from the extreme foreground to the distant background.
+
+04 — HIERARCHICAL CELL QUANTIZATION
+
+Use the SAME 16×16 cell size everywhere.
+
+Depth may be created through:
+
+- Occupied-cell count
+- Cell clustering
+- Shape arrangement
+- Silhouette complexity
+- Color grouping
+- Tonal contrast
+- Overlap
+- Perspective
+- Atmospheric color separation
+- Object scale
+- Negative space
+
+Never create depth using smaller pixels.
+
+DETAIL DENSITY MAY CHANGE.
+
+CELL SIZE MAY NEVER CHANGE.
+
+Background may use fewer, simpler clusters.
+
+Middle ground may use moderate clusters.
+
+Foreground may use denser clusters.
+
+Fine details must use only a small number of carefully selected complete 16×16 cells.
+
+05 — NO DETAIL ESCALATION
+
+Do not make distant objects smaller by using smaller pixels.
+
+Do not create fine details with micro-pixels.
+
+Do not introduce high-resolution fragments.
+
+Do not add tiny decorative marks merely to make the artwork appear more detailed.
+
+If a detail is too small for one complete 16×16 cell:
+
+SIMPLIFY → REMOVE → MERGE → ENLARGE
+
+Never shrink the cell.
+
+PIXEL PURITY HAS PRIORITY OVER DETAIL.
+
+06 — PERFECT HARD PIXEL EDGES
+
+All edges must be:
+
+- Hard
+- Crisp
+- Discrete
+- Grid-aligned
+- Intentional
+
+Use staircase geometry for diagonals and curves.
+
+Never use:
+
+- Smooth vector curves
+- Vector-smooth edges
+- Sub-pixel positioning
+- Fractional geometry
+- Anti-aliasing
+- Blurring
+- Feathering
+- Soft transitions
+- Interpolation
+
+Every boundary must resolve cleanly to the 16×16 lattice.
+
+This applies to internal edges and, especially, the subject/background boundary in Mode B.
+
+07 — OUTLINE PURITY
+
+Outlines must use complete 16×16 cells.
+
+Outline thickness must remain compatible with the same grid.
+
+Never create:
+
+- Hairline outlines
+- Half-cell outlines
+- Fractional contour thickness
+- Microscopic contour variations
+
+If an outline becomes too narrow:
+
+SIMPLIFY THE CONTOUR.
+
+Do not reduce the cell size.
+
+Prefer strong, readable silhouettes over excessive contour complexity.
+
+08 — DIAGONAL AND CURVE CONTROL
+
+All diagonals must be staircase patterns composed of complete cells.
+
+All curves must be deliberate stepped shapes.
+
+Avoid random or accidental jaggedness.
+
+Every staircase must feel intentionally designed.
+
+Use:
+
+- 1-cell steps
+- 2-cell steps
+- 3-cell steps
+- Larger structured steps
+
+Never use partial cells to artificially smooth a diagonal or curve.
+
+09 — COLOR CELL DISCIPLINE
+
+Every color region must respect the same 16×16 cell architecture.
+
+Use:
+
+- Flat color blocks
+- Controlled color clusters
+- Purposeful highlights
+- Purposeful shadows
+- Clear tonal grouping
+
+Avoid:
+
+- Gradients
+- Airbrushing
+- Photographic shading
+- Smooth transitions
+- Random texture
+- Procedural color noise
+
+Every highlight and shadow must be constructed from complete cells.
+
+Color variation must support:
+
+- Form
+- Depth
+- Material
+- Lighting
+- Subject recognition
+- Visual hierarchy
+
+In Mode B, colors must never become the selected background color.
+
+10 — MEANINGFUL PIXEL CLUSTER QUALITY
+
+Use intentional pixel clusters instead of random isolated pixels.
+
+Every cluster should communicate at least one meaningful purpose:
+
+- Form
+- Depth
+- Material
+- Lighting
+- Silhouette
+- Perspective
+- Texture
+- Environmental structure
+- Storytelling
+
+Avoid:
+
+- Meaningless checkerboard patterns
+- Random scattered cells
+- Artificial procedural noise
+- Decorative clutter
+- Repetitive meaningless patterns
+
+Every detail must earn its place.
+
+11 — DEPTH WITHOUT PIXEL SCALE CHANGES
+
+Create depth using:
+
+- Overlapping silhouettes
+- Foreground framing
+- Atmospheric perspective
+- Color temperature
+- Value separation
+- Object scale
+- Cell density
+- Perspective
+- Negative space
+
+Never create depth by changing the fundamental pixel size.
+
+Near and far objects must use exactly the same 16×16 base cell.
+
+12 — COMPOSITION AND DESIGN INTENT
+
+Create a polished, commercially strong composition.
+
+Before adding detail, establish:
+
+1. Main subject
+2. Primary silhouette
+3. Focal point
+4. Supporting forms
+5. Negative space
+6. Color hierarchy
+7. Depth structure
+8. Secondary details
+
+The main subject must remain immediately recognizable.
+
+Use:
+
+- Strong focal hierarchy
+- Balanced visual weight
+- Clear silhouette
+- Controlled negative space
+- Intentional scale
+- Strong visual flow
+- Readable foreground/middle ground/background
+- Clean storytelling
+
+Avoid unnecessary clutter.
+
+Do not add random objects merely to fill empty space.
+
+Every major element must have a visual reason to exist.
+
+13 — MEANINGFUL DESIGN PRINCIPLES
+
+The artwork must communicate a clear visual idea rather than simply contain many details.
+
+Prioritize:
+
+RECOGNITION → SILHOUETTE → COMPOSITION → FORM → LIGHTING → MATERIAL → DETAIL
+
+A viewer should understand the subject quickly, even before seeing the smaller details.
+
+Use detail to strengthen the concept, not distract from it.
+
+Detail Hierarchy
+
+Use three levels:
+
+PRIMARY: Main subject and defining silhouette.
+
+SECONDARY: Important supporting forms, materials, lighting, and structural features.
+
+TERTIARY: Small meaningful accents that improve readability or storytelling.
+
+Do not allow tertiary details to overpower the primary subject.
+
+14 — MATERIAL AND ENVIRONMENT DETAIL
+
+Represent materials through cell grouping and color structure.
+
+Wood → directional rectangular cell clusters.
+
+Stone → irregular but grid-aligned cell clusters.
+
+Water → horizontal or perspective-based cell bands.
+
+Leaves → clustered organic silhouettes made from complete cells.
+
+Clouds → large stepped cell masses.
+
+Mountains → layered stepped silhouettes.
+
+Buildings → architectural blocks aligned to the same cell system.
+
+Ground → controlled irregular cell clusters.
+
+Reflections → simplified mirrored cell structures.
+
+Every material must remain within the same 16×16 architecture.
+
+15 — LIGHTING AND FORM CLARITY
+
+Lighting must be designed through complete cells.
+
+Use a clear lighting direction when appropriate.
+
+Highlights should explain form.
+
+Shadows should reinforce:
+
+- Depth
+- Volume
+- Object separation
+- Material
+- Lighting direction
+
+Do not use lighting merely as decorative noise.
+
+Never use smooth gradients or soft airbrushed lighting.
+
+For Mode B, lighting must never blend into or use the exact background color.
+
+16 — REFLECTION RULE
+
+If reflective water or another reflective surface appears:
+
+- Use the same 16×16 cells.
+- Simplify reflections.
+- Use intentional mirrored cell structures.
+- Preserve readable shapes.
+
+Do not use:
+
+- Tiny reflection fragments
+- Smooth transparency
+- Blur
+- Sub-cell reflection details
+- Gradient reflections
+
+Reflection quality must come from the arrangement of complete cells.
+
+17 — MICRO-DETAIL BAN
+
+ABSOLUTELY FORBIDDEN:
+
+- Micro-pixels
+- Sub-pixels
+- Half-cells
+- Quarter-cells
+- Fractional cells
+- Anti-aliasing
+- Subpixel rendering
+- Smooth vector edges
+- Hairline details
+- Tiny texture fragments
+- Fine noise
+- Photographic texture
+- Blurred pixels
+- Soft edges
+- Mixed pixel sizes
+- Mixed grid scales
+- Pixel interpolation
+- Gradient pixels
+- Procedural micro-noise
+
+If a detail cannot fit into one or more complete 16×16 cells:
+
+SIMPLIFY IT.
+
+Never shrink the cell.
+
+18 — NO MIXED PIXEL SCALES
+
+This rule is absolute.
+
+The artwork must NOT contain:
+
+- Large pixels in one area
+- Medium pixels in another
+- Small pixels in another
+
+There is ONLY ONE fundamental pixel unit:
+
+16 × 16
+
+The same invisible lattice governs the entire artwork.
+
+19 — VISUAL QUALITY PRESERVATION
+
+Preserve:
+
+- Strong composition
+- Attractive palette
+- Excellent readability
+- Professional silhouettes
+- Convincing depth
+- Clean lighting
+- Clear subject hierarchy
+- Meaningful storytelling
+- Sophisticated environmental structure
+- Clean isolation in Mode B
+- Polished game-art aesthetic
+- Commercial stock appeal
+
+Do not sacrifice visual quality merely to enforce the grid.
+
+Instead redesign problematic details using larger complete cells.
+
+Correct solution:
+
+SIMPLIFY → MERGE → REPOSITION → ENLARGE
+
+Never:
+
+SHRINK THE PIXEL
+
+20 — PIXEL ART IDENTITY
+
+The final result must unmistakably look like authentic, intentionally designed pixel art.
+
+It must NOT look like:
+
+- A normal digital painting with pixelation
+- A smooth illustration converted into pixels
+- A photograph with a pixel filter
+- Vector artwork with blocky edges
+- AI-generated smooth artwork with pixel texture
+
+The artwork must appear to have been designed from the beginning on the fixed 16×16 lattice.
+
+21 — CELL ECONOMY
+
+Every occupied cell should have a clear visual purpose.
+
+Prefer:
+
+FEWER STRONG CELLS > MANY WEAK CELLS
+
+Do not fill empty space with unnecessary detail.
+
+Do not increase cell density merely to create complexity.
+
+Every cell should contribute to at least one of:
+
+- Form
+- Depth
+- Lighting
+- Silhouette
+- Texture
+- Material
+- Perspective
+- Storytelling
+
+22 — NO INVENTED OR UNREQUESTED ELEMENTS
+
+Do not add:
+
+- Unrequested text
+- Logos
+- Watermarks
+- Borders
+- Extra characters
+- Random objects
+- Decorative symbols
+- Unnecessary scenery
+- Irrelevant effects
+
+Only add supporting elements when they meaningfully improve the requested design concept.
+
+The design must remain faithful to [DESIGN NAME].
+
+23 — STRUCTURAL VALIDATION — RUN BEFORE FINALIZING
+
+CELL INTEGRITY — BOTH MODES
+
+- [ ] Every fundamental unit is exactly 16×16
+- [ ] No smaller geometric unit exists
+- [ ] No mixed pixel scale
+- [ ] No sub-cell detail
+- [ ] No anti-aliasing
+- [ ] No smooth vector edges
+- [ ] All diagonals use intentional complete-cell staircases
+- [ ] All curves use intentional complete-cell staircases
+- [ ] All highlights use complete cells
+- [ ] All shadows use complete cells
+- [ ] Foreground, middle ground, and background use the same cell size
+- [ ] Depth never depends on smaller pixels
+
+BACKGROUND — MODE B ONLY
+
+- [ ] Exactly ONE flat background color is used
+- [ ] Background color was selected after establishing the design palette
+- [ ] Background color is intentionally varied when practical
+- [ ] Background is commercially suitable for microstock marketplaces
+- [ ] Background provides strong subject/background separation
+- [ ] Background extends edge-to-edge
+- [ ] No gradient
+- [ ] No texture
+- [ ] No transparency
+- [ ] No vignette
+- [ ] No background shading
+- [ ] Selected background color has 0% usage inside the actual design
+- [ ] No design element uses the exact background color
+- [ ] No outline uses the background color
+- [ ] No shadow uses the background color
+- [ ] No highlight uses the background color
+- [ ] No internal detail uses the background color
+- [ ] No reflection or effect uses the background color
+- [ ] No glow or halo touches the background
+- [ ] No partial-opacity blend touches the background
+- [ ] No anti-aliased boundary exists
+- [ ] Every subject/background boundary is hard and grid-aligned
+- [ ] Every object is cleanly separated and croppable
+
+BACKGROUND — MODE A ONLY
+
+- [ ] Full-frame scene reads as one intentional composition
+- [ ] Atmospheric variation is deliberate
+- [ ] Environmental color does not become random noise
+- [ ] Background supports the focal subject
+
+DESIGN QUALITY — BOTH MODES
+
+- [ ] Main subject is immediately recognizable
+- [ ] Primary silhouette is strong
+- [ ] Focal point is clear
+- [ ] Supporting elements are meaningful
+- [ ] Negative space is intentional
+- [ ] Color hierarchy is clear
+- [ ] Lighting supports form
+- [ ] Details do not overpower the subject
+- [ ] No unnecessary clutter
+- [ ] Artwork looks intentionally pixel-designed, not filtered
+- [ ] No unrequested text, watermark, border, or invented elements
+
+24 — FINAL PRIORITY ORDER
+
+ABSOLUTE PRIORITIES
+
+1. MODE B background integrity and zero background-color collision
+2. Absolute 16×16 cell integrity
+3. Zero sub-cell geometry
+4. Zero mixed pixel scales
+5. Clean hard pixel silhouettes
+6. Clear subject recognition
+7. Strong composition and visual hierarchy
+8. Meaningful color and lighting
+9. Depth and environmental storytelling
+10. Controlled meaningful detail
+11. Premium commercial quality
+
+If any visual detail conflicts with the 16×16 architecture:
+
+THE GRID WINS.
+
+If additional detail conflicts with pixel purity:
+
+PIXEL PURITY WINS.
+
+If a background effect conflicts with Mode B isolation:
+
+REMOVE OR REDESIGN THE EFFECT.
+
+If the selected background color appears inside the design:
+
+CHANGE THE DESIGN COLOR — NEVER CHANGE THE BACKGROUND RULE.
+
+If realism conflicts with pixel architecture:
+
+PIXEL ARCHITECTURE WINS.
+
+If complexity conflicts with recognition:
+
+SIMPLIFY THE DESIGN.
+
+25 — FINAL OUTPUT
+
+Generate ONE polished, cohesive, professional pixel-art illustration of:
+
+[DESIGN NAME]
+
+using MODE [A/B] as specified in Section 00.
+
+Use one consistent invisible 16×16 base-cell lattice across the entire artwork.
+
+The finished artwork must be:
+
+CRISP  
+CLEAN  
+INTENTIONAL  
+GRID-PURE  
+RECOGNIZABLE  
+MEANINGFUL  
+PROFESSIONAL  
+PREMIUM  
+COMMERCIAL  
+AUTHENTICALLY PIXEL ART
+
+ABSOLUTE FINAL RULE
+
+ONE ARTWORK.  
+ONE GRID.  
+ONE PIXEL UNIT.  
+16×16 ONLY.
+
+ZERO SUB-CELL DETAILS.  
+ZERO MIXED SCALES.  
+ZERO ANTI-ALIASING.  
+ZERO MEANINGLESS NOISE.
+
+MODE B ONLY
+
+ONE EXACT, UNIQUE, MARKETPLACE-OPTIMIZED BACKGROUND COLOR.  
+BACKGROUND SELECTED AFTER ANALYZING THE COMPLETE DESIGN PALETTE.  
+ZERO BACKGROUND-COLOR USAGE INSIDE THE DESIGN.  
+ZERO COLOR COLLISION.  
+ZERO BLEND.  
+ZERO SOFT EDGE.  
+ZERO GLOW TOUCHING BACKGROUND.
+
+DESIGN QUALITY
+
+CLEAR SUBJECT.  
+STRONG SILHOUETTE.  
+MEANINGFUL DETAILS.  
+INTENTIONAL COMPOSITION.  
+PURPOSEFUL COLOR.  
+PURPOSEFUL LIGHTING.  
+10/10 PIXEL ARCHITECTURE.
+
+WHEN IN DOUBT: SIMPLIFY, DO NOT SHRINK THE PIXEL.

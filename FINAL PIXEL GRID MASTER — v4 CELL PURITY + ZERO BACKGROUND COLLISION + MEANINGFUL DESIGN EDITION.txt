@@ -3,7 +3,7 @@ CELL PURITY + ZERO BACKGROUND COLLISION + MEANINGFUL DESIGN EDITION
 
 Create a premium, professional pixel-art illustration of:
 
-[A set of six distinct, minimalist pixel-art style clusters arranged in a horizontal row against a solid, pitch-black background. Each cluster is composed of small, precise square pixels forming charming, magical iconography, including four-pointed sparkles, blooming flower shapes, simple hearts, and small, scattered dots to suggest stardust or shimmer. The color palette is vibrant and varied, featuring individual clusters rendered in neon yellow, soft pastel purple, clean white, energetic teal, muted magenta, and lavender, with each color remaining monochromatic within its specific cluster. The composition is clean, centered, and graphic, reminiscent of retro 8-bit video game interface elements, UI icons, or digital stickers, exuding a whimsical, enchanting, and nostalgic aesthetic with crisp edges and a clean, low-resolution blocky look.]
+[DESIGN NAME]
 
 The artwork must be genuine, handcrafted-looking pixel art built on one completely uniform, invisible 16 × 16 base-cell lattice.
 
@@ -13,7 +13,7 @@ The design must prioritize meaningful visual structure, strong recognition, clea
 
 00 — FILL THIS IN BEFORE GENERATING
 
-[A set of six distinct, minimalist pixel-art style clusters arranged in a horizontal row against a solid, pitch-black background. Each cluster is composed of small, precise square pixels forming charming, magical iconography, including four-pointed sparkles, blooming flower shapes, simple hearts, and small, scattered dots to suggest stardust or shimmer. The color palette is vibrant and varied, featuring individual clusters rendered in neon yellow, soft pastel purple, clean white, energetic teal, muted magenta, and lavender, with each color remaining monochromatic within its specific cluster. The composition is clean, centered, and graphic, reminiscent of retro 8-bit video game interface elements, UI icons, or digital stickers, exuding a whimsical, enchanting, and nostalgic aesthetic with crisp edges and a clean, low-resolution blocky look.]: what you want drawn
+[DESIGN NAME]: what you want drawn
 
 [MODE]: A (full-scene) or B (isolated asset / sprite / asset sheet)
 
@@ -796,7 +796,7 @@ Do not add:
 
 Only add supporting elements when they meaningfully improve the requested design concept.
 
-The design must remain faithful to [A set of six distinct, minimalist pixel-art style clusters arranged in a horizontal row against a solid, pitch-black background. Each cluster is composed of small, precise square pixels forming charming, magical iconography, including four-pointed sparkles, blooming flower shapes, simple hearts, and small, scattered dots to suggest stardust or shimmer. The color palette is vibrant and varied, featuring individual clusters rendered in neon yellow, soft pastel purple, clean white, energetic teal, muted magenta, and lavender, with each color remaining monochromatic within its specific cluster. The composition is clean, centered, and graphic, reminiscent of retro 8-bit video game interface elements, UI icons, or digital stickers, exuding a whimsical, enchanting, and nostalgic aesthetic with crisp edges and a clean, low-resolution blocky look.].
+The design must remain faithful to [DESIGN NAME].
 
 23 — STRUCTURAL VALIDATION — RUN BEFORE FINALIZING
 
@@ -906,7 +906,7 @@ SIMPLIFY THE DESIGN.
 
 Generate ONE polished, cohesive, professional pixel-art illustration of:
 
-[A set of six distinct, minimalist pixel-art style clusters arranged in a horizontal row against a solid, pitch-black background. Each cluster is composed of small, precise square pixels forming charming, magical iconography, including four-pointed sparkles, blooming flower shapes, simple hearts, and small, scattered dots to suggest stardust or shimmer. The color palette is vibrant and varied, featuring individual clusters rendered in neon yellow, soft pastel purple, clean white, energetic teal, muted magenta, and lavender, with each color remaining monochromatic within its specific cluster. The composition is clean, centered, and graphic, reminiscent of retro 8-bit video game interface elements, UI icons, or digital stickers, exuding a whimsical, enchanting, and nostalgic aesthetic with crisp edges and a clean, low-resolution blocky look.]
+[DESIGN NAME]
 
 using MODE [A/B] as specified in Section 00.
 

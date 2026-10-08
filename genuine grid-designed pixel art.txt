@@ -1,0 +1,892 @@
+Create ONE premium, professionally designed pixel-art illustration of:
+
+[DESIGN NAME]
+
+REFERENCE STYLE:
+Use the supplied reference image ONLY as a visual-style reference.
+Do NOT copy its subject, composition, object, pose, or exact design.
+Extract and reproduce its pixel-art construction language:
+
+- Crisp square pixel blocks
+- Clearly visible discrete pixel units
+- Strong geometric pixel clusters
+- Hard-edged shapes
+- Deliberate stepped diagonals and curves
+- Clean, simplified silhouettes
+- High readability at small size
+- Carefully controlled negative space
+- Minimal but meaningful details
+- Strong visual contrast
+- Consistent pixel scale
+- Handcrafted game-pixel aesthetic
+- No smooth digital illustration appearance
+- No photographic appearance
+- No vector-like smoothness
+- No random pixel noise
+
+The reference defines the PIXEL LANGUAGE, not the CONTENT.
+
+==================================================
+01 — DESIGN INTERPRETATION
+==================================================
+
+First understand [DESIGN NAME] completely.
+
+Determine:
+
+1. What is the main subject?
+2. What makes the subject immediately recognizable?
+3. Which silhouette features are essential?
+4. Which structural details are important?
+5. Which details can be simplified?
+6. What should be the focal point?
+7. What supporting elements are genuinely necessary?
+8. What negative space improves readability?
+
+Do NOT blindly maximize detail.
+
+Prioritize:
+
+RECOGNITION
+→ SILHOUETTE
+→ STRUCTURE
+→ COMPOSITION
+→ FORM
+→ LIGHTING
+→ MATERIAL
+→ DETAIL
+
+The design must remain recognizable even if tertiary details are removed.
+
+==================================================
+02 — MODE SELECTION
+==================================================
+
+Choose the correct mode automatically.
+
+MODE A — FULL SCENE
+
+Use when the environment itself is part of the artwork.
+
+Examples:
+- landscape
+- environment
+- room
+- city
+- forest
+- architecture
+- full illustrated scene
+- wallpaper
+
+The artwork may extend naturally to every canvas edge.
+
+MODE B — ISOLATED ASSET
+
+Use when the subject should be independently usable.
+
+Examples:
+- object
+- animal
+- character
+- icon
+- plant
+- prop
+- sprite
+- decorative element
+- asset sheet
+
+For MODE B:
+
+The background must be:
+
+ONE
+FLAT
+UNIFORM
+OPAQUE
+EDGE-TO-EDGE
+EXACT COLOR
+
+No gradient.
+No texture.
+No vignette.
+No transparency.
+No atmosphere.
+No background objects.
+
+==================================================
+03 — ABSOLUTE PIXEL ARCHITECTURE
+==================================================
+
+THE ENTIRE ARTWORK MUST USE ONE SINGLE 16×16 BASE CELL.
+
+The 16×16 cell is the smallest possible visual unit.
+
+ONE LOGICAL PIXEL = ONE COMPLETE 16×16 CELL.
+
+Every visible design element must be constructed from complete cells or connected groups of complete cells.
+
+This applies to:
+
+- outlines
+- silhouettes
+- diagonals
+- curves
+- highlights
+- shadows
+- reflections
+- texture
+- windows
+- leaves
+- petals
+- eyes
+- facial features
+- architectural elements
+- rocks
+- clouds
+- water
+- environmental details
+
+NEVER subdivide a 16×16 cell.
+
+NEVER create a smaller pixel.
+
+NEVER introduce a second pixel scale.
+
+NEVER use micro-pixels.
+
+NEVER use sub-pixel geometry.
+
+NEVER use fractional geometry.
+
+The entire image must appear as though it was designed from the beginning on one invisible 16×16 lattice.
+
+==================================================
+04 — REFERENCE PIXEL SCALE LOCK
+==================================================
+
+The pixel size must remain visually consistent across the entire artwork.
+
+Foreground:
+16×16 cells
+
+Middle ground:
+16×16 cells
+
+Background:
+16×16 cells
+
+Distant objects:
+16×16 cells
+
+Fine details:
+16×16 cells
+
+Nothing may become smaller than one complete cell.
+
+Create apparent detail through:
+
+- arrangement
+- clustering
+- spacing
+- silhouette design
+- color grouping
+- overlapping cells
+- object scale
+- composition
+
+NOT through smaller pixels.
+
+==================================================
+05 — AUTHENTIC PIXEL CONSTRUCTION
+==================================================
+
+The artwork must look like it was manually designed pixel-by-pixel.
+
+It must NOT look like:
+
+- a smooth illustration converted into pixels
+- a photograph with pixelation
+- vector artwork with square edges
+- AI artwork with pixel texture
+- a digital painting with a pixel filter
+
+Every shape must be intentionally constructed from discrete cells.
+
+Avoid random jagged edges.
+
+Every staircase must look designed.
+
+Every diagonal must have intentional rhythm.
+
+Every curve must use controlled stepped geometry.
+
+Use patterns such as:
+
+1-cell step
+1-cell step
+2-cell step
+2-cell step
+
+or other intentional staircase structures.
+
+Never smooth the staircase with smaller pixels.
+
+==================================================
+06 — HARD EDGE SYSTEM
+==================================================
+
+ALL EDGES MUST BE:
+
+CRISP
+HARD
+OPAQUE
+GRID-ALIGNED
+DISCRETE
+INTENTIONAL
+
+Forbidden:
+
+- anti-aliasing
+- blur
+- feathering
+- soft edges
+- interpolation
+- sub-pixel rendering
+- semi-transparent pixels
+- opacity gradients
+- smooth vector curves
+- glow spill
+- color bleeding
+- edge smoothing
+
+Every boundary must transition directly:
+
+DESIGN CELL → DESIGN CELL
+
+or
+
+DESIGN CELL → BACKGROUND
+
+Never:
+
+DESIGN → SOFT EDGE → BACKGROUND
+
+==================================================
+07 — PIXEL CLUSTER DESIGN
+==================================================
+
+Do not scatter individual cells randomly.
+
+Build meaningful clusters.
+
+Every cluster must communicate something:
+
+- form
+- depth
+- lighting
+- material
+- silhouette
+- perspective
+- texture
+- structure
+- storytelling
+
+Prefer:
+
+FEWER STRONG CLUSTERS
+over
+MANY WEAK CLUSTERS.
+
+Avoid:
+
+- checkerboard noise
+- random isolated pixels
+- procedural noise
+- meaningless decoration
+- repetitive patterns
+- unnecessary texture
+
+Every occupied cell must have a reason to exist.
+
+==================================================
+08 — SILHOUETTE FIRST
+==================================================
+
+Before adding internal detail:
+
+1. Construct the main silhouette.
+2. Check recognition.
+3. Establish the major proportions.
+4. Establish the focal area.
+5. Add structural forms.
+6. Add controlled internal details.
+
+The silhouette must remain readable without tertiary details.
+
+The subject must be recognizable at thumbnail size.
+
+Do not allow decorative details to destroy the main silhouette.
+
+==================================================
+09 — DETAIL HIERARCHY
+==================================================
+
+Use three detail levels.
+
+PRIMARY:
+Main subject
+Main silhouette
+Defining features
+
+SECONDARY:
+Structural features
+Important materials
+Lighting
+Supporting forms
+
+TERTIARY:
+Small meaningful accents
+
+Tertiary details must never overpower primary forms.
+
+If a detail cannot be represented using complete 16×16 cells:
+
+SIMPLIFY IT
+OR
+MERGE IT
+OR
+REMOVE IT.
+
+Never shrink the pixel.
+
+==================================================
+10 — PIXEL SHAPE LANGUAGE
+==================================================
+
+Use deliberate geometric pixel clusters.
+
+For organic forms:
+
+- controlled stepped curves
+- compact clusters
+- intentional asymmetry where appropriate
+- simplified recognizable contours
+
+For geometric forms:
+
+- aligned blocks
+- clean rectangular structures
+- consistent spacing
+- strong proportional relationships
+
+For diagonal forms:
+
+- intentional staircase rhythm
+
+For curves:
+
+- stepped arcs made from complete cells
+
+For thin structures:
+
+- redesign them as thicker pixel structures rather than creating smaller pixels.
+
+==================================================
+11 — COLOR SYSTEM
+==================================================
+
+Use a controlled pixel-art palette.
+
+Do NOT use continuous gradients.
+
+Use discrete color regions.
+
+Each color should have a purpose:
+
+BASE COLOR
+→ MAIN FORM
+
+SHADOW COLOR
+→ DEPTH
+
+HIGHLIGHT COLOR
+→ LIGHT
+
+ACCENT COLOR
+→ FOCAL EMPHASIS
+
+Colors should form intentional clusters.
+
+Avoid:
+
+- photographic color variation
+- random color noise
+- excessive palette size
+- muddy transitions
+- unnecessary colors
+
+Color changes must happen in discrete cell-based regions.
+
+==================================================
+12 — LIGHTING
+==================================================
+
+Use one coherent lighting direction when lighting is relevant.
+
+Lighting must be represented through complete cells.
+
+Highlights should describe form.
+
+Shadows should describe:
+
+- depth
+- volume
+- material
+- separation
+- lighting direction
+
+Never use:
+
+- smooth gradients
+- airbrushed lighting
+- soft glow
+- photographic shading
+
+For magical or luminous elements:
+
+use discrete concentric pixel clusters:
+
+CORE
+→ MID
+→ OPTIONAL OUTER ACCENT
+
+Every layer must remain fully opaque and grid-aligned.
+
+==================================================
+13 — MATERIAL LANGUAGE
+==================================================
+
+Represent different materials through different cell arrangements.
+
+WOOD:
+Directional rectangular clusters.
+
+STONE:
+Irregular stepped clusters.
+
+METAL:
+Strong contrasting blocks and controlled highlights.
+
+WATER:
+Horizontal or perspective-aligned clusters.
+
+LEAVES:
+Organic grouped silhouettes.
+
+CLOUDS:
+Large stepped masses.
+
+GROUND:
+Controlled irregular clusters.
+
+GLASS:
+Simple transparent-looking color blocks without actual transparency.
+
+FABRIC:
+Directional simplified clusters.
+
+Do not use photographic texture.
+
+==================================================
+14 — DEPTH
+==================================================
+
+Create depth without changing pixel size.
+
+Use:
+
+- overlap
+- object scale
+- perspective
+- color separation
+- tonal separation
+- foreground framing
+- negative space
+- cell density
+- silhouette layering
+
+The pixel size NEVER changes.
+
+Near object:
+16×16 cells
+
+Far object:
+16×16 cells
+
+Only the number and arrangement of cells may change.
+
+==================================================
+15 — COMPOSITION
+==================================================
+
+Before rendering details, establish:
+
+MAIN SUBJECT
+FOCAL POINT
+PRIMARY SILHOUETTE
+SUPPORTING FORMS
+NEGATIVE SPACE
+COLOR HIERARCHY
+DEPTH
+VISUAL FLOW
+
+Use balanced visual weight.
+
+Do not fill empty areas simply because they are empty.
+
+Empty space may be intentional.
+
+Every major object must contribute to the design.
+
+Avoid clutter.
+
+==================================================
+16 — MODE B BACKGROUND ISOLATION
+==================================================
+
+For isolated assets, select the background AFTER establishing the design palette.
+
+The background must:
+
+- use exactly one color
+- be completely flat
+- extend edge-to-edge
+- remain uniform
+- provide strong contrast
+- never appear inside the design
+- never be used as an outline
+- never be used as a shadow
+- never be used as a highlight
+- never be used as texture
+- never be used as reflection
+- never be used as an effect
+
+BACKGROUND COLOR USAGE INSIDE SUBJECT:
+
+0%
+
+The exact background color must exist ONLY in the background.
+
+==================================================
+17 — BACKGROUND COLOR COLLISION TEST
+==================================================
+
+Before finalizing:
+
+1. Establish the complete design palette.
+2. Identify dominant colors.
+3. Check brightness.
+4. Check hue similarity.
+5. Check saturation.
+6. Select a background.
+7. Verify subject/background separation.
+8. Reject the background if important details merge with it.
+9. Select another candidate.
+10. Lock the final background.
+
+The background must never visually merge with the subject.
+
+==================================================
+18 — ZERO EDGE CONTAMINATION
+==================================================
+
+At the subject boundary:
+
+BACKGROUND
+→ HARD PIXEL EDGE
+→ DESIGN
+
+Never:
+
+BACKGROUND
+→ FADE
+→ GLOW
+→ SHADOW
+→ DESIGN
+
+Forbidden:
+
+- halo
+- glow spill
+- semi-transparent edge
+- feathering
+- anti-aliasing
+- color contamination
+- soft shadow touching background
+
+==================================================
+19 — NEGATIVE SPACE
+==================================================
+
+Negative space must be intentional.
+
+Use empty areas to:
+
+- improve recognition
+- separate forms
+- emphasize the focal point
+- improve readability
+- create visual breathing room
+
+Do not fill negative space with random cells.
+
+==================================================
+20 — NO INVENTED CONTENT
+==================================================
+
+Do not add:
+
+- text
+- letters
+- numbers
+- logos
+- watermark
+- border
+- random symbols
+- extra characters
+- random objects
+- unnecessary scenery
+- unrelated effects
+
+Only add supporting elements when they meaningfully improve the requested concept.
+
+Remain faithful to:
+
+[DESIGN NAME]
+
+==================================================
+21 — COMMERCIAL QUALITY
+==================================================
+
+The final design should have:
+
+- immediate recognition
+- strong thumbnail readability
+- professional composition
+- clean silhouette
+- purposeful color
+- controlled detail
+- attractive visual hierarchy
+- clean negative space
+- strong pixel identity
+- polished game-art quality
+- commercially useful presentation
+
+The artwork should feel intentionally designed rather than randomly generated.
+
+==================================================
+22 — PIXEL ECONOMY
+==================================================
+
+Every cell must earn its place.
+
+Prefer:
+
+FEWER
++
+STRONGER
++
+MEANINGFUL
+
+CELLS
+
+over
+
+MANY
++
+RANDOM
++
+WEAK
+
+CELLS.
+
+If complexity reduces recognition:
+
+SIMPLIFY.
+
+If detail conflicts with the grid:
+
+SIMPLIFY.
+
+If realism conflicts with pixel architecture:
+
+PIXEL ARCHITECTURE WINS.
+
+==================================================
+23 — ABSOLUTE FORBIDDEN ELEMENTS
+==================================================
+
+DO NOT USE:
+
+micro-pixels
+sub-pixels
+half-pixels
+quarter-pixels
+fractional pixels
+mixed pixel sizes
+mixed grids
+anti-aliasing
+blur
+feathering
+soft edges
+smooth gradients
+photographic texture
+procedural noise
+random pixel scatter
+vector-smooth curves
+sub-pixel rendering
+interpolation
+color bleeding
+semi-transparent cells
+uncontrolled glow
+soft shadows
+unnecessary details
+
+==================================================
+24 — FINAL VISUAL CHECK
+==================================================
+
+Before final output, verify:
+
+[ ] Main subject is immediately recognizable.
+[ ] Silhouette is strong.
+[ ] Reference pixel language is preserved.
+[ ] Every fundamental unit is exactly 16×16.
+[ ] No smaller pixel exists.
+[ ] No mixed pixel scale exists.
+[ ] No sub-cell detail exists.
+[ ] All edges are hard and crisp.
+[ ] All diagonals are intentional staircases.
+[ ] All curves are intentional staircases.
+[ ] Highlights use complete cells.
+[ ] Shadows use complete cells.
+[ ] Depth does not use smaller pixels.
+[ ] Colors form meaningful clusters.
+[ ] No random pixel noise exists.
+[ ] Negative space is intentional.
+[ ] Composition is balanced.
+[ ] Detail does not overpower recognition.
+[ ] No unrequested elements exist.
+
+MODE B:
+
+[ ] Background is exactly ONE flat color.
+[ ] Background reaches every canvas edge.
+[ ] Background has zero design-color collision.
+[ ] Background color appears nowhere inside the subject.
+[ ] No gradient exists.
+[ ] No texture exists.
+[ ] No transparency exists.
+[ ] No glow touches the background.
+[ ] No anti-aliased edge exists.
+[ ] Subject is cleanly isolated.
+[ ] Subject is easily croppable.
+
+==================================================
+25 — FINAL PRIORITY ORDER
+==================================================
+
+PRIORITY 1
+Authentic pixel-art construction
+
+PRIORITY 2
+Absolute 16×16 grid integrity
+
+PRIORITY 3
+Zero sub-cell geometry
+
+PRIORITY 4
+Zero mixed pixel scales
+
+PRIORITY 5
+Clean hard silhouettes
+
+PRIORITY 6
+Immediate subject recognition
+
+PRIORITY 7
+Strong composition
+
+PRIORITY 8
+Meaningful color
+
+PRIORITY 9
+Purposeful lighting
+
+PRIORITY 10
+Meaningful details
+
+PRIORITY 11
+Commercial polish
+
+If ANY detail conflicts with the grid:
+
+THE GRID WINS.
+
+If ANY detail conflicts with recognition:
+
+SIMPLIFY.
+
+If ANY detail requires a smaller pixel:
+
+REMOVE OR REDESIGN IT.
+
+If realism conflicts with pixel architecture:
+
+PIXEL ARCHITECTURE WINS.
+
+==================================================
+FINAL COMMAND
+==================================================
+
+Generate ONE cohesive, premium, authentic pixel-art illustration of:
+
+[DESIGN NAME]
+
+Use the supplied reference image only to guide the pixel-art visual language.
+
+Do not copy the reference subject.
+
+Construct the artwork from the beginning using one invisible,
+uniform 16×16 cell lattice.
+
+ONE ARTWORK.
+ONE GRID.
+ONE PIXEL UNIT.
+
+16×16 ONLY.
+
+ZERO SUB-CELL DETAILS.
+ZERO MIXED SCALES.
+ZERO ANTI-ALIASING.
+ZERO BLUR.
+ZERO RANDOM NOISE.
+ZERO MEANINGLESS DETAIL.
+
+CLEAR SUBJECT.
+STRONG SILHOUETTE.
+MEANINGFUL CLUSTERS.
+INTENTIONAL COMPOSITION.
+CONTROLLED PALETTE.
+CRISP HARD EDGES.
+AUTHENTIC PIXEL ART.
+PREMIUM COMMERCIAL QUALITY.
+
+WHEN IN DOUBT:
+
+SIMPLIFY.
+MERGE.
+REPOSITION.
+ENLARGE.
+
+NEVER SHRINK THE PIXEL.

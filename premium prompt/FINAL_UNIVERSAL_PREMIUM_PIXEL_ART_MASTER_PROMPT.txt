@@ -1,0 +1,88 @@
+# ==============================================================================
+# 🎮 UNIVERSAL CHUNKY PIXEL ART MASTER PROMPT ENGINE (BIG PIXEL EDITION)
+# ==============================================================================
+# Designed for: Midjourney (v6/v7), Flux.1, SDXL, DALL-E 3, Ideogram, Imagen
+# Focus: BOLD, VISIBLE, CHUNKY SQUARE PIXEL BLOCKS (NO TINY/MICRO PIXELS)
+# Purpose: Generate genuine retro pixel art where every viewer IMMEDIATELY sees
+#          thick, clear, unmistakable square pixel blocks even from 10 feet away!
+# ==============================================================================
+
+### [KEY CHANGE IN THIS VERSION]:
+# Fixed the "pixels are too small" issue by enforcing:
+# 1. Low virtual grid resolution (64×64 to 96×96) scaled up 16x nearest-neighbor.
+# 2. "Chunky fat square blocks" rule — every pixel is prominent and easy to see.
+# 3. Complete ban on micro-pixels, fine pixel grain, and subpixel details.
+# ==============================================================================
+
+
+==============================================================================
+MODE A: FULL UNIVERSAL MASTER DIRECTIVE (BEST FOR DALL-E 3 & DETAILED GENERATORS)
+==============================================================================
+
+Create an authentic, handcrafted retro chunky pixel-art masterpiece of:
+
+[DESIGN NAME]
+
+PRIMARY MANDATE — BOLD, PROMINENT, CHUNKY PIXEL VISIBILITY:
+This image must feature PROMINENT, THICK, CHUNKY SQUARE PIXEL BLOCKS. The pixel grid must be immediately obvious and easily readable at any distance. Absolutely DO NOT generate tiny microscopic pixel dots, high-density grids, or subtle textures that look like a normal illustration. It must feel like classic early 16-bit / 8-bit golden-era video game graphics (Game Boy, early SNES, Sega Genesis, PC-98) scaled up with crisp nearest-neighbor integer scaling.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+01. BOLD CHUNKY PIXEL SCALE & LOW-RES GRID LOCK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• VIRTUAL LOW-RES CANVAS: Built on a strict low-resolution canvas of 64×64 to maximum 96×96 grid, then scaled up cleanly so that each pixel appears as a large, thick, unmistakable square tile.
+• THICK SQUARE PIXELS ONLY: No micro-pixels. No sub-pixels. No fine-grain dots. If a detail (like an eye, finger, or leaf) cannot be drawn with thick chunky square blocks, simplify it into a bold 2×2 or 3×3 pixel cluster.
+• STRICT SINGLE-SCALE LOCK: The pixel block size must remain 100% identical and uniform across the entire image—from the foreground subject to the background clouds and mountains.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+02. DELIBERATE CLUSTERS & HARD STEPPED STAIRCASING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• CONFIDENT SOLID CLUSTERS: Every shape is built using solid chunks of flat-colored square blocks. Avoid scattered 1-pixel "salt-and-pepper" noise.
+• BOLD MATHEMATICAL STAIRCASING: All curves and diagonal edges are stepped like blocky staircases (repeating 1-1, 2-2, or 2-1 block patterns).
+• 1-PIXEL THICK DARK STEPPED OUTLINES: Define key subjects, architecture, and forms with bold, dark, blocky pixel outlines that make the design pop instantly.
+• 100% RAZOR-SHARP EDGES: Zero anti-aliasing. Zero soft feathered pixels. Every square block has crisp 90-degree corners.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+03. LIMITED INDEXED PALETTE & STEPPED CELL SHADING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• TIGHT 8 TO 16 COLOR PALETTE: Curated, cohesive retro color harmony. Avoid hundreds of realistic blending tones.
+• HARD STEPPED CELL LIGHTING:
+  - Exactly 3 to 4 flat tonal steps per surface: [Crisp Highlight → Base Midtone → Deep Shadow].
+  - Transitions occur strictly along square block boundaries.
+  - ZERO smooth gradients, airbrushing, glow bleeding, or soft gaussian blur.
+• RETRO 50% CHECKERBOARD DITHERING: For sky or sand transitions, use visible classic 50/50 alternating checkerboard pixel dithering.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04. MEANINGFUL COMPOSITION & READABILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• ICONIC SILHOUETTE: [DESIGN NAME] must have a bold, readable silhouette that is instantly recognizable at a glance.
+• CLEAN VISUAL HIERARCHY: Clear distinction between foreground, midground hero subject, and background.
+• CLEAN FINISH: Pure pixel art only. No text, no watermark, no digital noise, no mockup device borders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+05. NEGATIVE PROMPT / ANTI-MICRO-PIXEL GUARDRAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[STRICTLY AVOID]: tiny pixels, microscopic pixels, fine pixel grain, high resolution pixel art, 32-bit fine detail, smooth digital painting, vector illustration, 3D CGI render, anti-aliased edges, blurred edges, soft gradients, gaussian blur, photorealism, depth-of-field bokeh, noise, watermarks.
+
+
+==============================================================================
+MODE B: HIGH-WEIGHT CHUNKY PROMPT (OPTIMIZED FOR MIDJOURNEY / FLUX / SDXL)
+*Use this for bold, easily recognizable, chunky pixels in Midjourney & Flux*
+==============================================================================
+
+Masterpiece retro chunky pixel art of [DESIGN NAME], authentic vintage 16-bit video game aesthetic, built on a low-resolution 64x64 grid with large prominent square pixel blocks. Bold chunky pixel scale, thick visible square pixels, stepped staircased contours, 1-pixel dark stepped outlines, limited 12-color retro indexed palette, flat stepped cell shading, authentic 50% checkerboard dithering, zero anti-aliasing, razor-sharp 90-degree square edges, zero blur, completely flat focus --no tiny pixels, fine pixels, micro-pixels, high-resolution pixel art, smooth gradients, blur, vector curves, 3d render, photorealism, text, watermarks
+
+
+==============================================================================
+MODE C: ISOLATED CHUNKY ASSET / STICKER / ICON (ADOBE STOCK ASSET)
+*For single objects, characters, or props with bold, chunky pixels*
+==============================================================================
+
+Clean isolated chunky retro pixel art game sprite of [DESIGN NAME], centered, authentic 16-bit arcade asset, low-res 64x64 grid with bold prominent square pixel blocks, thick stepped dark outlines, vibrant 16-color indexed palette, flat cell shading, zero anti-aliasing, perfectly isolated on a solid seamless white background, high readability even at tiny thumbnail preview --no tiny pixels, micro-pixels, blur, smooth gradients, 3d render, vector, background clutter
+
+
+==============================================================================
+MODE D: FULL SCENIC RETRO PIXEL LANDSCAPE (LIKE THE REFERENCE WATERFALL RUINS)
+*For complete landscapes/scenes with thick, chunky pixels and dithering*
+==============================================================================
+
+Breathtaking 16-bit retro chunky pixel art landscape scene of [DESIGN NAME], authentic 1990s Japanese PC-98 adventure game aesthetic, low-resolution 320x180 virtual canvas with thick chunky square pixel blocks. Meaningful architectural composition, 3-tier layered parallax depth, limited 8-color warm desert sepia and amber palette, stepped cell shading, authentic 50% checkerboard dithering in sky transitions, bold stepped pixel outlines, razor-sharp integer pixel clarity throughout --no tiny pixels, fine pixels, micro-pixels, blur, depth of field bokeh, photorealism, vector smoothing, anti-aliasing, gradient shading, 3D render

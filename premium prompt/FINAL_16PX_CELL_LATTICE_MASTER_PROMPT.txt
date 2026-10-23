@@ -1,0 +1,105 @@
+# ==============================================================================
+# 👑 FINAL 16px CELL LATTICE MASTER PROMPT — 10/10 ABSOLUTE CELL PURITY
+# ==============================================================================
+# SPECIALIZED FOR: 16px Cell Architecture, Adobe Stock & SVG Vector Conversion
+# COMPATIBLE WITH: Midjourney (v6/v7), Flux.1, SDXL, DALL-E 3, Ideogram, Imagen
+# ==============================================================================
+# 🎯 CORE PHILOSOPHY:
+# Every visible geometric element is constructed from an immutable 16×16 base-cell
+# lattice. The 16×16 cell is the ABSOLUTE SMALLEST, INDIVISIBLE ATOMIC UNIT.
+# One 16px cell = Exactly ONE flat, opaque color with 100% hard 90-degree edges.
+# ==============================================================================
+
+
+==============================================================================
+MODE 1: FULL 16px UNIVERSAL DIRECTIVE (BEST FOR DALL-E 3 & DETAILED ENGINES)
+==============================================================================
+
+Create an authentic, professional, commercial-grade 16-bit retro pixel-art artwork of:
+
+[DESIGN NAME]
+
+PRIMARY MANDATE — ABSOLUTE 16×16 CELL LATTICE PURITY:
+This artwork must be constructed on ONE single, uniform, global 16×16 base-cell coordinate grid. The 16×16 cell is the absolute atomic building block of the entire image. At first glance and upon 400% zoom, the artwork must be unmistakably recognized as genuine handcrafted retro pixel art. It must never appear as a downscaled illustration, never a smooth painting, and never a vector design with a pixel filter.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+01. THE 16×16 GLOBAL LATTICE LOCK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• SINGLE GLOBAL ORIGIN: The entire canvas is locked to one invisible, rigid 16×16 square lattice. All elements—foreground subjects, background mountains, sky, water, silhouettes, outlines, shadows, and highlights—align to the EXACT SAME 16×16 coordinate grid.
+• PROHIBITION OF SECONDARY GRIDS: No object may create its own local grid. No half-cell shifts (no 8px offsets). No sub-pixel rendering.
+• VALID COMPOSITE UNITS: Shapes can only be formed by integer multiples of 16px cells:
+  [16×16 | 32×16 | 16×32 | 32×32 | 48×32 | 64×64 cells].
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+02. ATOMIC CELL PURITY (ONE CELL = ONE FLAT COLOR)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• STRICT CELL UNIFORMITY: Every 16×16 cell must contain strictly ONE uniform, solid, flat color throughout its entire square area.
+• ZERO INTRA-CELL GRADIENTS: Never allow two colors, a gradient, airbrush shading, or texture noise inside a single 16×16 cell.
+• REUSE EXACT PALETTE VALUES: When a color appears in multiple cells, every one of those cells must use the exact same flat color value. No random brightness jitter between cells.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+03. CELL-BOUNDARY EDGE HYGIENE & ZERO ANTI-ALIASING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• ZERO ANTI-ALIASING: 100% hard, razor-sharp 90-degree square corners on every single cell.
+• NO COLOR BLEED / FEATHERING: The transition from one cell to an adjacent cell must be instantaneous and abrupt. Zero soft blended edge pixels, zero alpha fringe.
+• STEPPED CELL CONTOURS: All diagonals and curved silhouettes must be represented through deliberate stepped 16px cell staircases (e.g., sequences of 1×1, 2×1, or 2×2 whole cells).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04. SIMPLIFICATION OVER SUBDIVISION (NO MICRO-PIXELS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• INDIVISIBLE CELLS: Never subdivide a 16×16 cell to squeeze in small details.
+• IF A DETAIL IS SMALLER THAN ONE CELL:
+  - Do NOT draw it with smaller pixels.
+  - SIMPLIFY it into a complete 16×16 cell, or
+  - MERGE it cleanly into the neighboring color mass, or
+  - REMOVE it entirely to preserve pixel purity.
+• Visual depth is achieved through cell grouping, tonal contrast, and silhouette hierarchy—NEVER through smaller pixels.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+05. INDEXED COLOR PALETTE & CELL SHADING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• STRICT LIMITED PALETTE: Curated 8 to 16 indexed colors max. High visual harmony and commercial appeal.
+• HARD STEPPED CELL LIGHTING:
+  - Highlights and shadows occupy discrete complete 16×16 cells.
+  - 3 to 4 distinct tonal steps per surface: [Base Midtone → Shadow Cell → Highlight Cell].
+• AUTHENTIC 16px CHECKERBOARD DITHERING:
+  - If a gradual tonal transition is required (e.g. in the sky, sand, or shadows), use alternating full 16×16 cells in a classic 50/50 checkerboard dither pattern.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+06. NEGATIVE PROMPT / ANTI-REJECTION GUARDRAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[STRICTLY AVOID]: micro-pixels, tiny pixel dots, subpixel rendering, cell subdivision, anti-aliased edges, blurry cell borders, color bleeding between cells, soft gradients, gaussian blur, painterly brushstrokes, 3D CGI render, vector smoothness, photorealism, noise, text, watermarks.
+
+
+==============================================================================
+MODE 2: ONE-SHOT HIGH-WEIGHT PROMPT (OPTIMIZED FOR MIDJOURNEY / FLUX / SDXL)
+*Fast, high-potency prompt enforcing the 16px cell lattice immediately*
+==============================================================================
+
+Masterpiece 16-bit retro pixel art of [DESIGN NAME], authentic handcrafted video game aesthetic, built strictly on a rigid uniform 16x16 base-cell lattice where one cell is the smallest indivisible unit. Bold chunky 16px square pixel blocks, atomic cell purity with one solid flat color per cell, stepped staircased contours, 1-cell thick dark outlines, limited 12-color retro indexed palette, flat stepped cell shading, authentic 16px checkerboard dithering, zero anti-aliasing, razor-sharp 90-degree square corners, zero blur, completely flat focus --no micro-pixels, tiny pixels, sub-pixels, anti-aliased edges, smooth gradients, blur, vector curves, 3d render, photorealism, text, watermarks
+
+
+==============================================================================
+MODE 3: ADOBE STOCK ISOLATED 16px HERO ASSET (SVG / VECTOR CONVERSION READY)
+*Engineered for 1-click background removal and clean SVG vector tracing*
+==============================================================================
+
+Commercial retro 16-bit pixel art asset of [DESIGN NAME], centered, built on an immutable uniform 16x16 base-cell grid with thick prominent square blocks. Atomic cell purity where each 16px block contains exactly one flat color, bold stepped dark outlines, vibrant 16-color indexed palette, flat cell shading, zero anti-aliasing, zero edge blur, isolated on a solid seamless white background (#FFFFFF), clean commercial microstock asset ready for 1:1 SVG vector rectangle conversion --no background clutter, micro-pixels, tiny dots, blur, smooth gradients, 3d render, vector smoothing
+
+
+==============================================================================
+MODE 4: FULL RETRO SCENIC 16px ENVIRONMENT (LIKE THE WATERFALL RUINS)
+*For complete scenic illustrations with 16px cell architecture & depth*
+==============================================================================
+
+Panoramic 16-bit retro pixel art landscape scene depicting [DESIGN NAME], authentic 90s Japanese PC-98 adventure game aesthetic. Entire composition strictly locked to a single uniform 16x16 cell lattice with prominent chunky square blocks throughout. Layered 3-tier parallax depth, limited 8-color warm desert sepia / sunset palette, atomic cell purity with zero gradients inside cells, authentic 16px checkerboard dithering in sky transitions, razor-sharp integer pixel clarity, master-grade commercial retro illustration --no micro-pixels, tiny pixels, blur, depth of field bokeh, photorealism, vector smoothing, anti-aliased edges, 3D render
+
+
+==============================================================================
+🔍 16px CELL PURITY VERIFICATION CHECKLIST (BEFORE ADOBE STOCK UPLOAD):
+==============================================================================
+1. ATOMIC UNIT TEST: Is the 16px square block the absolute smallest mark in the image? (Ensure no tiny 2px or 4px dots slipped into the eyes, leaves, or textures).
+2. CELL FLATNESS TEST: Sample any 16px cell with the Eyedropper tool. Is the entire cell 100% one single solid HEX color?
+3. EDGE SNAP TEST: Zoom to 400%. Do the edges between different colors snap cleanly on the 16px boundary with 0% blur or anti-aliasing?
+4. PALETTE COUNT: Does the entire artwork strictly use 8 to 16 harmonious, repeatable colors?
+5. VECTOR COMPATIBILITY: If converting to SVG via Pixel Studio or VTracer, will each cell convert into a clean 1:1 vector rectangle with zero wasted anchor points?
